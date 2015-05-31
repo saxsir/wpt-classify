@@ -4,7 +4,7 @@ var gulp = require('gulp'),
   source = require('vinyl-source-stream');
 
 gulp.task('default', function() {
-  return gulp.watch(['src/*.js', 'gulpfile.js'], ['jshint']);
+  return gulp.watch(['./src/*.js', './gulpfile.js'], ['jshint']);
 });
 
 gulp.task('jshint', function() {
@@ -20,5 +20,5 @@ gulp.task('build', function() {
     })
     .bundle()
     .pipe(source('app.js'))
-    .pipe(gulp.dest('./build'))
+    .pipe(gulp.dest('./dest'))
 });

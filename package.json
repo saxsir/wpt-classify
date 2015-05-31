@@ -1,0 +1,9 @@
+{
+  "name": "wpt-classify",
+  "author": "saxsir",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.11.0",
+  }
+}

@@ -1,0 +1,27 @@
+{
+    // オプションは下記を参照
+    // http://jshint.com/docs/options/#predef
+
+    /**
+     * Enforcing options
+     * When set to true, these options will make JSHint produce more warnings about your code.
+     */
+    "camelcase": true,  // 変数は camelCase か UPPER_CASEで統一
+    "eqeqeq":true,      /// 宣言のみで使用していない変数を検出
+
+    /**
+     * Relaxing options
+     * When set to true, these options will make JSHint produce fewer warnings about your code.
+     */
+
+    /**
+     * Environments
+     * These options let JSHint know about some pre-defined global variables.
+     */
+    "browser": true,    // window, document, localStorage 等を許可
+    "devel": true,      // console、alertを許可
+    "jquery": true,     // $ が定義されてないよってエラー出さなくてOK
+
+    // ここに書いてある変数は定義済みだから, 定義されてないよってエラー出さなくてOK
+    "predef": []
+}

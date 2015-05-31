@@ -17,7 +17,8 @@ var utils = require('./utils');
 
   while(size > Tsize) {
     console.log('size:', size);    // debug
-    var B = [];
+    var B = utils.divideDOM(document.body, size);
+    console.log(B);    // debug
     preT = preT.concat([]);
     size = size * 0.9;
   }

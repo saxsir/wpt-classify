@@ -3,7 +3,9 @@
   "author": "saxsir",
   "license": "MIT",
   "devDependencies": {
+    "browserify": "^10.2.3",
     "gulp": "^3.8.11",
     "gulp-jshint": "^1.11.0",
+    "vinyl-source-stream": "^1.1.0"
   }
 }

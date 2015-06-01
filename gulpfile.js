@@ -1,10 +1,12 @@
 var gulp = require('gulp'),
   jshint = require('gulp-jshint'),
   browserify = require('browserify'),
-  source = require('vinyl-source-stream');
+  source = require('vinyl-source-stream'),
+  buffer = require('vinyl-buffer'),
+  uglify = require('gulp-uglify');
 
 gulp.task('default', function() {
-  return gulp.watch(['src/*.js', 'gulpfile.js'], ['jshint']);
+  return gulp.watch(['./src/*.js', './gulpfile.js'], ['jshint']);
 });
 
 gulp.task('jshint', function() {
@@ -20,5 +22,7 @@ gulp.task('build', function() {
     })
     .bundle()
     .pipe(source('app.js'))
-    .pipe(gulp.dest('./build'))
+    .pipe(buffer())
+    .pipe(uglify())
+    .pipe(gulp.dest('./dest'))
 });

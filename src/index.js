@@ -29,5 +29,6 @@ var utils = require('./utils');
   }
 
   var T = Math.max.apply(null, preT);
+  window.T = T;    // for phantomjs
   return console.log(T);
 }());

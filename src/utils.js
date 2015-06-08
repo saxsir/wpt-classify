@@ -69,6 +69,11 @@
     return true;
   };
 
+  // overflow:hiddenで隠れたノードか判定する
+  Utils.prototype.unlessHiddenNode = function(node) {
+    return true;
+  };
+
   // DOM Treeを与えられたサイズで分割し、ブロックの配列を返す
   Utils.prototype.divideDOM = function(tree, size) {
     var self = this,
@@ -78,7 +83,7 @@
     // ノードの面積が与えられたサイズ以下だったら分割終了
     function divideRecursive(node) {
       // 非有効ノードの子要素に有効ノードがある場合もあるかもしれないのでこの処理でOK
-      if (self.isEnableNode(node) && self.getRenderingSize(node) <= size) {
+      if (self.isEnableNode(node) && self.unlessHiddenNode(node) && self.getRenderingSize(node) <= size) {
         return blocks.push(node);
       }
 

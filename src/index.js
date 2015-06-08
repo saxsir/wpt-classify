@@ -14,7 +14,7 @@ var utils = require('./utils');
   // とりあえず保留
   // utils.getPageBounds();
 
-  var Tsize = 500 * 500;    // 横幅は1280を4分割, 高さは一般的な文字サイズ
+  var Tsize = 960;    // 12px(標準か、それ以下くらいの文字サイズ) * 80(6, 7文字)
 
   var size = utils.getRenderingSize(document.body),
     preT = [];

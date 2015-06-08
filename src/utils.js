@@ -29,7 +29,7 @@
     // 1階層下のノードだけ見て、ページサイズを判断する
     var bodyChildren = document.body.children;
     for (var i = 0; i < bodyChildren.length; i++) {
-      var bounds = bodyChildren[i].getBoundingClientRect()
+      var bounds = bodyChildren[i].getBoundingClientRect();
       self.pageLeft = Math.max(self.pageLeft, bounds.left);
       self.pageRight = Math.min(self.pageRight, bounds.right);
       self.pageWidth = Math.min(self.pageWidth, bounds.width);
@@ -44,6 +44,62 @@
     return size;
   };
 
+  // nodeが有効ノードかどうか判定する
+  Utils.prototype.isEnableNode = function(node) {
+    if (node.tagName.toLowerCase() === 'script') {
+      return false;
+    }
+
+    var style = getComputedStyle(node);
+    if (style.display === 'none' || style.visibility === 'hidden' || style.opacity === '0') {
+      return false;
+    }
+
+    var bounds = node.getBoundingClientRect();
+    if (bounds.width <= 1 && bounds.height <= 1) {
+      return false;
+    }
+    if (bounds.right <= 0 && bounds.bottom <= 0) {
+      return false;
+    }
+    if (bounds.left >= self.pageRight && bounds.top >= self.pageBottom) {
+      return false;
+    }
+
+    return true;
+  };
+
+  // overflow:hiddenで隠れたノードか判定する
+  Utils.prototype.unlessHiddenNode = function(node) {
+    var childBounds = node.getBoundingClientRect(),
+      childTop = childBounds.top,
+      childLeft = childBounds.left,
+      childRight = childBounds.right,
+      childBottom = childBounds.bottom;
+
+    // 親ノードを再帰的に見て、overflow:hiddenがある
+    // かつ、座標がかぶっていたらtrueを返す
+    while (node.parentElement) {
+      node = node.parentNode;
+      var parentStyle = getComputedStyle(node),
+        parentBounds = node.getBoundingClientRect(),
+        parentTop = parentBounds.top,
+        parentLeft = parentBounds.left,
+        parentRight = parentBounds.right,
+        parentBottom = parentBounds.bottom;
+
+      if (parentStyle.overflow === 'hidden' &&
+        parentLeft <= childRight &&
+        childLeft <= parentRight &&
+        parentTop <= childBottom &&
+        childTop <= parentBottom) {
+        return false;
+      }
+    }
+
+    return true;
+  };
+
   // DOM Treeを与えられたサイズで分割し、ブロックの配列を返す
   Utils.prototype.divideDOM = function(tree, size) {
     var self = this,
@@ -52,7 +108,8 @@
     // 深さ優先探索で全てのノードのサイズを確認する
     // ノードの面積が与えられたサイズ以下だったら分割終了
     function divideRecursive(node) {
-      if (self.getRenderingSize(node) <= size) {
+      // 非有効ノードの子要素に有効ノードがある場合もあるかもしれないのでこの処理でOK
+      if (self.isEnableNode(node) && self.unlessHiddenNode(node) && self.getRenderingSize(node) <= size) {
         return blocks.push(node);
       }
 

@@ -71,6 +71,32 @@
 
   // overflow:hiddenで隠れたノードか判定する
   Utils.prototype.unlessHiddenNode = function(node) {
+    var childBounds = node.getBoundingClientRect(),
+      childTop = childBounds.top,
+      childLeft = childBounds.left,
+      childRight = childBounds.right,
+      childBottom = childBounds.bottom;
+
+    // 親ノードを再帰的に見て、overflow:hiddenがある
+    // かつ、座標がかぶっていたらtrueを返す
+    while (node.parentElement) {
+      node = node.parentNode;
+      var parentStyle = getComputedStyle(node),
+        parentBounds = node.getBoundingClientRect(),
+        parentTop = parentBounds.top,
+        parentLeft = parentBounds.left,
+        parentRight = parentBounds.right,
+        parentBottom = parentBounds.bottom;
+
+      if (parentStyle.overflow === 'hidden' &&
+        parentLeft <= childRight &&
+        childLeft <= parentRight &&
+        parentTop <= childBottom &&
+        childTop <= parentBottom) {
+        return false;
+      }
+    }
+
     return true;
   };
 

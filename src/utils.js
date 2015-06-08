@@ -29,7 +29,7 @@
     // 1階層下のノードだけ見て、ページサイズを判断する
     var bodyChildren = document.body.children;
     for (var i = 0; i < bodyChildren.length; i++) {
-      var bounds = bodyChildren[i].getBoundingClientRect()
+      var bounds = bodyChildren[i].getBoundingClientRect();
       self.pageLeft = Math.max(self.pageLeft, bounds.left);
       self.pageRight = Math.min(self.pageRight, bounds.right);
       self.pageWidth = Math.min(self.pageWidth, bounds.width);

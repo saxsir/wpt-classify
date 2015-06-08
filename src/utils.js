@@ -44,6 +44,11 @@
     return size;
   };
 
+  // nodeが有効ノードかどうか判定する
+  Utils.prototype.isEnableNode = function(node) {
+    return true;
+  };
+
   // DOM Treeを与えられたサイズで分割し、ブロックの配列を返す
   Utils.prototype.divideDOM = function(tree, size) {
     var self = this,
@@ -52,7 +57,8 @@
     // 深さ優先探索で全てのノードのサイズを確認する
     // ノードの面積が与えられたサイズ以下だったら分割終了
     function divideRecursive(node) {
-      if (self.getRenderingSize(node) <= size) {
+      // 非有効ノードの子要素に有効ノードがある場合もあるかもしれないのでこの処理でOK
+      if (self.isEnableNode(node) && self.getRenderingSize(node) <= size) {
         return blocks.push(node);
       }
 

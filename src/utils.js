@@ -46,6 +46,26 @@
 
   // nodeが有効ノードかどうか判定する
   Utils.prototype.isEnableNode = function(node) {
+    if (node.tagName.toLowerCase() === 'script') {
+      return false;
+    }
+
+    var style = getComputedStyle(node);
+    if (style.display === 'none' || style.visibility === 'hidden' || style.opacity === '0') {
+      return false;
+    }
+
+    var bounds = node.getBoundingClientRect();
+    if (bounds.width <= 1 && bounds.height <= 1) {
+      return false;
+    }
+    if (bounds.right <= 0 && bounds.bottom <= 0) {
+      return false;
+    }
+    if (bounds.left >= self.pageRight && bounds.top >= self.pageBottom) {
+      return false;
+    }
+
     return true;
   };
 

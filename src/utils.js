@@ -41,10 +41,10 @@
 
     var bounds = node.getBoundingClientRect(),
       self = this;
-    if (bounds.width <= 1 && bounds.height <= 1) {
+    if (bounds.width <= 1 || bounds.height <= 1) {
       return false;
     }
-    if (bounds.right <= 0 && bounds.bottom <= 0) {
+    if (bounds.right <= 0 || bounds.bottom <= 0) {
       return false;
     }
     if (bounds.left >= self.pageRight || bounds.top >= self.pageBottom) {

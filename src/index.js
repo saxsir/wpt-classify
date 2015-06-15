@@ -10,10 +10,6 @@ var utils = require('./utils');
 (function() {
   'use strict';
 
-  // あらかじめページのwidth, heightを取得しておく
-  // とりあえず保留
-  // utils.getPageBounds();
-
   var Tsize = 960;    // 12px(標準か、それ以下くらいの文字サイズ) * 80(6, 7文字)
 
   var size = utils.getRenderingSize(document.body),

@@ -14,27 +14,11 @@
     this.pageTop = bounds.top;
     this.pageBottom = bounds.bottom;
     this.pageHeight = bounds.height;
-
-    // 後から更新されるかも
+    //TODO: ページの左端, 右端の定義を考える（左右がマージンの場合どうするかっていう話）
     this.pageLeft = bounds.left;
     this.pageRight = bounds.right;
     this.pageWidth = bounds.width;
   }
-
-  // ページの情報を取得する
-  Utils.prototype.getPageBounds = function() {
-    var self = this;
-
-    //TODO: うーむ...精度低そう
-    // 1階層下のノードだけ見て、ページサイズを判断する
-    var bodyChildren = document.body.children;
-    for (var i = 0; i < bodyChildren.length; i++) {
-      var bounds = bodyChildren[i].getBoundingClientRect();
-      self.pageLeft = Math.max(self.pageLeft, bounds.left);
-      self.pageRight = Math.min(self.pageRight, bounds.right);
-      self.pageWidth = Math.min(self.pageWidth, bounds.width);
-    }
-  };
 
   // nodeがレンダリングされた時の面積(px)を返す
   Utils.prototype.getRenderingSize = function(node) {
@@ -55,14 +39,15 @@
       return false;
     }
 
-    var bounds = node.getBoundingClientRect();
+    var bounds = node.getBoundingClientRect(),
+      self = this;
     if (bounds.width <= 1 && bounds.height <= 1) {
       return false;
     }
     if (bounds.right <= 0 && bounds.bottom <= 0) {
       return false;
     }
-    if (bounds.left >= self.pageRight && bounds.top >= self.pageBottom) {
+    if (bounds.left >= self.pageRight || bounds.top >= self.pageBottom) {
       return false;
     }
 
@@ -78,7 +63,7 @@
       childBottom = childBounds.bottom;
 
     // 親ノードを再帰的に見て、overflow:hiddenがある
-    // かつ、座標がかぶっていたらtrueを返す
+    // かつ、座標がかぶっていたらfalseを返す
     while (node.parentElement) {
       node = node.parentNode;
       var parentStyle = getComputedStyle(node),

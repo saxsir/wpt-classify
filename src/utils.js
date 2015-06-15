@@ -39,14 +39,15 @@
       return false;
     }
 
-    var bounds = node.getBoundingClientRect();
+    var bounds = node.getBoundingClientRect(),
+      self = this;
     if (bounds.width <= 1 && bounds.height <= 1) {
       return false;
     }
     if (bounds.right <= 0 && bounds.bottom <= 0) {
       return false;
     }
-    if (bounds.left >= self.pageRight && bounds.top >= self.pageBottom) {
+    if (bounds.left >= self.pageRight || bounds.top >= self.pageBottom) {
       return false;
     }
 
@@ -62,7 +63,7 @@
       childBottom = childBounds.bottom;
 
     // 親ノードを再帰的に見て、overflow:hiddenがある
-    // かつ、座標がかぶっていたらtrueを返す
+    // かつ、座標がかぶっていたらfalseを返す
     while (node.parentElement) {
       node = node.parentNode;
       var parentStyle = getComputedStyle(node),

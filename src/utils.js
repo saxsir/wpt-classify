@@ -370,5 +370,52 @@
     return topEdges.length > 0 ? topEdges.sort().shift() : -1;
   };
 
+  // 最小ブロックに分割する分割メソッド
+  Utils.prototype.divideDOMToMinimumBlocks = function(tree) {
+    var self = this,
+      blocks = [];
+
+    function divideRecursive(node) {
+      //TODO: もし最小ブロックだったら追加する
+      // if (self.isMinimumBlock(node)) {
+      //   return blocks.push(node);
+      // }
+      for (var i = 0; i < node.children.length; i++) {
+        divideRecursive(node.children[i]);
+      }
+    }
+
+    divideRecursive(tree);
+
+    return blocks;
+  };
+
+  // 最小ブロックかどうか判定する
+  Utils.prototype.isMinimumBlock = function(node) {
+
+    // 有効ノード判定（表示されているノードかどうか）
+    // if (self.isEnableNode(node) === false) {
+    //   return false;
+    // }
+
+    // ブロックレベル要素 かつ 子要素にブロックレベル要素がなければ最小ブロック
+    // インライン要素 かつ 兄弟ノードに最小ブロックがあれば最小ブロック
+
+    // if (self.isBlockNode(node)) {
+    //   if (self.hasBlockChildren(node)) {
+    //     return false;
+    //   }
+    //   return true;
+    // } else {
+    //   if (self.hasMinimumBlockSibling(node)) {
+    //     return true;
+    //   }
+    //   return false;
+    // }
+
+    // それ以外は最小ブロックではない
+    return false;    // unreacheable
+  };
+
   module.exports = new Utils();
 }());

@@ -47,14 +47,18 @@
     if (bounds.right <= 0 || bounds.bottom <= 0) {
       return false;
     }
+    //TODO: ページの左端、右端の定義を変えたので修正必要
     if (bounds.left >= self.pageRight || bounds.top >= self.pageBottom) {
       return false;
     }
+
+    //TODO: overflow:hiddenで隠れてたらfalse
 
     return true;
   };
 
   // overflow:hiddenで隠れたノードか判定する
+  // TODO: unlessじゃなくて、isHiddenNodeに変える
   Utils.prototype.unlessHiddenNode = function(node) {
     var childBounds = node.getBoundingClientRect(),
       childTop = childBounds.top,

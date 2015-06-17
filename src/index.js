@@ -16,8 +16,10 @@
   var B = segmentater.divideDOMToMinimumBlocks(document.body);
   console.log('B:', B);    // debug
 
-  var T = classifier.matchingTemplate(B);
-  console.log('T:', T);    // debug
+  // var T = classifier.matchingTemplate(B);
+  // console.log('T:', T);    // debug
 
-  window.T = T;    // for phantomjs
+  // window.T = T;    // for phantomjs
+
+  window.segmentater = segmentater;
 }());

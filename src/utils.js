@@ -112,11 +112,34 @@
     return blocks;
   };
 
+  // あとで再利用する可能性があるので残しておく
+  // 分割後のブロックを見てページの左端、右端を更新する
+  // Utils.prototype.updatePageBounds = function(blocks) {
+  //   var self = this;
+  //
+  //   var leftEdges = blocks.map(function(block) {
+  //     return block.getBoundingClientRect().left;
+  //   });
+  //
+  //   var rightEdges = blocks.map(function(block) {
+  //     return block.getBoundingClientRect().right;
+  //   });
+  //
+  //   self.pageLeft = Math.min.apply(null, leftEdges);
+  //   self.pageRight = Math.max.apply(null, rightEdges);
+  //
+  //   return null;
+  // };
+
   // 分割されたブロックを基に、T1~8のどのテンプレートに適合するか判断して
   // 整数値を返す（当てはまらなさそうだったら-1）
   Utils.prototype.MatchingTemplates = function(blocks) {
-    var self = this,
-      Vl = self.getVl(blocks),
+    var self = this;
+
+    //TODO: ここで画面の左端、右端を全ブロック中の左端と右端に更新する
+    // self.updatePageBounds(blocks);
+
+    var Vl = self.getVl(blocks),
       Vr = self.getVr(blocks),
       Vh = self.getVh(blocks, Vl.top, Vr.top),
       Vc = self.getVc(blocks, Vl.right, Vr.left, Vh.bottom),

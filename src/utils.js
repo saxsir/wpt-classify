@@ -47,19 +47,20 @@
     if (bounds.right <= 0 || bounds.bottom <= 0) {
       return false;
     }
-    //TODO: ページの左端、右端の定義を変えたので修正必要
-    if (bounds.left >= self.pageRight || bounds.top >= self.pageBottom) {
+    var bodyBounds = document.body.getBoundingClientRect();
+    if (bounds.left >= bodyBounds.right || bounds.top >= bodyBounds.bottom) {
       return false;
     }
 
-    //TODO: overflow:hiddenで隠れてたらfalse
+    if (self.isHiddenNode(node)) {
+      return false;
+    }
 
     return true;
   };
 
   // overflow:hiddenで隠れたノードか判定する
-  // TODO: unlessじゃなくて、isHiddenNodeに変える
-  Utils.prototype.unlessHiddenNode = function(node) {
+  Utils.prototype.isHiddenNode = function(node) {
     var childBounds = node.getBoundingClientRect(),
       childTop = childBounds.top,
       childLeft = childBounds.left,
@@ -82,11 +83,11 @@
         childLeft <= parentRight &&
         parentTop <= childBottom &&
         childTop <= parentBottom) {
-        return false;
+        return true;
       }
     }
 
-    return true;
+    return false;
   };
 
   // DOM Treeを与えられたサイズで分割し、ブロックの配列を返す
@@ -98,7 +99,7 @@
     // ノードの面積が与えられたサイズ以下だったら分割終了
     function divideRecursive(node) {
       // 非有効ノードの子要素に有効ノードがある場合もあるかもしれないのでこの処理でOK
-      if (self.isEnableNode(node) && self.unlessHiddenNode(node) && self.getRenderingSize(node) <= size) {
+      if (self.isEnableNode(node) && self.getRenderingSize(node) <= size) {
         return blocks.push(node);
       }
 
@@ -394,7 +395,7 @@
   Utils.prototype.isMinimumBlock = function(node) {
 
     // 有効ノード判定（表示されているノードかどうか）
-    // if (self.isEnableNode(node) === false) {
+    // if (self.isEnableNode(node) !== true) {
     //   return false;
     // }
 

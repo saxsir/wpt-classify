@@ -440,5 +440,20 @@
     return false;
   };
 
+  // 兄弟ノードに最小ブロックがいるか判定する関数
+  Utils.prototype.hasMinimumBlockSiblings = function(node) {
+    var self = this,
+      siblings = node.parentNode.children;
+    for (var i = 0; i < siblings.length; i++) {
+      var sibling = siblings[i];
+      if (node !== sibling && self.isMinimumBlock(node)) {
+        return true;
+      }
+    }
+
+    return false;
+  };
+
   module.exports = new Utils();
+
 }());

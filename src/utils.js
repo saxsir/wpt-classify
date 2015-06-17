@@ -415,7 +415,29 @@
     // }
 
     // それ以外は最小ブロックではない
-    return false;    // unreacheable
+    return false; // unreacheable
+  };
+
+  Utils.prototype.isBlockNode = function(node) {
+    var style = getComputedStyle(node);
+    switch (style.display) {
+      case 'block':
+      case 'inline-block':
+        return true;
+      case 'inline':
+        return false;
+      default:
+        break;
+    }
+
+    var blockElements = [
+      'p', 'blockquote', 'pre', 'div', 'noscript', 'hr', 'address', 'fieldset', 'legend', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'ul', 'ol', 'li', 'dl', 'dt', 'dd', 'table', 'caption', 'thead', 'tbody', 'colgroup', 'col', 'tr', 'th', 'td', 'embed', 'section', 'article', 'nav', 'aside', 'header', 'footer', 'address'
+    ];
+    if (blockElements.indexOf(node.tagName.toLowerCase()) !== -1) {
+      return true;
+    }
+
+    return false;
   };
 
   module.exports = new Utils();

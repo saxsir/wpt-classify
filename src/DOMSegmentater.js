@@ -14,6 +14,12 @@
     this.pageHeight = bounds.height;
   }
 
+  /**
+   * 最小ブロックに分割する
+   *
+   * @method divideDOMToMinimumBlocks
+   * @return {Array} Returns 最小ブロックの集合
+   */
   DOMSegmentater.prototype.divideDOMToMinimumBlocks = function() {
     var blocks = [];
 
@@ -29,6 +35,71 @@
     divideWithDFS(document.body);
 
     return blocks;
+  };
+
+  /**
+   * 最小ブロックのレイアウトデータを計算して返す
+   *
+   * @method getLayoutData
+   * @param {Array} blocks 最小ブロックの集合
+   * @return {Array} Returns 最小ブロックのレイアウト情報の集合
+   */
+  DOMSegmentater.prototype.getLayoutData = function(blocks) {
+    var layoutData = [];
+    for (var i = 0; i < blocks.length; i++) {
+      layoutData.push(getNodeLayoutData(blocks[i]));
+    }
+    return layoutData;
+  };
+
+  /**
+   * 分割結果を確認するために分割後の状態にページを書き換える
+   *
+   * @method rewriteDOM
+   * @param {Object} bodyLayoutData document.bodyのレイアウト情報
+   * @param {Array} nodesLayoutData 分割後のブロックのレイアウト情報の集合
+   * @return {Array} Returns 最小ブロックのレイアウト情報の集合
+   */
+  DOMSegmentater.prototype.rewriteDOM = function(bodyLayoutData, nodesLayoutData) {
+    var head = document.getElementsByTagName('head')[0],
+      body = document.getElementsByTagName('body')[0];
+
+    var i;
+    for (i = head.children.length - 1; i >= 0; i--) {
+      head.removeChild(head.children[i]);
+    }
+    for (i = body.children.length - 1; i >= 0; i--) {
+      body.removeChild(body.children[i]);
+    }
+
+    // bodyのレイアウトデータを反映
+    var style = '';
+    style += 'width:' + bodyLayoutData.width + 'px;';
+    style += 'height:' + bodyLayoutData.height + 'px;';
+    style += 'list-style:none;';
+    style += 'color:rgb(' + bodyLayoutData.red + ',' + bodyLayoutData.green + ',' + bodyLayoutData.blue + ');';
+    style += 'font-size:' + bodyLayoutData.fontSize + 'px;';
+    style += 'font-weight:' + bodyLayoutData.fontWeight + ';';
+    body.setAttribute('style', style);
+
+    // bodyに子要素を追加
+    for (i = 0; i < nodesLayoutData.length; i++) {
+      var n = nodesLayoutData[i],
+        element = document.createElement('div');
+      style = '';
+      style += 'position:absolute;';
+      style += 'top:' + n.top + 'px;';
+      style += 'left:' + n.left + 'px;';
+      style += 'width:' + n.width + 'px;';
+      style += 'height:' + n.height + 'px;';
+      style += 'color:rgb(' + n.color.red + ',' + n.color.green + ',' + n.color.blue + ');';
+      style += 'font-size:' + n.fontSize + 'px;';
+      style += 'font-weight:' + n.fontWeight + ';';
+      style += 'border:1px solid black;';
+
+      element.setAttribute('style', style);
+      body.appendChild(element);
+    }
   };
 
   // for debug
@@ -233,6 +304,40 @@
     }
 
     return false;
+  }
+
+  /**
+   * ノードのレイアウト情報を返す
+   *
+   * @method getNodeLayoutData
+   * @param {Object} node A Node of DOM
+   * @return {Object} Returns nodeのレイアウト情報
+   */
+  function getNodeLayoutData(node) {
+    var style = getComputedStyle(node),
+      color = style.color.split(','),
+      bounds = node.getBoundingClientRect();
+
+    var tagName = node.tagName.toLowerCase(),
+      fontSize = style.fontSize,
+      text = node.innerHTML.replace(/<[^>]*?>/g, ''),
+      width = bounds.width,
+      height = bounds.height;
+
+    return {
+      color: {
+        r: color[0].replace(/\D/g, ''),
+        g: color[1].replace(/\D/g, ''),
+        b: color[2].replace(/\D/g, '')
+      },
+      width: bounds.width,
+      height: bounds.height,
+      top: bounds.top,
+      left: bounds.left,
+      fontSize: style.fontSize,
+      fontWeight: style.fontWeight,
+      innerHTML: text,
+    };
   }
 
   module.exports = DOMSegmentater;

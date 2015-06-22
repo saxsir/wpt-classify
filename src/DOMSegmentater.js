@@ -229,6 +229,7 @@
    * @return {Boolean} Returns true if node have enable nodes at least one.
    */
   function hasEnableChild(node) {
+    //FIXME: 自分自身が有効ノードだったらtrueが返ってしまっている...
     if (isEnableNode(node)) {
       return true;
     }

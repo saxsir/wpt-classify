@@ -361,5 +361,9 @@
   DOMSegmentater.prototype.isBlockNode = isBlockNode;
   DOMSegmentater.prototype.hasMinimumBlockSiblings = hasMinimumBlockSiblings;
 
-  module.exports = DOMSegmentater;
+  if (typeof module !== 'undefined' && module.exports) { // Node.js の場合
+    module.exports = DOMSegmentater;
+  } else { // ブラウザの場合
+    window.DOMSegmentater = DOMSegmentater;
+  }
 }());

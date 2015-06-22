@@ -5,13 +5,17 @@
   'use strict';
 
   function DOMSegmentater() {
-    var bounds = document.body.getBoundingClientRect();
-    this.pageTop = bounds.top;
+    var body = document.body,
+      bounds = document.body.getBoundingClientRect();
+    this.pageTop = 0;
     this.pageLeft = bounds.left;
-    this.pageRight = bounds.right;
-    this.pageBottom = bounds.bottom;
     this.pageWidth = bounds.width;
-    this.pageHeight = bounds.height;
+    this.pageRight = bounds.right;
+
+    // bodyの高さがない場合があるのでhtmlの高さを取得
+    var html = document.documentElement,
+    this.pageHeight = Math.max(html.offsetHeight,  html.scrollHeight, html.clientHeight);
+    this.pageBottom = this.pageHeight;
   }
 
   /**
@@ -170,8 +174,12 @@
     if (bounds.right <= 0 || bounds.bottom <= 0) {
       return false;
     }
-    var bodyBounds = document.body.getBoundingClientRect();
-    if (bounds.left >= bodyBounds.right || bounds.top >= bodyBounds.bottom) {
+
+    var bodyBounds = document.body.getBoundingClientRect(),
+      html = document.documentElement,
+      height = Math.max(html.offsetHeight,  html.scrollHeight, html.clientHeight);
+    if (bounds.left >= bodyBounds.right || bounds.top >= height) {
+      console.log('Rule e-3-3');
       return false;
     }
 

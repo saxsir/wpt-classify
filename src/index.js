@@ -1,30 +1,32 @@
 /**
  * Webページのデザイン（レイアウト）が、予め決めたどのテンプレートにマッチするか調べるスクリプト
- * 先行研究におけるClassificationStep
+ * 先行研究におけるClassificationStep -> から改良中
  *
  * refs. http://ci.nii.ac.jp/naid/110006951108
  *
  */
-var utils = require('./utils');
-
 (function() {
   'use strict';
 
-  var Tsize = 960;    // 12px(標準か、それ以下くらいの文字サイズ) * 80(6, 7文字)
+  var DOMSegmentater = require('./DOMSegmentater'),
+    TemplateClassifier = require('./TemplateClassifier'),
+    segmentater = new DOMSegmentater(),
+    classifier = new TemplateClassifier(),
+    utils = require('./utils');
 
-  var size = utils.getRenderingSize(document.body),
-    preT = [];
+  var B = segmentater.divideDOMToMinimumBlocks(document.body);
+  console.log('B:', B);    // debug
 
-  while(size > Tsize) {
-    console.log('size:', size);    // debug
-    var B = utils.divideDOM(document.body, size);
-    console.log('B:', B);    // debug
-    preT = preT.concat(utils.MatchingTemplates(B));
-    console.log('preT:', preT);    // debug
-    size = size * 0.9;
-  }
+  // テンプレート判定はあとで
+  // var T = classifier.matchingTemplate(B);
+  // console.log('T:', T);    // debug
 
-  var T = Math.max.apply(null, preT);
-  window.T = T;    // for phantomjs
-  return console.log(T);
+  // 分割結果を確認する
+  var bodyLayoutData = segmentater.getLayoutData([document.body])[0];
+  var nodeLayoutData = segmentater.getLayoutData(B);
+  segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
+
+  // window.T = T;    // for phantomjs
+
+  window.segmentater = segmentater;
 }());

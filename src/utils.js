@@ -47,7 +47,12 @@
     if (bounds.right <= 0 || bounds.bottom <= 0) {
       return false;
     }
-    if (bounds.left >= self.pageRight || bounds.top >= self.pageBottom) {
+    var bodyBounds = document.body.getBoundingClientRect();
+    if (bounds.left >= bodyBounds.right || bounds.top >= bodyBounds.bottom) {
+      return false;
+    }
+
+    if (self.isHiddenNode(node)) {
       return false;
     }
 
@@ -55,7 +60,7 @@
   };
 
   // overflow:hiddenで隠れたノードか判定する
-  Utils.prototype.unlessHiddenNode = function(node) {
+  Utils.prototype.isHiddenNode = function(node) {
     var childBounds = node.getBoundingClientRect(),
       childTop = childBounds.top,
       childLeft = childBounds.left,
@@ -78,11 +83,11 @@
         childLeft <= parentRight &&
         parentTop <= childBottom &&
         childTop <= parentBottom) {
-        return false;
+        return true;
       }
     }
 
-    return true;
+    return false;
   };
 
   // DOM Treeを与えられたサイズで分割し、ブロックの配列を返す
@@ -94,7 +99,7 @@
     // ノードの面積が与えられたサイズ以下だったら分割終了
     function divideRecursive(node) {
       // 非有効ノードの子要素に有効ノードがある場合もあるかもしれないのでこの処理でOK
-      if (self.isEnableNode(node) && self.unlessHiddenNode(node) && self.getRenderingSize(node) <= size) {
+      if (self.isEnableNode(node) && self.getRenderingSize(node) <= size) {
         return blocks.push(node);
       }
 
@@ -107,23 +112,24 @@
     return blocks;
   };
 
+  // あとで再利用する可能性があるので残しておく
   // 分割後のブロックを見てページの左端、右端を更新する
-  Utils.prototype.updatePageBounds = function(blocks) {
-    var self = this;
-
-    var leftEdges = blocks.map(function(block) {
-      return block.getBoundingClientRect().left;
-    });
-
-    var rightEdges = blocks.map(function(block) {
-      return block.getBoundingClientRect().right;
-    });
-
-    self.pageLeft = Math.min.apply(null, leftEdges);
-    self.pageRight = Math.max.apply(null, rightEdges);
-
-    return null;
-  };
+  // Utils.prototype.updatePageBounds = function(blocks) {
+  //   var self = this;
+  //
+  //   var leftEdges = blocks.map(function(block) {
+  //     return block.getBoundingClientRect().left;
+  //   });
+  //
+  //   var rightEdges = blocks.map(function(block) {
+  //     return block.getBoundingClientRect().right;
+  //   });
+  //
+  //   self.pageLeft = Math.min.apply(null, leftEdges);
+  //   self.pageRight = Math.max.apply(null, rightEdges);
+  //
+  //   return null;
+  // };
 
   // 分割されたブロックを基に、T1~8のどのテンプレートに適合するか判断して
   // 整数値を返す（当てはまらなさそうだったら-1）
@@ -131,7 +137,7 @@
     var self = this;
 
     //TODO: ここで画面の左端、右端を全ブロック中の左端と右端に更新する
-    self.updatePageBounds(blocks);
+    // self.updatePageBounds(blocks);
 
     var Vl = self.getVl(blocks),
       Vr = self.getVr(blocks),
@@ -388,5 +394,97 @@
     return topEdges.length > 0 ? topEdges.sort().shift() : -1;
   };
 
+  // 最小ブロックに分割する分割メソッド
+  Utils.prototype.divideDOMToMinimumBlocks = function(tree) {
+    var self = this,
+      blocks = [];
+
+    function divideRecursive(node) {
+      //TODO: もし最小ブロックだったら追加する
+      if (self.isMinimumBlock(node)) {
+        return blocks.push(node);
+      }
+      for (var i = 0; i < node.children.length; i++) {
+        divideRecursive(node.children[i]);
+      }
+    }
+
+    divideRecursive(tree);
+
+    return blocks;
+  };
+
+  // 最小ブロックかどうか判定する
+  Utils.prototype.isMinimumBlock = function(node) {
+    var self = this;
+
+    // 有効ノード判定（表示されているノードかどうか）
+    if (self.isEnableNode(node) !== true) {
+      console.log(node, '[false]非有効ノード');
+      return false;
+    }
+
+    // ブロックレベル要素 かつ 子要素にブロックレベル要素がなければ最小ブロック
+    // インライン要素 かつ 兄弟ノードに最小ブロックがあれば最小ブロック
+    if (self.isBlockNode(node)) {
+      if (node.children.length === 0) {
+        console.log(node, '[true]ブロック要素 かつ 子要素なし');
+        return true;
+      }
+      for (var i = 0; i < node.children.length; i++) {
+        if (self.isBlockNode(node.children[i])) {
+        console.log(node, '[false]ブロック要素 かつ 子要素にブロック要素あり');
+          return false;
+        }
+      }
+      console.log(node, '[true]ブロック要素 かつ 子要素にブロック要素なし');
+      return true;
+    } else if (self.hasMinimumBlockSiblings(node)) {
+      console.log(node, '[true]兄弟ノードに最小ブロックあり');
+      return true;
+    }
+
+    // それ以外は最小ブロックではない
+    console.log(node, '[false] 兄弟ノードにも最小ブロックなし');
+    return false; // unreacheable
+  };
+
+  Utils.prototype.isBlockNode = function(node) {
+    var style = getComputedStyle(node);
+    switch (style.display) {
+      case 'block':
+      case 'inline-block':
+        return true;
+      case 'inline':
+        return false;
+      default:
+        break;
+    }
+
+    var blockElements = [
+      'p', 'blockquote', 'pre', 'div', 'noscript', 'hr', 'address', 'fieldset', 'legend', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'ul', 'ol', 'li', 'dl', 'dt', 'dd', 'table', 'caption', 'thead', 'tbody', 'colgroup', 'col', 'tr', 'th', 'td', 'embed', 'section', 'article', 'nav', 'aside', 'header', 'footer', 'address'
+    ];
+    if (blockElements.indexOf(node.tagName.toLowerCase()) !== -1) {
+      return true;
+    }
+
+    return false;
+  };
+
+  // 兄弟ノードに最小ブロックがいるか判定する関数
+  Utils.prototype.hasMinimumBlockSiblings = function(node) {
+    var self = this,
+      siblings = node.parentNode.children;
+    for (var i = 0; i < siblings.length; i++) {
+      var sibling = siblings[i];
+      if (node !== sibling && self.isMinimumBlock(node)) {
+        return true;
+      }
+    }
+
+    return false;
+  };
+
   module.exports = new Utils();
+
 }());

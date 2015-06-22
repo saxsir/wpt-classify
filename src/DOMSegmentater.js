@@ -102,14 +102,6 @@
     }
   };
 
-  // for debug
-  DOMSegmentater.prototype.isMinimumBlock = isMinimumBlock;
-  DOMSegmentater.prototype.isEnableNode = isEnableNode;
-  DOMSegmentater.prototype.isHiddenNode = isHiddenNode;
-  DOMSegmentater.prototype.hasEnableChild = hasEnableChild;
-  DOMSegmentater.prototype.isBlockNode = isBlockNode;
-  DOMSegmentater.prototype.hasMinimumBlockSiblings = hasMinimumBlockSiblings;
-
   /**
    * 受け取ったノードが最小ブロックか判定する
    *
@@ -339,6 +331,14 @@
       innerHTML: text,
     };
   }
+
+  // for debug
+  DOMSegmentater.prototype.isMinimumBlock = isMinimumBlock;
+  DOMSegmentater.prototype.isEnableNode = isEnableNode;
+  DOMSegmentater.prototype.isHiddenNode = isHiddenNode;
+  DOMSegmentater.prototype.hasEnableChild = hasEnableChild;
+  DOMSegmentater.prototype.isBlockNode = isBlockNode;
+  DOMSegmentater.prototype.hasMinimumBlockSiblings = hasMinimumBlockSiblings;
 
   module.exports = DOMSegmentater;
 }());

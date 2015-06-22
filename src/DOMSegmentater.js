@@ -231,21 +231,29 @@
 
   /**
    * 子要素に有効ノードがあるか判定する
-   * 子要素がなくなる or 有効ノードが見つかるまで再帰的に呼ばれる
+   * 子要素がなくなる or 有効ノードが見つかったら終了
    *
    * @method hasEnableChild
    * @param {Object} node A Node of DOM
    * @return {Boolean} Returns true if node have enable nodes at least one.
    */
-  function hasEnableChild(node) {
-    //FIXME: 自分自身が有効ノードだったらtrueが返ってしまっている...
-    if (isEnableNode(node)) {
-      return true;
+  function hasEnableChild(parentNode) {
+    var queue = [],
+      i = 0;
+
+    for (i = 0; i < parentNode.children.length; i++) {
+      queue.push(parentNode.children[i]);
     }
 
-    for (var i = 0; i < node.children.length; i++) {
-      if (hasEnableChild(node)) {
+    // 幅優先探索
+    while (queue.length > 0) {
+      var node = queue.shift();
+      if (isEnableNode(node)) {
         return true;
+      }
+
+      for (i = 0; i < node.children.length; i++) {
+        queue.push(node.children[i]);
       }
     }
 

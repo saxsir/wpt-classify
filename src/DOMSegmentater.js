@@ -13,7 +13,7 @@
     this.pageRight = bounds.right;
 
     // bodyの高さがない場合があるのでhtmlの高さを取得
-    var html = document.documentElement,
+    var html = document.documentElement;
     this.pageHeight = Math.max(html.offsetHeight,  html.scrollHeight, html.clientHeight);
     this.pageBottom = this.pageHeight;
   }

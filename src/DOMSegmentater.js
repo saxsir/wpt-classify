@@ -198,8 +198,9 @@
    * @param {Object} node A Node of DOM
    * @return {Boolean} Returns true if 隠れノード
    */
-  function isHiddenNode(node) {
-    var childBounds = node.getBoundingClientRect(),
+  function isHiddenNode(_node) {
+    var node = _node,
+      childBounds = node.getBoundingClientRect(),
       childTop = childBounds.top,
       childLeft = childBounds.left,
       childRight = childBounds.right,
@@ -217,10 +218,10 @@
         parentBottom = parentBounds.bottom;
 
       if (parentStyle.overflow === 'hidden' &&
-        childTop < parentTop ||
+        (childTop < parentTop ||
         childLeft < parentLeft ||
         childRight > parentRight ||
-        childBottom > parentBottom) {
+        childBottom > parentBottom)) {
         return true;
       }
     }

@@ -183,7 +183,6 @@
       html = document.documentElement,
       height = Math.max(html.offsetHeight,  html.scrollHeight, html.clientHeight);
     if (bounds.left >= bodyBounds.right || bounds.top >= height) {
-      console.log('Rule e-3-3');
       return false;
     }
 

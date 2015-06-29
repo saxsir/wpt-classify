@@ -15,11 +15,11 @@
     utils = require('./utils');
 
   var B = segmentater.divideDOMToMinimumBlocks(document.body);
-  console.log('B:', B);    // debug
+  // console.log('B:', B);    // debug
 
   // テンプレート判定はあとで
-  // var T = classifier.matchingTemplate(B);
-  // console.log('T:', T);    // debug
+  var T = classifier.matchingTemplate(B);
+  console.log('T:', T); // debug
 
   // 分割結果を確認する
   var bodyLayoutData = segmentater.getLayoutData([document.body])[0];

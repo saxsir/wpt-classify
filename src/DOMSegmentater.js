@@ -4,19 +4,7 @@
 (function() {
   'use strict';
 
-  function DOMSegmentater() {
-    var body = document.body,
-      bounds = document.body.getBoundingClientRect();
-    this.pageTop = 0;
-    this.pageLeft = bounds.left;
-    this.pageWidth = bounds.width;
-    this.pageRight = bounds.right;
-
-    // bodyの高さがない場合があるのでhtmlの高さを取得
-    var html = document.documentElement;
-    this.pageHeight = Math.max(html.offsetHeight,  html.scrollHeight, html.clientHeight);
-    this.pageBottom = this.pageHeight;
-  }
+  function DOMSegmentater() {}
 
   /**
    * 最小ブロックに分割する
@@ -181,7 +169,7 @@
 
     var bodyBounds = document.body.getBoundingClientRect(),
       html = document.documentElement,
-      height = Math.max(html.offsetHeight,  html.scrollHeight, html.clientHeight);
+      height = Math.max(html.offsetHeight, html.scrollHeight, html.clientHeight);
     if (bounds.left >= bodyBounds.right || bounds.top >= height) {
       return false;
     }
@@ -222,9 +210,9 @@
 
       if (parentStyle.overflow === 'hidden' &&
         (childTop < parentTop ||
-        childLeft < parentLeft ||
-        childRight > parentRight ||
-        childBottom > parentBottom)) {
+          childLeft < parentLeft ||
+          childRight > parentRight ||
+          childBottom > parentBottom)) {
         return true;
       }
     }

@@ -7,8 +7,6 @@
   var Section = require('./Section');
 
   function TemplateClassifier() {
-    // DOMSegmentaterと処理が同じなので引数でもらってもいいが
-    // スピード重視でコピペ
     var body = document.body,
       bounds = document.body.getBoundingClientRect();
     this.pageTop = 0;
@@ -24,6 +22,16 @@
 
   TemplateClassifier.prototype.matchingTemplate = function(blocks) {
     var self = this;
+
+    var leftEdges = blocks.map(function(block) {
+      return block.getBoundingClientRect().left;
+    });
+    var rightEdges = blocks.map(function(block) {
+      return block.getBoundingClientRect().right;
+    });
+    self.pageLeft = Math.min.apply(null, leftEdges);
+    self.pageRight = Math.max.apply(null, rightEdges);
+    self.pageWidth = self.pageLeft - self.pageRight;
 
     var Vl = self.getVl(blocks),
       Vr = self.getVr(blocks),
@@ -75,7 +83,7 @@
     var self = this,
       X = 0,
       h = 0,
-      H = 0,
+      H = self.pageHeight, // Hはページの高さでいいと思うので
       topEdges = [],
       bottomEdges = [];
 
@@ -94,7 +102,7 @@
         width = bounds.width;
 
       if (left === pageLeft) {
-        H += height;
+        // H += height;
         if ((right - left) <= pageWidth * 0.5) {
           X += width * height;
           h += height;

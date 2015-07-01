@@ -31,7 +31,9 @@
     });
     self.pageLeft = Math.min.apply(null, leftEdges);
     self.pageRight = Math.max.apply(null, rightEdges);
-    self.pageWidth = self.pageLeft - self.pageRight;
+    self.pageWidth = self.pageRight - self.pageLeft;
+
+    console.log(self.pageTop, self.pageLeft, self.pageRight, self.pageBottom, self.pageWidth, self.pageHeight); // debug
 
     var Vl = self.getVl(blocks),
       Vr = self.getVr(blocks),
@@ -44,6 +46,10 @@
     console.log('Vh:', Vh); // debug
     console.log('Vc:', Vc); // debug
     console.log('Vf:', Vf); // debug
+
+    if (Vh.bottom < 0) {
+      return -1;    // 存在しないレイアウト
+    }
 
     if (Vl.right < 0 && Vr.left < 0) {
       // T1 or T5
@@ -128,7 +134,7 @@
     var self = this,
       X = 0,
       h = 0,
-      H = 0,
+      H = self.pageHeight, // Hはページの高さでいいと思うので
       topEdges = [],
       bottomEdges = [];
 
@@ -147,8 +153,8 @@
         width = bounds.width;
 
       if (right === pageRight) {
-        H += height;
-        if ((right - left) <= pageWidth * 0.5) {
+        // H += height;
+        if (width <= pageWidth * 0.5) {
           X += width * height;
           h += height;
           topEdges.push(top);
@@ -290,7 +296,7 @@
   };
 
   function ASC(a, b) {
-    return a > b;
+    return (parseInt(a) > parseInt(b)) ? 1 : -1;
   }
 
   module.exports = TemplateClassifier;

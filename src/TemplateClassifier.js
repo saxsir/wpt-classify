@@ -117,7 +117,7 @@
       topEdges = topEdges.length > 0 ? topEdges : [-1];
       bottomEdges = bottomEdges.length > 0 ? bottomEdges : [-1];
 
-      return new Section(topEdges.sort().shift(), pageLeft, (X / h), bottomEdges.sort().pop());
+      return new Section(topEdges.sort(ASC).shift(), pageLeft, (X / h), bottomEdges.sort(ASC).pop());
     } else {
       return new Section(-1, -1, -1, -1);
     }
@@ -162,14 +162,14 @@
       topEdges = topEdges.length > 0 ? topEdges : [-1];
       bottomEdges = bottomEdges.length > 0 ? bottomEdges : [-1];
 
-      return new Section(topEdges.sort().shift(), pageRight - (X / h), pageRight, bottomEdges.sort().pop());
+      return new Section(topEdges.sort(ASC).shift(), pageRight - (X / h), pageRight, bottomEdges.sort(ASC).pop());
     } else {
       return new Section(-1, -1, -1, -1);
     }
   };
 
   // Vcのテンプレート情報を返す
-  TemplateClassifier.prototype.getVc = function(blocks, topbar, leftbar, rightbar) {
+  TemplateClassifier.prototype.getVc = function(blocks, rightbar, leftbar, topbar) {
     var self = this,
       bottomEdges = [];
 
@@ -197,7 +197,7 @@
 
     bottomEdges = bottomEdges.length > 0 ? bottomEdges : [-1];
 
-    return new Section(topbar, leftbar, rightbar, bottomEdges.sort().pop());
+    return new Section(topbar, leftbar, rightbar, bottomEdges.sort(ASC).pop());
   };
 
   // Vhのテンプレート情報を返す
@@ -242,7 +242,8 @@
 
   // T1, T5のためのVh特定メソッド
   TemplateClassifier.prototype.getVhBottom = function(blocks) {
-    var bottomEdges = [];
+    var self = this,
+      bottomEdges = [];
 
     // ページの情報
     var pageWidth = self.pageWidth,
@@ -260,7 +261,7 @@
       }
     }
 
-    return bottomEdges.length > 0 ? bottomEdges.sort().pop() : -1;
+    return bottomEdges.length > 0 ? bottomEdges.sort(ASC).pop() : -1;
   };
 
   // T1, T5のためのVf特定メソッド
@@ -285,9 +286,12 @@
       }
     }
 
-    return topEdges.length > 0 ? topEdges.sort().shift() : -1;
+    return topEdges.length > 0 ? topEdges.sort(ASC).shift() : -1;
   };
 
+  function ASC(a, b) {
+    return a > b;
+  }
 
   module.exports = TemplateClassifier;
 }());

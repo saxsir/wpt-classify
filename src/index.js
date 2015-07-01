@@ -15,18 +15,25 @@
     utils = require('./utils');
 
   var B = segmentater.divideDOMToMinimumBlocks(document.body);
-  // console.log('B:', B);    // debug
-
-  // テンプレート判定はあとで
   var T = classifier.matchingTemplate(B);
-  console.log('T:', T); // debug
+  console.log('T:', T);
+
+  // データが見たい
+  // console.log(
+  //   segmentater.getLeftEnd(B),
+  //   segmentater.getLeftEndBlocks(B)
+  // );
+  // console.log(
+  //   segmentater.getRightEnd(B),
+  //   segmentater.getRightEndBlocks(B)
+  // );
 
   // 分割結果を確認する
   var bodyLayoutData = segmentater.getLayoutData([document.body])[0];
   var nodeLayoutData = segmentater.getLayoutData(B);
   segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
 
-  // window.T = T;    // for phantomjs
-
+  window.B = B;
+  window.T = T;    // for phantomjs
   window.segmentater = segmentater;
 }());

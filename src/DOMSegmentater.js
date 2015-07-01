@@ -94,6 +94,43 @@
     }
   };
 
+  DOMSegmentater.prototype.getLeftEnd = function(blocks) {
+    var leftEdges = blocks.map(function(b) {
+      return b.getBoundingClientRect().left;
+    });
+    console.log(leftEdges.sort(ASC));
+    return leftEdges.sort(ASC).shift();
+  };
+
+  DOMSegmentater.prototype.getRightEnd = function(blocks) {
+    var rightEdges = blocks.map(function(b) {
+      return b.getBoundingClientRect().right;
+    });
+    console.log(rightEdges.sort(ASC));
+    return rightEdges.sort(ASC).pop();
+  };
+
+  DOMSegmentater.prototype.getLeftEndBlocks = function(blocks) {
+    var leftEdges = blocks.map(function(b) {
+      return b.getBoundingClientRect().left;
+    });
+    var leftEnd = leftEdges.sort(ASC).shift();
+
+    return blocks.filter(function(b) {
+      return b.getBoundingClientRect().left === leftEnd;
+    });
+  };
+
+  DOMSegmentater.prototype.getRightEndBlocks = function(blocks) {
+    var rightEdges = blocks.map(function(b) {
+      return b.getBoundingClientRect().right;
+    });
+    var rightEnd = rightEdges.sort(ASC).pop();
+    return blocks.filter(function(b) {
+      return b.getBoundingClientRect().right === rightEnd;
+    });
+  };
+
   /**
    * 受け取ったノードが最小ブロックか判定する
    *
@@ -339,6 +376,10 @@
       fontWeight: style.fontWeight,
       innerHTML: text,
     };
+  }
+
+  function ASC(a, b) {
+    return (parseInt(a) > parseInt(b)) ? 1 : -1;
   }
 
   // for debug

@@ -89,6 +89,7 @@
       style += 'font-weight:' + n.fontWeight + ';';
       style += 'border:1px solid black;';
 
+      element.innerHTML = i;
       element.setAttribute('style', style);
       body.appendChild(element);
     }

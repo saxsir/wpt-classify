@@ -14,9 +14,19 @@
     classifier = new TemplateClassifier(),
     utils = require('./utils');
 
-  var B = segmentater.divideDOMToMinimumBlocks(document.body);
-  var T = classifier.matchingTemplate(B);
-  console.log('T:', T);
+  window.segmentater = segmentater;
+  var minimumBlocks = segmentater.divideDOMInMinimumBlocks(document.body);
+
+  // 分割結果を確認する
+  var bodyLayoutData = segmentater.getLayoutData([document.body])[0];
+  var nodeLayoutData = segmentater.getLayoutData(minimumBlocks);
+  segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
+
+  // console.log(nodeLayoutData);
+
+  // var B = segmentater.divideDOMToMinimumBlocks(document.body);
+  // var T = classifier.matchingTemplate(B);
+  // console.log('T:', T);
 
   // データが見たい
   // console.log(
@@ -28,12 +38,6 @@
   //   segmentater.getRightEndBlocks(B)
   // );
 
-  // 分割結果を確認する
-  var bodyLayoutData = segmentater.getLayoutData([document.body])[0];
-  var nodeLayoutData = segmentater.getLayoutData(B);
-  segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
-
-  window.B = B;
-  window.T = T;    // for phantomjs
-  window.segmentater = segmentater;
+  // window.B = B;
+  // window.T = T;    // for phantomjs
 }());

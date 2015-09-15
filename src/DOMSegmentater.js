@@ -12,7 +12,7 @@
    * @method divideDOMToMinimumBlocks
    * @return {Array} Returns 最小ブロックの集合
    */
-  DOMSegmentater.prototype.divideDOMToMinimumBlocks = function() {
+  DOMSegmentater.prototype.divideDOMInMinimumBlocks = function() {
     var blocks = [];
 
     function divideWithDFS(node) {
@@ -68,8 +68,9 @@
     var style = '';
     style += 'width:' + bodyLayoutData.width + 'px;';
     style += 'height:' + bodyLayoutData.height + 'px;';
+    style += 'background-color:rgb(' + bodyLayoutData.backgroundColor.r + ',' + bodyLayoutData.backgroundColor.g + ',' + bodyLayoutData.backgroundColor.b + ');';
     style += 'list-style:none;';
-    style += 'color:rgb(' + bodyLayoutData.red + ',' + bodyLayoutData.green + ',' + bodyLayoutData.blue + ');';
+    style += 'color:rgb(' + bodyLayoutData.color.r + ',' + bodyLayoutData.color.g + ',' + bodyLayoutData.color.b + ');';
     style += 'font-size:' + bodyLayoutData.fontSize + 'px;';
     style += 'font-weight:' + bodyLayoutData.fontWeight + ';';
     body.setAttribute('style', style);
@@ -84,7 +85,8 @@
       style += 'left:' + n.left + 'px;';
       style += 'width:' + n.width + 'px;';
       style += 'height:' + n.height + 'px;';
-      style += 'color:rgb(' + n.color.red + ',' + n.color.green + ',' + n.color.blue + ');';
+      style += 'background-color:rgb(' + n.backgroundColor.r + ',' + n.backgroundColor.g + ',' + n.backgroundColor.b + ');';
+      style += 'color:rgb(' + n.color.r + ',' + n.color.g + ',' + n.color.b + ');';
       style += 'font-size:' + n.fontSize + 'px;';
       style += 'font-weight:' + n.fontWeight + ';';
       style += 'border:1px solid black;';
@@ -363,11 +365,31 @@
       width = bounds.width,
       height = bounds.height;
 
+    function getBackgroundColor(n) {
+      var bgColor = getComputedStyle(n).backgroundColor;
+      if (bgColor !== "rgba(0, 0, 0, 0)") {
+        return bgColor;
+      }
+
+      if (n.parentNode.nodeName === "BODY") {
+        return bgColor;
+      }
+
+      return getBackgroundColor(n.parentNode);
+    }
+
+    var bgColor = getBackgroundColor(node).split(',');
+
     return {
       color: {
         r: color[0].replace(/\D/g, ''),
         g: color[1].replace(/\D/g, ''),
         b: color[2].replace(/\D/g, '')
+      },
+      backgroundColor: {
+        r: bgColor[0].replace(/\D/g, ''),
+        g: bgColor[1].replace(/\D/g, ''),
+        b: bgColor[2].replace(/\D/g, '')
       },
       width: bounds.width,
       height: bounds.height,
@@ -390,6 +412,7 @@
   DOMSegmentater.prototype.hasEnableChild = hasEnableChild;
   DOMSegmentater.prototype.isBlockNode = isBlockNode;
   DOMSegmentater.prototype.hasMinimumBlockSiblings = hasMinimumBlockSiblings;
+  DOMSegmentater.prototype.getNodeLayoutData = getNodeLayoutData;
 
   if (typeof module !== 'undefined' && module.exports) { // Node.js の場合
     module.exports = DOMSegmentater;

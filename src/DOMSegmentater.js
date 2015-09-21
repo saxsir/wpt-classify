@@ -68,7 +68,15 @@
     var style = '';
     style += 'width:' + bodyLayoutData.width + 'px;';
     style += 'height:' + bodyLayoutData.height + 'px;';
-    style += 'background-color:rgb(' + bodyLayoutData.backgroundColor.r + ',' + bodyLayoutData.backgroundColor.g + ',' + bodyLayoutData.backgroundColor.b + ');';
+
+    if (bodyLayoutData.background.type === 'color') {
+      style += 'background-color:rgb(' + bodyLayoutData.background.color.r + ',' + bodyLayoutData.background.color.g + ',' + bodyLayoutData.background.color.b + ');';
+    }
+
+    if (bodyLayoutData.background.type === 'image') {
+      style += 'background-image:' + bodyLayoutData.background.image + ';';
+    }
+
     style += 'list-style:none;';
     style += 'color:rgb(' + bodyLayoutData.color.r + ',' + bodyLayoutData.color.g + ',' + bodyLayoutData.color.b + ');';
     style += 'font-size:' + bodyLayoutData.fontSize + 'px;';
@@ -85,7 +93,15 @@
       style += 'left:' + n.left + 'px;';
       style += 'width:' + n.width + 'px;';
       style += 'height:' + n.height + 'px;';
-      style += 'background-color:rgb(' + n.backgroundColor.r + ',' + n.backgroundColor.g + ',' + n.backgroundColor.b + ');';
+      if (n.background.type === 'color') {
+        style += 'background-color:rgb(' + n.background.color.r + ',' + n.background.color.g + ',' + n.background.color.b + ');';
+      }
+
+      if (n.background.type === 'image') {
+        // 背景が画像だった場合はとりあえず白に設定しておく
+        style += 'background-color:rgb(255, 255, 255);';
+        // style += 'background-image:' + n.background.image + ';';
+      }
       style += 'color:rgb(' + n.color.r + ',' + n.color.g + ',' + n.color.b + ');';
       style += 'font-size:' + n.fontSize + 'px;';
       style += 'font-weight:' + n.fontWeight + ';';
@@ -371,13 +387,48 @@
         return bgColor;
       }
 
-      if (n.parentNode.nodeName === "BODY") {
+      if (n.nodeName === "BODY" || n.parentNode.nodeName === "BODY") {
         return bgColor;
       }
 
       return getBackgroundColor(n.parentNode);
     }
 
+    function getBackground(n) {
+      var bgColor = getComputedStyle(n).backgroundColor,
+        bgImage = getComputedStyle(n).backgroundImage;
+
+      if (bgColor !== "rgba(0, 0, 0, 0)") {
+        return {
+          type: "color",
+          image: "",
+          color: {
+            r: bgColor.split(',')[0].replace(/\D/g, ''),
+            g: bgColor.split(',')[1].replace(/\D/g, ''),
+            b: bgColor.split(',')[2].replace(/\D/g, '')
+          }
+        };
+      }
+
+      if (bgImage !== "none") {
+        return {
+          type: "image",
+          image: bgImage,
+          color: {}
+        };
+      }
+
+      // なにもセットされていない、かつbodyにたどり着いてしまった場合
+      if (n.nodeName === "BODY") {
+        return {
+          type: "none"    // rewriteの方で'color' or 'image'の場合にしかセットしてないのでブラウザデフォルトと同じ色になるはず
+        };
+      }
+
+      return getBackground(n.parentNode);
+    }
+
+    var bg = getBackground(node);
     var bgColor = getBackgroundColor(node).split(',');
 
     return {
@@ -386,11 +437,7 @@
         g: color[1].replace(/\D/g, ''),
         b: color[2].replace(/\D/g, '')
       },
-      backgroundColor: {
-        r: bgColor[0].replace(/\D/g, ''),
-        g: bgColor[1].replace(/\D/g, ''),
-        b: bgColor[2].replace(/\D/g, '')
-      },
+      background: bg,
       width: bounds.width,
       height: bounds.height,
       top: bounds.top,

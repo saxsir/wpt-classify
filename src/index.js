@@ -18,13 +18,13 @@
 
   // 分割する
   var minimumBlocks = segmentater.divideDOMInMinimumBlocks(document.body);
+  window.minimumBlocks = minimumBlocks;
 
   // 分割結果を確認する
   var bodyLayoutData = segmentater.getLayoutData([document.body])[0];
   var nodeLayoutData = segmentater.getLayoutData(minimumBlocks);
   segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
 
-  window.miniminimumBlocks = minimumBlocks;
   window.nodeLayoutData = nodeLayoutData;
 
   // 繰返し構造の検出
@@ -55,15 +55,6 @@
   // var T = classifier.matchingTemplate(B);
   // console.log('T:', T);
 
-  // データが見たい
-  // console.log(
-  //   segmentater.getLeftEnd(B),
-  //   segmentater.getLeftEndBlocks(B)
-  // );
-  // console.log(
-  //   segmentater.getRightEnd(B),
-  //   segmentater.getRightEndBlocks(B)
-  // );
 
   // window.B = B;
   // window.T = T;    // for phantomjs

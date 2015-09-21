@@ -6,7 +6,7 @@ var gulp = require('gulp'),
   uglify = require('gulp-uglify');
 
 gulp.task('default', function() {
-  return gulp.watch(['./src/*.js', './gulpfile.js'], ['jshint']);
+  return gulp.watch(['./src/*.js', './gulpfile.js'], ['jshint', 'build']);
 });
 
 gulp.task('jshint', function() {

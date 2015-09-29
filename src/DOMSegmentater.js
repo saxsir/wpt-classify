@@ -12,7 +12,7 @@
    * @method divideDOMToMinimumBlocks
    * @return {Array} Returns 最小ブロックの集合
    */
-  DOMSegmentater.prototype.divideDOMInMinimumBlocks = function() {
+  DOMSegmentater.prototype.divideDOMInMinimumBlocks = function(body) {
     var blocks = [];
 
     function divideWithDFS(node) {
@@ -24,7 +24,7 @@
       }
     }
 
-    divideWithDFS(document.body);
+    divideWithDFS(body);
 
     return blocks;
   };

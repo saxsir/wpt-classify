@@ -10,10 +10,44 @@
 
   Analyzer.prototype.findRepeatedPatterns = function(nodes, body) {
     // Finding horizontal block
-    var horizontallyRepeatedBlocks = [];
+    var horizontallyRepeatedBlocks = _.chain(nodes)
+      .groupBy(function(node) {
+        // Rule1. topの値とheightの値が一致する
+        return JSON.stringify([
+          node.top,
+          node.height,
+        ]);
+      })
+      .filter(function(v, k) {
+        // Rule2. 2回以上の繰り返し
+        return v.length >= 2;
+      })
+      .mapObject(function(v, k) {
+        return _.map(v, function(node) {
+          return node.id;
+        });
+      })
+      .value();
 
     // Finding vertical blocks
-    var verticallyRepeatedBlocks = [];
+    var verticallyRepeatedBlocks = _.chain(nodes)
+      .groupBy(function(node) {
+        // Rule1. leftの値とheightが一致する
+        return JSON.stringify([
+          node.left,
+          node.height,
+        ]);
+      })
+      .filter(function(v, k) {
+        // Rule2. 2回以上の繰り返し
+        return v.length >= 2;
+      })
+      .mapObject(function(v, k) {
+        return _.map(v, function(node) {
+          return node.id;
+        });
+      })
+      .value();
 
     return [
       horizontallyRepeatedBlocks,
@@ -47,29 +81,6 @@
   };
 
   Analyzer.prototype.findNavigationParts = function (nodes, body) {
-    window.repeatedPatterns = _.chain(nodes)
-      .filter(function(node) {
-        return node.top < body.height * 0.2;
-      })
-      .groupBy(function(node) {
-        return JSON.stringify([
-          node.top,
-          node.height,
-        ]);
-      })
-      .filter(function(v, k) {
-        var sum = _.reduce(v, function(memo, node) {
-          return memo + node.width;
-        }, 0);
-
-        return sum > body.width * 0.5;
-      })
-      .mapObject(function(v, k) {
-        return _.map(v, function(node) {
-          return node.id;
-        });
-      });
-
     return _.chain(nodes)
       .filter(function(node) {
         return node.top < body.height * 0.2;

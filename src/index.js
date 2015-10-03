@@ -22,4 +22,8 @@
   // segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
   segmentater.displayBorderMinimumBlocks(bodyLayoutData, nodeLayoutData);
 
+  // Finding repeated patterns
+  var repeatedPatterns = analyzer.findRepeatedPatterns(nodeLayoutData, bodyLayoutData);
+  window.repeatedPatterns = repeatedPatterns;
+  console.log(JSON.stringify(repeatedPatterns));
 }());

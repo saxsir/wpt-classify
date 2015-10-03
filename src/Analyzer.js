@@ -4,50 +4,126 @@
 (function() {
   'use strict';
 
+  var _ = require("underscore");
+
   function Analyzer() {}
 
-  // 最小ブロックのレイアウト情報の配列
-  /**
-   * @params
-   *    nodes 最小ブロックのレイアウト情報の配列
-   *
-   * @return
-   *    繰返し構造と思われるブロックのindexの配列
-   */
-  Analyzer.prototype.findRepeatedStructure = function(nodes) {
+  Analyzer.prototype.findRepeatedPatterns = function(nodes, body) {
+    // Finding horizontal block
+    var horizontallyRepeatedBlocks = [];
 
-    // nodesのレイアウトパターンの繰り返しを検出
-    var type = [];
-    var nodeIteration = [];
-    for (var i = 0; i < nodes.length; ++i) {
-      var n = nodes[i];
-      var layoutInfo = {
-        color: n.color,
-        background: n.background,
-        width: n.width,
-        height: n.height,
-        fontSize: n.fontSize,
-        fontWeight: n.fontWeight
-      };
+    // Finding vertical blocks
+    var verticallyRepeatedBlocks = [];
 
-      var d = JSON.stringify(layoutInfo);
-      var typeId = type.indexOf(d);
-      if (typeId < 0) {
-        typeId = type.push(d) - 1;
-      }
-
-      nodeIteration.push(typeId);
-    }
-
-    return nodeIteration;
-
-    // 返り値の例
-    // return [
-    //   [6,7,8,9,10,11],
-    //   [23,26,29,33,36]
-    // ];
+    return [
+      horizontallyRepeatedBlocks,
+      verticallyRepeatedBlocks
+    ];
   };
 
+  Analyzer.prototype.findRepeatedPatternsByKey = function(nodes, key) {
+    /**
+     * top
+     * left
+     * width
+     * height
+     * colorString
+     * backgroundString
+     * fontSize
+     * fontWeight
+     */
+
+    var groupedNodes = _.groupBy(nodes, function(node) {
+      return node[key];
+    });
+
+    var groupedNodeIds = _.mapObject(groupedNodes, function(v, k) {
+      return _.map(v, function(node) {
+        return node.id;
+      });
+    });
+
+    return groupedNodeIds;
+  };
+
+  Analyzer.prototype.findNavigationParts = function (nodes, body) {
+    window.repeatedPatterns = _.chain(nodes)
+      .filter(function(node) {
+        return node.top < body.height * 0.2;
+      })
+      .groupBy(function(node) {
+        return JSON.stringify([
+          node.top,
+          node.height,
+        ]);
+      })
+      .filter(function(v, k) {
+        var sum = _.reduce(v, function(memo, node) {
+          return memo + node.width;
+        }, 0);
+
+        return sum > body.width * 0.5;
+      })
+      .mapObject(function(v, k) {
+        return _.map(v, function(node) {
+          return node.id;
+        });
+      });
+
+    return _.chain(nodes)
+      .filter(function(node) {
+        return node.top < body.height * 0.2;
+      })
+      .groupBy(function(node) {
+        return JSON.stringify([
+          node.top,
+          node.height,
+        ]);
+      })
+      .filter(function(v, k) {
+        var sum = _.reduce(v, function(memo, node) {
+          return memo + node.width;
+        }, 0);
+
+        return sum > body.width * 0.5;
+      })
+      .mapObject(function(v, k) {
+        return _.map(v, function(node) {
+          return node.id;
+        });
+      })
+      .filter(function(v, k) {
+        return v.length > 3;
+      })
+      .value();
+  };
+
+  Analyzer.prototype.detectSeparators = function (nodes, body) {
+    var Separator = require("./Section");
+    var separators = [];
+
+    // セパレーターを初期化
+    separators.push(new Separator(body.top, body.left, body.width, body.height));
+
+    _.each(nodes, function(node) {
+      _.each(separators, function(separator) {
+        if (isBlockContainedInSeparator(node, separator)) {
+          // split
+          return;
+        }
+
+        if (isBlockCrossesWithSeparator(node, separator)) {
+          // update
+          return;
+        }
+
+        if (isBlockCoversSeparator(node, separator)) {
+          // remove
+          return;
+        }
+      });
+    });
+  };
 
   if (typeof module !== 'undefined' && module.exports) { // Node.js の場合
     module.exports = Analyzer;

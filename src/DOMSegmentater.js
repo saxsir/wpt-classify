@@ -39,7 +39,9 @@
   DOMSegmentater.prototype.getLayoutData = function(blocks) {
     var layoutData = [];
     for (var i = 0; i < blocks.length; i++) {
-      layoutData.push(getNodeLayoutData(blocks[i]));
+      var d = getNodeLayoutData(blocks[i]);
+      d.id = i;
+      layoutData.push(d);
     }
     return layoutData;
   };
@@ -445,12 +447,37 @@
       fontSize: style.fontSize,
       fontWeight: style.fontWeight,
       innerHTML: text,
+      colorString: style.color,
+      backgroundString: style.background
     };
   }
 
   function ASC(a, b) {
     return (parseInt(a) > parseInt(b)) ? 1 : -1;
   }
+
+  DOMSegmentater.prototype.displayBorderMinimumBlocks = function(bodyLayoutData, nodesLayoutData) {
+    var head = document.getElementsByTagName('head')[0],
+      body = document.getElementsByTagName('body')[0];
+
+    // bodyに子要素を追加
+    for (var i = 0; i < nodesLayoutData.length; ++i) {
+      var n = nodesLayoutData[i],
+        element = document.createElement('div'),
+        style = '';
+      style += 'position:absolute;';
+      style += 'top:' + n.top + 'px;';
+      style += 'left:' + n.left + 'px;';
+      style += 'width:' + n.width + 'px;';
+      style += 'height:' + n.height + 'px;';
+
+      style += 'border:1px solid black;';
+      style += 'z-index: 2147483647;';
+      element.innerHTML = i;
+      element.setAttribute('style', style);
+      body.appendChild(element);
+    }
+  };
 
   // for debug
   DOMSegmentater.prototype.isMinimumBlock = isMinimumBlock;

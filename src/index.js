@@ -25,5 +25,15 @@
   // Finding repeated patterns
   var repeatedPatterns = analyzer.findRepeatedPatterns(nodeLayoutData, bodyLayoutData);
   window.repeatedPatterns = repeatedPatterns;
-  console.log(JSON.stringify(repeatedPatterns));
+
+  repeatedPatterns.push(nodeLayoutData);
+
+  if (typeof copy === 'function') {
+    copy(repeatedPatterns);
+    console.log('copied!');
+  } else {
+    console.log('##############################');
+    console.log(JSON.stringify(repeatedPatterns));
+  }
+
 }());

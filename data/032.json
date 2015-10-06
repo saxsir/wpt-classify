@@ -1,0 +1,3759 @@
+[
+  {
+    "0": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "1": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "2": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "3": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "4": [
+      47,
+      48,
+      49
+    ],
+    "5": [
+      50,
+      51,
+      52
+    ],
+    "6": [
+      96,
+      106,
+      113,
+      123
+    ],
+    "7": [
+      97,
+      107,
+      114,
+      124
+    ],
+    "8": [
+      110,
+      117,
+      127
+    ],
+    "9": [
+      111,
+      118,
+      128
+    ],
+    "10": [
+      129,
+      130,
+      131
+    ],
+    "11": [
+      132,
+      133,
+      134
+    ]
+  },
+  {
+    "0": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "1": [
+      43,
+      47,
+      50,
+      53
+    ],
+    "2": [
+      45,
+      46,
+      49,
+      52
+    ],
+    "3": [
+      48,
+      51,
+      54
+    ],
+    "4": [
+      65,
+      67,
+      68,
+      71,
+      74,
+      77,
+      80,
+      83
+    ],
+    "5": [
+      66,
+      69,
+      72,
+      75,
+      78,
+      81,
+      84
+    ],
+    "6": [
+      70,
+      82,
+      85
+    ],
+    "7": [
+      89,
+      90,
+      91,
+      95
+    ],
+    "8": [
+      92,
+      93,
+      94
+    ],
+    "9": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      105
+    ],
+    "10": [
+      107,
+      109,
+      110,
+      111
+    ],
+    "11": [
+      114,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "12": [
+      124,
+      125,
+      127,
+      128
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 179,
+      "height": 57,
+      "top": 14,
+      "left": 167,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 211,
+      "height": 47,
+      "top": 24,
+      "left": 909,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 50,
+      "left": 392.1875,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 55,
+      "height": 20,
+      "top": 50,
+      "left": 480.1875,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 59,
+      "height": 20,
+      "top": 50,
+      "left": 550.1875,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 39,
+      "height": 20,
+      "top": 50,
+      "left": 614.1875,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 23,
+      "height": 20,
+      "top": 50,
+      "left": 658.1875,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 69,
+      "height": 15,
+      "top": 54,
+      "left": 695.1875,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 90,
+      "height": 22,
+      "top": 50,
+      "left": 767.578125,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 28,
+      "height": 20,
+      "top": 51,
+      "left": 860.96875,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 191,
+      "height": 55,
+      "top": 87,
+      "left": 160,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 192,
+      "height": 55,
+      "top": 87,
+      "left": 351,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 192,
+      "height": 55,
+      "top": 87,
+      "left": 543,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 192,
+      "height": 55,
+      "top": 87,
+      "left": 735,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "254",
+          "b": "241"
+        }
+      },
+      "width": 193,
+      "height": 55,
+      "top": 87,
+      "left": 927,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/index_mainvisual_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 309,
+      "height": 233,
+      "top": 186,
+      "left": 332,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_ipad.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 391,
+      "height": 309,
+      "top": 150,
+      "left": 292,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_ipad.png) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_2_on.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 106,
+      "top": 398,
+      "left": 180,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_2_on.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_1.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 106,
+      "top": 398,
+      "left": 310,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_1.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_3.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 106,
+      "top": 398,
+      "left": 440,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_3.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_4.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 106,
+      "top": 398,
+      "left": 570,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_4.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_5.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 106,
+      "top": 398,
+      "left": 700,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_5.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_6.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 106,
+      "top": 398,
+      "left": 830,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_6.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_7.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 106,
+      "top": 398,
+      "left": 960,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_dock_7.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/index_mainvisual_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 342,
+      "height": 179,
+      "top": 202,
+      "left": 710,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_btn_left.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 46,
+      "height": 148,
+      "top": 242,
+      "left": 160,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_btn_left.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/images/mv/index_mainvisual_btn_right.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 46,
+      "height": 148,
+      "top": 242,
+      "left": 1070,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/images/mv/index_mainvisual_btn_right.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 960,
+      "height": 43,
+      "top": 525,
+      "left": 160,
+      "fontSize": "16",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 22,
+      "height": 86,
+      "top": 582,
+      "left": 180,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 22,
+      "height": 86,
+      "top": 582,
+      "left": 1078,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 278,
+      "height": 86,
+      "top": 582,
+      "left": 233,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 278,
+      "height": 86,
+      "top": 582,
+      "left": 511,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 258,
+      "height": 86,
+      "top": 582,
+      "left": 789,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 473,
+      "height": 43,
+      "top": 697,
+      "left": 160,
+      "fontSize": "16",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 241,
+      "height": 48,
+      "top": 766,
+      "left": 181,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 241,
+      "height": 48,
+      "top": 820,
+      "left": 181,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 241,
+      "height": 48,
+      "top": 874,
+      "left": 181,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 241,
+      "height": 48,
+      "top": 928,
+      "left": 181,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 241,
+      "height": 48,
+      "top": 982,
+      "left": 181,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 241,
+      "height": 48,
+      "top": 1036,
+      "left": 181,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 171,
+      "height": 61,
+      "top": 991,
+      "left": 448,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "182",
+        "g": "69",
+        "b": "3"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 162,
+      "height": 76,
+      "top": 888,
+      "left": 453,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(182, 69, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 433,
+      "height": 18,
+      "top": 1115,
+      "left": 180,
+      "fontSize": "10",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1143,
+      "left": 180,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "TIZEN",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 54,
+      "top": 1143,
+      "left": 324.328125,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "スマートフォン",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1143,
+      "left": 468.65625,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "タブレット",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1173,
+      "left": 468.65625,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "金融",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1203,
+      "left": 180,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "Webサイト",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1203,
+      "left": 324.328125,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "オフショア",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1203,
+      "left": 468.65625,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "システム運用",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1233,
+      "left": 180,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "ヘルプデスク",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1233,
+      "left": 324.328125,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "ハード",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1233,
+      "left": 468.65625,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "ソフト",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1263,
+      "left": 180,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "仮想化",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 124.328125,
+      "height": 27,
+      "top": 1263,
+      "left": 324.328125,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "クラウド",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 229,
+      "height": 63,
+      "top": 1323,
+      "left": 160,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 229,
+      "height": 63,
+      "top": 1323,
+      "left": 404,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 229,
+      "height": 63,
+      "top": 1399,
+      "left": 160,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 229,
+      "height": 63,
+      "top": 1399,
+      "left": 404,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 473,
+      "height": 43,
+      "top": 697,
+      "left": 647,
+      "fontSize": "16",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 79,
+      "height": 31,
+      "top": 703,
+      "left": 1022,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "58",
+        "g": "23",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/tabcontainer01_tabs_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 134,
+      "height": 31,
+      "top": 760,
+      "left": 672,
+      "fontSize": "16",
+      "fontWeight": "bold",
+      "innerHTML": "全て",
+      "colorString": "rgb(58, 23, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/tabcontainer01_tabs_bg.png) no-repeat scroll 100% -84px / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "58",
+        "g": "23",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/tabcontainer01_tabs_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 134,
+      "height": 30,
+      "top": 760,
+      "left": 819,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "IR",
+      "colorString": "rgb(58, 23, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/tabcontainer01_tabs_bg.png) no-repeat scroll 100% 0px / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "58",
+        "g": "23",
+        "b": "3"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/tabcontainer01_tabs_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 134,
+      "height": 30,
+      "top": 760,
+      "left": 966,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "トピックス",
+      "colorString": "rgb(58, 23, 3)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/tabcontainer01_tabs_bg.png) no-repeat scroll 100% 0px / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 393,
+      "height": 81,
+      "top": 815,
+      "left": 687,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "日本初、システナ車載向けセキュリティソリューション「Web Shelter® for Automotive」を発表（672KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_03.png) no-repeat scroll 0px 5.6px / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 127.5,
+      "height": 24,
+      "top": 919,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "2015年10月01日",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 76,
+      "height": 24,
+      "top": 919,
+      "left": 806.5,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415,
+      "height": 24,
+      "top": 943,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "自己株式の市場買付けに関するお知らせ （120KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 127.5,
+      "height": 24,
+      "top": 979,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "2015年09月30日",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 76,
+      "height": 24,
+      "top": 979,
+      "left": 806.5,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 69
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415,
+      "height": 72,
+      "top": 1003,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "金融機関向け「スマートフォン支店開設サービス」を開始　Web Shelter®プラットフォームをベースに2つの新機能を提供 （581KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 70
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 127.5,
+      "height": 24,
+      "top": 1087,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "2015年09月07日",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 71
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 76,
+      "height": 24,
+      "top": 1087,
+      "left": 806.5,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 72
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415,
+      "height": 48,
+      "top": 1111,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "自己株式取得に係る事項の決定に関するお知らせ （128KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 73
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 127.5,
+      "height": 24,
+      "top": 1171,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "2015年08月26日",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 74
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 76,
+      "height": 24,
+      "top": 1171,
+      "left": 806.5,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 75
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415,
+      "height": 96,
+      "top": 1195,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "クラウドサービスをもっと使いこなすためのプレミアムサポートがついにスタート！～Google Apps™や自社製品Cloudstepの活用支援サイトの公開開始～ （190KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 76
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 127.5,
+      "height": 24,
+      "top": 1303,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "2015年08月19日",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 77
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 76,
+      "height": 24,
+      "top": 1303,
+      "left": 806.5,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 78
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415,
+      "height": 48,
+      "top": 1327,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "クラウド型グループウェア「Cloudstep」に新たな連携サービスが追加 （724KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 79
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 127.5,
+      "height": 24,
+      "top": 1387,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "2015年08月18日",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 80
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 76,
+      "height": 24,
+      "top": 1387,
+      "left": 806.5,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 81
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415,
+      "height": 72,
+      "top": 1411,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "山口銀行が、システナのスマートフォン向け不正送金・フィッシング詐欺対策アプリ「Web Shelter®」を採用 （649KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 82
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 127.5,
+      "height": 24,
+      "top": 1495,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "2015年08月18日",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 83
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 76,
+      "height": 24,
+      "top": 1495,
+      "left": 806.5,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 84
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/line_dashed_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415,
+      "height": 72,
+      "top": 1519,
+      "left": 676,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "もみじ銀行が、システナのスマートフォン向け不正送金・フィッシング詐欺対策アプリ「Web Shelter®」を採用 （654KB）",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 85
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 433,
+      "height": 27,
+      "top": 1607,
+      "left": 667,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 86
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 960,
+      "height": 28,
+      "top": 1684,
+      "left": 160,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 87
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 50,
+      "top": 1725,
+      "left": 170,
+      "fontSize": "147693",
+      "fontWeight": "bold",
+      "innerHTML": "サービス/ソリューション",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png) no-repeat scroll 0px 2.95386px / auto padding-box border-box",
+      "id": 88
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1782,
+      "left": 170,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "サービスソリューション事業",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 89
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1825,
+      "left": 170,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "クオリティデザイン事業",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 90
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1868,
+      "left": 170,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "フレームワークデザイン事業",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 91
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1911,
+      "left": 170,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "ITサービス事業",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 92
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1935,
+      "left": 170,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "ソリューション営業",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 93
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1959,
+      "left": 170,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "クラウド事業",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 94
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1983,
+      "left": 170,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "トータル・ソリューション・サービス",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 95
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 25,
+      "top": 1725,
+      "left": 362,
+      "fontSize": "147693",
+      "fontWeight": "bold",
+      "innerHTML": "IR情報",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png) no-repeat scroll 0px 2.95386px / auto padding-box border-box",
+      "id": 96
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1757,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "経営方針",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 97
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1781,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "個人投資家の皆様へ",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 98
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1805,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "IRニュース",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 99
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1829,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "IR資料室",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 100
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1853,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "業績ハイライト",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 101
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1877,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "株式関連情報",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 102
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1901,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "IRカレンダー",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 103
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1925,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "IRに関するよくあるご質問",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 104
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1968,
+      "left": 362,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "電子公告 ",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 105
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 25,
+      "top": 1725,
+      "left": 554,
+      "fontSize": "147693",
+      "fontWeight": "bold",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png) no-repeat scroll 0px 2.95386px / auto padding-box border-box",
+      "id": 106
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1757,
+      "left": 554,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "新卒採用サイト",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 107
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1781,
+      "left": 554,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "2017年新卒インターンシップ",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 108
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1824,
+      "left": 554,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "中途採用情報",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 109
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1848,
+      "left": 554,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "システナとは",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 110
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1872,
+      "left": 554,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "システナ社員動画",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 111
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1896,
+      "left": 554,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "採用に関する個人情報の取り扱いについて",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 112
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 25,
+      "top": 1725,
+      "left": 746,
+      "fontSize": "147693",
+      "fontWeight": "bold",
+      "innerHTML": "会社案内",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png) no-repeat scroll 0px 2.95386px / auto padding-box border-box",
+      "id": 113
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1757,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "社長メッセージ",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 114
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1781,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "経営目標と経営の基本方針",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 115
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1824,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "経営理念・行動基準",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 116
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1848,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "会社概要",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 117
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1872,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "組織図",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 118
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1896,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "沿革",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 119
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1920,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "アクセスマップ",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 120
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1944,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "グループ会社",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 121
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1968,
+      "left": 746,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "テレビCM・動画ギャラリー",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 122
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 25,
+      "top": 1725,
+      "left": 938,
+      "fontSize": "147693",
+      "fontWeight": "bold",
+      "innerHTML": "コンプライアンス",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_01.png) no-repeat scroll 0px 2.95386px / auto padding-box border-box",
+      "id": 123
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1757,
+      "left": 938,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "CSRについて",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 124
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1781,
+      "left": 938,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "行動規範",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 125
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 38,
+      "top": 1805,
+      "left": 938,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "内部統制システム構築の基本方針",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 126
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1848,
+      "left": 938,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "プライバシーマーク",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 127
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 172,
+      "height": 19,
+      "top": 1872,
+      "left": 938,
+      "fontSize": "135386",
+      "fontWeight": "normal",
+      "innerHTML": "ISO",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.systena.co.jp/common/images/common/bullet_arrow_02.png) no-repeat scroll 10px 5.41542px / auto padding-box border-box",
+      "id": 128
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 62,
+      "height": 57,
+      "top": 2061,
+      "left": 918,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 129
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 62,
+      "height": 57,
+      "top": 2061,
+      "left": 988,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 130
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 62,
+      "height": 57,
+      "top": 2061,
+      "left": 1058,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 131
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 187.125,
+      "height": 16,
+      "top": 2069,
+      "left": 170,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "サイトのご利用にあたって",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 132
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 128.09375,
+      "height": 16,
+      "top": 2069,
+      "left": 366.125,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "個人情報保護方針",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 133
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 187.125,
+      "height": 16,
+      "top": 2069,
+      "left": 503.21875,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "情報セキュリティ基本方針",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 134
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 201.890625,
+      "height": 16,
+      "top": 2092,
+      "left": 170,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "ビジネスパートナー企業募集",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 135
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 97.859375,
+      "height": 16,
+      "top": 2092,
+      "left": 380.890625,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "RSSについて",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 136
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "251",
+          "g": "181",
+          "b": "66"
+        }
+      },
+      "width": 385,
+      "height": 25,
+      "top": 2111,
+      "left": 168,
+      "fontSize": "147693",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 137
+    }
+  ]
+]

@@ -416,14 +416,24 @@
         return {
           type: "image",
           image: bgImage,
-          color: {}
+          color: {
+            r: "-1",
+            g: "-1",
+            b: "-1"
+          }
         };
       }
 
       // なにもセットされていない、かつbodyにたどり着いてしまった場合
       if (n.nodeName === "BODY") {
         return {
-          type: "none"    // rewriteの方で'color' or 'image'の場合にしかセットしてないのでブラウザデフォルトと同じ色になるはず
+          type: "none",    // rewriteの方で'color' or 'image'の場合にしかセットしてないのでブラウザデフォルトと同じ色になるはず
+          image: "",
+          color: {
+            r: "-1",
+            g: "-1",
+            b: "-1"
+          }
         };
       }
 
@@ -444,7 +454,7 @@
       height: bounds.height,
       top: bounds.top,
       left: bounds.left,
-      fontSize: style.fontSize,
+      fontSize: style.fontSize.replace(/\D/g, ''),
       fontWeight: style.fontWeight,
       innerHTML: text,
       colorString: style.color,

@@ -1,0 +1,5649 @@
+[
+  {
+    "0": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "1": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "2": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "3": [
+      114,
+      115,
+      116
+    ],
+    "4": [
+      119,
+      121,
+      123,
+      125
+    ],
+    "5": [
+      120,
+      122,
+      124,
+      126
+    ],
+    "6": [
+      129,
+      132,
+      135,
+      139
+    ],
+    "7": [
+      130,
+      133,
+      136
+    ],
+    "8": [
+      131,
+      134,
+      137
+    ],
+    "9": [
+      144,
+      147,
+      150,
+      153
+    ],
+    "10": [
+      145,
+      148,
+      151,
+      154
+    ],
+    "11": [
+      146,
+      149,
+      152,
+      155
+    ],
+    "12": [
+      185,
+      197,
+      201
+    ]
+  },
+  {
+    "0": [
+      16,
+      17,
+      18
+    ],
+    "1": [
+      31,
+      34,
+      37,
+      40,
+      43,
+      46,
+      49,
+      52,
+      55,
+      58,
+      61,
+      64,
+      67,
+      70,
+      73,
+      76,
+      79,
+      82,
+      85,
+      89,
+      92,
+      95,
+      98,
+      101,
+      104,
+      107
+    ],
+    "2": [
+      32,
+      35,
+      38,
+      41,
+      44,
+      47,
+      50,
+      53,
+      56,
+      59,
+      62,
+      65,
+      68,
+      71,
+      74,
+      77,
+      80,
+      83,
+      86,
+      90,
+      93,
+      96,
+      99,
+      102,
+      105,
+      108
+    ],
+    "3": [
+      33,
+      36,
+      45,
+      48,
+      51,
+      60,
+      66,
+      69,
+      72,
+      78,
+      87,
+      103,
+      106,
+      109,
+      110
+    ],
+    "4": [
+      39,
+      42,
+      84,
+      88
+    ],
+    "5": [
+      54,
+      75,
+      91,
+      94,
+      97,
+      100
+    ],
+    "6": [
+      117,
+      127,
+      142
+    ],
+    "7": [
+      120,
+      130,
+      145
+    ],
+    "8": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      169,
+      170,
+      171,
+      172,
+      173
+    ],
+    "9": [
+      175,
+      179,
+      182
+    ],
+    "10": [
+      176,
+      177,
+      178,
+      180,
+      181,
+      183,
+      184
+    ],
+    "11": [
+      186,
+      187,
+      189,
+      190,
+      191,
+      192,
+      194,
+      196
+    ],
+    "12": [
+      188,
+      193,
+      195
+    ],
+    "13": [
+      198,
+      199,
+      200
+    ],
+    "14": [
+      201,
+      202,
+      203,
+      204,
+      205,
+      206
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 300,
+      "height": 80,
+      "top": 28,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 70,
+      "height": 30,
+      "top": 28,
+      "left": 778,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 36,
+      "height": 30,
+      "top": 28,
+      "left": 848,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 36,
+      "height": 30,
+      "top": 28,
+      "left": 884,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 143,
+      "height": 20,
+      "top": 34,
+      "left": 937,
+      "fontSize": "16",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) url(https://www.google.com/cse/static/ja/google_custom_search_watermark.gif) no-repeat scroll 0% 50% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 4,
+      "height": 23,
+      "top": 31,
+      "left": 1088,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "×",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/btn_search.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 36,
+      "height": 30,
+      "top": 28,
+      "left": 1095,
+      "fontSize": "11",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/header/btn_search.gif) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 71,
+      "height": 15,
+      "top": 82,
+      "left": 764,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 86,
+      "height": 15,
+      "top": 82,
+      "left": 835,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 108,
+      "height": 15,
+      "top": 82,
+      "left": 921,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_top.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 101,
+      "height": 15,
+      "top": 82,
+      "left": 1029,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 202,
+      "height": 53,
+      "top": 123,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "商品・キャンペーン",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 202,
+      "height": 53,
+      "top": 123,
+      "left": 352,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "レストラン・販売店・新宿中村屋ビル",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif) no-repeat scroll -202px 0px / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 202,
+      "height": 53,
+      "top": 123,
+      "left": 554,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "歴史・おいしさの秘密",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif) no-repeat scroll -404px 0px / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 186,
+      "height": 53,
+      "top": 123,
+      "left": 756,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "企業情報",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/header/gnav.gif) no-repeat scroll -606px 0px / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/header/header_line_btm.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 41,
+      "top": 123,
+      "left": 942,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/controls_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 76,
+      "top": 225,
+      "left": 962,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/controls_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 76,
+      "top": 328,
+      "left": 962,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/controls_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 76,
+      "top": 431,
+      "left": 962,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/controls_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 176,
+      "height": 25,
+      "top": 185,
+      "left": 954,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/controls_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 176,
+      "height": 25,
+      "top": 524,
+      "left": 954,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/controls_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 176,
+      "height": 92,
+      "top": 320,
+      "left": 954,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/pagination_ico_act.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 12,
+      "height": 12,
+      "top": 535,
+      "left": 856,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "1",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/img/pagination_ico_act.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/pagination_ico.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 12,
+      "height": 12,
+      "top": 535,
+      "left": 874,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/img/pagination_ico.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/pagination_ico.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 12,
+      "height": 12,
+      "top": 535,
+      "left": 892,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "3",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/img/pagination_ico.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/pagination_ico.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 12,
+      "height": 12,
+      "top": 535,
+      "left": 910,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "4",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/img/pagination_ico.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/pagination_ico.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 12,
+      "height": 12,
+      "top": 535,
+      "left": 928,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "5",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/img/pagination_ico.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 1280,
+      "height": 380,
+      "top": 177,
+      "left": 0,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/tab01_act.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 197,
+      "height": 40,
+      "top": 608,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "新着情報",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/img/tab01_act.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/tab02.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 197,
+      "height": 40,
+      "top": 608,
+      "left": 347,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "ニュースリリースIR情報",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/img/tab02.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 19,
+      "top": 661,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 687,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/9/16",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 687,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 710,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【11/1開催】新宿中村屋ビル開業1周年記念「安曇野バスツアー」",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 759,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/9/1",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 759,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 782,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【季節限定】「月餅 中秋の名月」取り扱い開始（販売終了 2015.9.24）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 831,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/8/5",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 831,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 48,
+      "top": 854,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n【8/28イベント開催】レストランGranna（グランナ）\n「シャトー・メルシャン　メーカーズディナー開催」(満員になりました)\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 919,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/8/3",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 919,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 48,
+      "top": 942,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "カリー大好きスタッフが食べて選んだ「イチオシ！夏カリー！！」実施中（販売終了 2015.9.1）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 1007,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/7/10",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1007,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1030,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n「夏休みこどもお菓子作り体験」参加者募集中！（募集終了　2015.7.31）\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 1079,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/7/1",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1079,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1102,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【季節限定】「果実（フルーツ）月餅」取り扱い開始（販売終了 2015.8.27）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 1151,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/6/12",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1151,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1174,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n【オリーブハウス】「季節限定　涼味＆カリーフェア」開催中（販売終了　2015.9.8予定）\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 1223,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/6/10",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1223,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 16,
+      "top": 1246,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "6月12日は「恋と革命のインドカリー」の日です",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 1279,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/6/9",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1279,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 64,
+      "top": 1302,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n【6/26イベント開催】レストランGranna（グランナ）\n山形　朝日町ワイン「造り手とともに味わうワインパーティー」\n(満員になりました)\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 1383,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/6/4",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1383,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1406,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n【新宿中村屋　インドカリーの店】「季節限定　夏フェア」開催中（販売終了　2015.9.4予定）\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 1455,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/6/1",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1455,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 80,
+      "top": 1478,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【対象商品送料無料】「お中元特集」実施中（販売終了 2015.8.14）\n【季節限定】「うすあわせ（甘夏・あんず）」「うすあわせ（白桃）」取り扱い開始（販売終了 2015.8.27）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 1575,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/5/18",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1575,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1598,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【期間限定・産地直送】「淡路島産玉ねぎ」販売中（販売終了 2015.6.12）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 1647,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/5/15",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1647,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1670,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "家族のために頑張るお父さんへ「父の日特集」実施中（販売終了 2015.6.18）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 69
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 1719,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/5/1",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 70
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1719,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 71
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1742,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "水ようかんやあんみつなど「夏のひんやりスイーツ」実施中（販売終了 2015.8.14）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 72
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 1791,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/4/16",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 73
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1791,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 74
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 16,
+      "top": 1814,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n季節菓子『2015夏の贈り物』取り扱い開始\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 75
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 1847,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/4/10",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 76
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1847,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 77
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 1870,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "限定セット＆ギフト包装でお届け「母の日ギフト特集」実施中（販売終了 2015.5.7）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 78
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 66.15625,
+      "height": 16,
+      "top": 1919,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/4/1",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 79
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 1919,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 80
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 96,
+      "top": 1942,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "「オープン7周年記念 お客様感謝キャンペーン」実施中（販売終了 2015.5.7）\n「味文化シリーズ」取り扱い開始\n【季節限定】「うすあわせ（抹茶）」「抹茶月餅」取り扱い開始（販売終了 2015.5.28）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 81
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2055,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/3/18",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 82
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2055,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 83
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 48,
+      "top": 2078,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "《選べる包装紙・メッセージカード》「春のギフト特集」実施中（販売終了 2015.4.17）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 84
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2143,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/2/27",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 85
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2143,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 86
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 2166,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【3月限定】季節の中華まん「ふかひれ肉饅」取り扱い開始（販売終了 2015.3.27）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 87
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 48,
+      "top": 2203,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【季節限定】「うすあわせ（さくら・いちごミルク）」取り扱い開始（販売終了 2015.5.28）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 88
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2268,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/2/19",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 89
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2268,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 90
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 16,
+      "top": 2291,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2015中村屋のホワイトデー",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 91
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2324,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/2/16",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 92
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2324,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 93
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 16,
+      "top": 2347,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n「インドカリー　香りとコクのキーマ」 新発売\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 94
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2380,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/2/16",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 95
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2380,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 96
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 16,
+      "top": 2403,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n「純カリー粉」 新発売\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 97
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2436,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/2/16",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 98
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2436,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 99
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 16,
+      "top": 2459,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n「本格四川　コク深さ、香る回鍋肉」 新発売\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 100
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2492,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/2/16",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 101
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2492,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 102
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 2515,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n「スパイスデリ　鶏肉とじゃがいものスパイス煮込み」 新発売\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 103
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2564,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/2/03",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 104
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2564,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 105
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 2587,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "グランナ、ボンナ、マンナ（新宿中村屋ビル）は2月24日（火）、休業とさせていただきます。\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 106
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 74.734375,
+      "height": 16,
+      "top": 2636,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "2015/1/29",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 107
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 18,
+      "top": 2636,
+      "left": 254,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 108
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 2659,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【2月限定】ご好評につき再発売！季節の中華まん「豚角煮まん」取り扱い開始　（販売終了 2015.2.26）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 109
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/img/eachbox_bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 368,
+      "height": 32,
+      "top": 2696,
+      "left": 163,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "【季節限定】「うすあわせ（いちご）」取り扱い開始（販売終了 2015.3.27）",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 110
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 556,
+      "height": 32,
+      "top": 608,
+      "left": 574,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 111
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 270,
+      "height": 152,
+      "top": 654,
+      "left": 574,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 112
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 270,
+      "height": 152,
+      "top": 654,
+      "left": 859,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 113
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 175,
+      "height": 152,
+      "top": 820,
+      "left": 574,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 114
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 175,
+      "height": 152,
+      "top": 820,
+      "left": 764,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 115
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 175,
+      "height": 152,
+      "top": 820,
+      "left": 954,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 116
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 980,
+      "height": 32,
+      "top": 1032,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 117
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 75,
+      "height": 16,
+      "top": 1036,
+      "left": 1055,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 118
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 234,
+      "height": 152,
+      "top": 1079,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 119
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 234,
+      "height": 30,
+      "top": 1241,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 120
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 234,
+      "height": 152,
+      "top": 1079,
+      "left": 399,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 121
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 234,
+      "height": 30,
+      "top": 1241,
+      "left": 399,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 122
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 234,
+      "height": 152,
+      "top": 1079,
+      "left": 648,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 123
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 234,
+      "height": 30,
+      "top": 1241,
+      "left": 648,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 124
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 233,
+      "height": 152,
+      "top": 1079,
+      "left": 897,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 125
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 233,
+      "height": 30,
+      "top": 1241,
+      "left": 897,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 126
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 728,
+      "height": 32,
+      "top": 1331,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 127
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 108,
+      "height": 16,
+      "top": 1335,
+      "left": 770,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 128
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1378,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 129
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1588,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 130
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 48,
+      "top": 1628,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "中村屋伝統の純印度式カリーはもちろん、バラエティー豊かなカリー類をご用意しております。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 131
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1378,
+      "left": 402,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 132
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1588,
+      "left": 402,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 133
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 48,
+      "top": 1628,
+      "left": 402,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "「木漏れ日のなかのテラス」をイメージした、カジュアルで明るいレストラン＆カフェです。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 134
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1378,
+      "left": 654,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 135
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1588,
+      "left": 654,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 136
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 48,
+      "top": 1628,
+      "left": 654,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "専用釜で焼き上げた薄焼きタイプのピッツァが楽しめるイタリアンレストラン。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 137
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 32,
+      "top": 1331,
+      "left": 906,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 138
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1378,
+      "left": 906,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 139
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1593,
+      "left": 906,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 140
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 48,
+      "top": 1633,
+      "left": 906,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "明るく、親しみやすい雰囲気で、食卓パンと手作りサンドイッチを主体に提供する、焼きたてパンの店です。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 141
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 980,
+      "height": 32,
+      "top": 1741,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 142
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 148,
+      "height": 16,
+      "top": 1745,
+      "left": 982,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 143
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1788,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 144
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1998,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 145
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 32,
+      "top": 2038,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "しょ・こ・らの新しい魅力。東京ショコラトリーがお届けします。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 146
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1788,
+      "left": 402,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 147
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1998,
+      "left": 402,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 148
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 32,
+      "top": 2038,
+      "left": 402,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "沖縄県産黒砂糖を使用した、九六一八の商品をご紹介致します。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 149
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1788,
+      "left": 654,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 150
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1998,
+      "left": 654,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 151
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 32,
+      "top": 2038,
+      "left": 654,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "人と人とのつながりや自然や季節を慈しむ心が込められた月餅、円果天。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 152
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 200,
+      "top": 1788,
+      "left": 906,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 153
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 30,
+      "top": 1998,
+      "left": 906,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 154
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 224,
+      "height": 32,
+      "top": 2038,
+      "left": 906,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "伝統から美しさへ。繊細で華やか、古くて新しい”新”菓子椀です。",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 155
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 980,
+      "height": 108,
+      "top": 2070,
+      "left": 150,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 156
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg_sns.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 70,
+      "height": 20,
+      "top": 2185,
+      "left": 985,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 157
+    },
+    {
+      "color": {
+        "r": "30",
+        "g": "30",
+        "b": "30"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg_sns.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 70,
+      "height": 20,
+      "top": 2185,
+      "left": 1060,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n",
+      "colorString": "rgb(30, 30, 30)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 158
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/line_dot_x_marron.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 500,
+      "height": 65,
+      "top": 2221,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/line_dot_x_marron.gif) repeat-x scroll 0% 100% / auto padding-box border-box",
+      "id": 159
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2246,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "商品・キャンペーン",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 160
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2271,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "菓子",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 161
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2293,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "ショップブランド",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 162
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2315,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "中華まん",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 163
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2337,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "レトルトカレー",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 164
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2359,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "その他レトルト食品",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 165
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2381,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "缶詰",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 166
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2403,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "冷凍食品",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 167
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2453,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "レストラン・販売店・新宿中村屋ビル",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 168
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2478,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "レストラン",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 169
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2500,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "新宿中村屋　販売店",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 170
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2522,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "新宿中村屋ビル",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 171
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2544,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "ショップブランド",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 172
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 240,
+      "height": 22,
+      "top": 2566,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "ベーカリーショップ",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 173
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2246,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "歴史・おいしさの秘密",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 174
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 19,
+      "top": 2271,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "【歴史】",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 175
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2290,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "中村屋の歴史",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 176
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2312,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "商品の歴史",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 177
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2334,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "創業者ゆかりの人々",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 178
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 19,
+      "top": 2372,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "【おいしさの秘密】",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 179
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2391,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "純印度式カリー",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 180
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2413,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "天成饅",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 181
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 19,
+      "top": 2451,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "【レシピ】",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 182
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2470,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "中村屋シェフのカレーレシピ",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 183
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 210,
+      "height": 22,
+      "top": 2492,
+      "left": 410,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "スパイスの使い方",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 184
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2311,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "企業情報",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 185
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2336,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "ご挨拶",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 186
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2358,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "ニュースリリース",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 187
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 2396,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "【会社案内】",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 188
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2415,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "会社概要・沿革",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 189
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2437,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "事業内容",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 190
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2459,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "中村屋グループ行動規範",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 191
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2481,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "事業所",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 192
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 2519,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "【IR情報】",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 193
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2538,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "株主・投資家の皆様へ",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 194
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 2576,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "【社会・環境への取り組み】",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 195
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 22,
+      "top": 2595,
+      "left": 630,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "環境への取り組み",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 196
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 150,
+      "height": 22,
+      "top": 2311,
+      "left": 810,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 197
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 150,
+      "height": 22,
+      "top": 2336,
+      "left": 810,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "募集要項",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 198
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 150,
+      "height": 22,
+      "top": 2358,
+      "left": 810,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "職種紹介",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 199
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 150,
+      "height": 22,
+      "top": 2380,
+      "left": 810,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "エントリー",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(https://www.nakamuraya.co.jp/common/img/footer/disc.gif) no-repeat scroll -3px 5.2px / auto padding-box border-box",
+      "id": 200
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 22,
+      "top": 2311,
+      "left": 970,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "お知らせ",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 201
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 22,
+      "top": 2348,
+      "left": 970,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "ニュースリリース・IR情報",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 202
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 22,
+      "top": 2385,
+      "left": 970,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "プライバシーポリシー",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 203
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 22,
+      "top": 2422,
+      "left": 970,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "サイトのご利用について",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 204
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 22,
+      "top": 2459,
+      "left": 970,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 205
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/bg.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 22,
+      "top": 2496,
+      "left": 970,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "サイトマップ",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 206
+    },
+    {
+      "color": {
+        "r": "139",
+        "g": "61",
+        "b": "86"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(https://www.nakamuraya.co.jp/common/img/footer/line_dot_x_marron.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 15,
+      "top": 2670,
+      "left": 165,
+      "fontSize": "1001",
+      "fontWeight": "normal",
+      "innerHTML": "Copyright c NAKAMURAYA CO.,LTD. All Rights Reserved.",
+      "colorString": "rgb(139, 61, 86)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 207
+    }
+  ]
+]

@@ -1,0 +1,5881 @@
+[
+  {
+    "0": [
+      6,
+      7,
+      8
+    ],
+    "1": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "2": [
+      22,
+      24,
+      25
+    ],
+    "3": [
+      62,
+      65,
+      69,
+      72,
+      75
+    ],
+    "4": [
+      63,
+      66,
+      70,
+      73,
+      76
+    ],
+    "5": [
+      64,
+      71,
+      74,
+      77
+    ],
+    "6": [
+      87,
+      90,
+      93
+    ],
+    "7": [
+      88,
+      91,
+      94
+    ],
+    "8": [
+      96,
+      98,
+      100,
+      102,
+      104
+    ],
+    "9": [
+      97,
+      101,
+      103,
+      105
+    ],
+    "10": [
+      144,
+      145,
+      146
+    ],
+    "11": [
+      156,
+      157,
+      158,
+      159,
+      160,
+      161
+    ],
+    "12": [
+      162,
+      163,
+      164
+    ],
+    "13": [
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173
+    ],
+    "14": [
+      176,
+      177,
+      178
+    ],
+    "15": [
+      180,
+      181,
+      182,
+      183,
+      184
+    ],
+    "16": [
+      186,
+      187,
+      188,
+      189
+    ],
+    "17": [
+      190,
+      191,
+      192
+    ],
+    "18": [
+      194,
+      195,
+      196,
+      197,
+      198
+    ],
+    "19": [
+      201,
+      202,
+      203
+    ],
+    "20": [
+      205,
+      206,
+      207,
+      208,
+      209,
+      210
+    ],
+    "21": [
+      212,
+      213,
+      214,
+      215,
+      216
+    ]
+  },
+  {
+    "0": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "1": [
+      61,
+      109,
+      113,
+      120,
+      132
+    ],
+    "2": [
+      110,
+      114,
+      115,
+      116,
+      117,
+      118,
+      121,
+      123,
+      125,
+      127,
+      129,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "3": [
+      122,
+      124,
+      126,
+      128,
+      130
+    ],
+    "4": [
+      155,
+      166,
+      175,
+      179,
+      185,
+      193
+    ],
+    "5": [
+      156,
+      162,
+      165,
+      167,
+      174,
+      176,
+      180,
+      186,
+      190,
+      194,
+      199
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 80,
+      "height": 70,
+      "top": 13,
+      "left": 165,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 845,
+      "height": 21,
+      "top": 26,
+      "left": 270,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw02.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 68.921875,
+      "height": 15,
+      "top": 16,
+      "left": 819.96875,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "サイトマップ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw02.gif) no-repeat scroll 0% 5.5px / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 60.109375,
+      "height": 15,
+      "top": 16,
+      "left": 888.890625,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "English",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif) no-repeat scroll 0% 2.5px / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 67,
+      "height": 15,
+      "top": 40,
+      "left": 862,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 89,
+      "height": 15,
+      "top": 40,
+      "left": 929,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 26,
+      "height": 26,
+      "top": 35,
+      "left": 1027,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 26,
+      "height": 26,
+      "top": 35,
+      "left": 1058,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 26,
+      "height": 26,
+      "top": 35,
+      "left": 1089,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 166,
+      "height": 14,
+      "top": 16,
+      "left": 949,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 128.046875,
+      "height": 21,
+      "top": 67,
+      "left": 774.953125,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "&nbsp;",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 162,
+      "height": 21,
+      "top": 67,
+      "left": 913,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 40,
+      "height": 21,
+      "top": 67,
+      "left": 1075,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/subheader_bg01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 180,
+      "height": 50,
+      "top": 95,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/subheader_bg01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 180,
+      "height": 50,
+      "top": 95,
+      "left": 345,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/subheader_bg01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 180,
+      "height": 50,
+      "top": 95,
+      "left": 525,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/subheader_bg01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 136,
+      "height": 50,
+      "top": 95,
+      "left": 705,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/subheader_bg01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 136,
+      "height": 50,
+      "top": 95,
+      "left": 841,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/subheader_bg01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 138,
+      "height": 50,
+      "top": 95,
+      "left": 977,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 1014,
+      "height": 414,
+      "top": 145,
+      "left": 128,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 45,
+      "height": 45,
+      "top": 329.359375,
+      "left": 50,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 45,
+      "height": 45,
+      "top": 329.359375,
+      "left": 1185,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 110,
+      "height": 45,
+      "top": 570.734375,
+      "left": 469,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/slide/index_bg01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 110,
+      "height": 49,
+      "top": 566.734375,
+      "left": 469,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/top03/images/slide/index_bg01.gif) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 110,
+      "height": 45,
+      "top": 570.734375,
+      "left": 585,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 110,
+      "height": 45,
+      "top": 570.734375,
+      "left": 701,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "102",
+          "g": "102",
+          "b": "102"
+        }
+      },
+      "width": 37,
+      "height": 25,
+      "top": 218,
+      "left": 1233,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgb(102, 102, 102) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 37,
+      "height": 43,
+      "top": 243,
+      "left": 1233,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "1",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png) no-repeat scroll 50% 100% / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 37,
+      "height": 43,
+      "top": 286,
+      "left": 1233,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "2",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 37,
+      "height": 43,
+      "top": 329,
+      "left": 1233,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "3",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 37,
+      "height": 43,
+      "top": 372,
+      "left": 1233,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "4",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 37,
+      "height": 43,
+      "top": 415,
+      "left": 1233,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "5",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 37,
+      "height": 43,
+      "top": 458,
+      "left": 1233,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "6",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 37,
+      "height": 43,
+      "top": 501,
+      "left": 1233,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "7",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/anchor_ico01.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 906,
+      "height": 27,
+      "top": 673.734375,
+      "left": 187,
+      "fontSize": "1608",
+      "fontWeight": "normal",
+      "innerHTML": "平成27年9月11日　水害に関するお知らせ",
+      "colorString": "rgb(255, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 1px 8.844px / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/recommend_bg01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 458,
+      "height": 47,
+      "top": 772.734375,
+      "left": 411,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/top03/images/recommend_bg01.gif) no-repeat scroll 0% 1px / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 173,
+      "height": 35,
+      "top": 857.734375,
+      "left": 466.5,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 174,
+      "height": 35,
+      "top": 857.734375,
+      "left": 639.5,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 456,
+      "height": 298,
+      "top": 924.734375,
+      "left": 65,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 446,
+      "height": 25,
+      "top": 1235.734375,
+      "left": 70,
+      "fontSize": "18",
+      "fontWeight": "bold",
+      "innerHTML": "土地活用トップ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 8.64px / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 446,
+      "height": 38,
+      "top": 1266.734375,
+      "left": 70,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用をお考えの方へ、その土地やご希望に適した活用方法をご提案",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 214,
+      "height": 140,
+      "top": 1322.734375,
+      "left": 65,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 215,
+      "height": 22,
+      "top": 1326.734375,
+      "left": 301,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "土地活用ナビ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 7.0752px / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 215,
+      "height": 38,
+      "top": 1354.734375,
+      "left": 301,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "お持ちの土地の条件や、目的、ご希望に添った活用方法をご案内",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 214,
+      "height": 140,
+      "top": 924.734375,
+      "left": 549,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 204,
+      "height": 22,
+      "top": 1077.734375,
+      "left": 554,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "土地活用ラボ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 7.0752px / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 204,
+      "height": 57,
+      "top": 1105.734375,
+      "left": 554,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用をお考えのすべての方へ、土地活用、不動産、税などに精通した専門家が鋭く解説",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 214,
+      "height": 140,
+      "top": 924.734375,
+      "left": 791,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 204,
+      "height": 44,
+      "top": 1077.734375,
+      "left": 796,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "土地活用のケーススタディ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 7.0752px / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 204,
+      "height": 38,
+      "top": 1127.734375,
+      "left": 796,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス工業がご提案する、土地活用の事例をご紹介",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 214,
+      "height": 140,
+      "top": 1202.734375,
+      "left": 549,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 204,
+      "height": 44,
+      "top": 1355.734375,
+      "left": 554,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "注文住宅・建替えサイトトップ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 7.0752px / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 204,
+      "height": 57,
+      "top": 1405.734375,
+      "left": 554,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "ダイワハウスの注文住宅サイトトップ。新築・建替をご検討の方、“まずは”コチラから",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 214,
+      "height": 140,
+      "top": 1202.734375,
+      "left": 791,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 204,
+      "height": 22,
+      "top": 1355.734375,
+      "left": 796,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "注文住宅建築実例",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 7.0752px / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 204,
+      "height": 57,
+      "top": 1383.734375,
+      "left": 796,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "注文住宅の建築実例紹介トップ。スタイル別で実例を多数紹介。毎月実例を更新中",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 51.21875,
+      "height": 24,
+      "top": 1076.734375,
+      "left": 1050,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "xevoΣ",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160.796875,
+      "height": 24,
+      "top": 1354.734375,
+      "left": 1050,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "お近くのダイワハウス",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 173,
+      "height": 35,
+      "top": 1501.734375,
+      "left": 466.5,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 174,
+      "height": 35,
+      "top": 1501.734375,
+      "left": 639.5,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 450,
+      "height": 32,
+      "top": 1736.734375,
+      "left": 415,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "229",
+          "g": "229",
+          "b": "229"
+        }
+      },
+      "width": 365,
+      "height": 35,
+      "top": 1808.734375,
+      "left": 165,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "個人のお客さま",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 160,
+      "top": 1863.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 44,
+      "top": 2035.734375,
+      "left": 165,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "住まい（個人のお客さま）",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png) no-repeat scroll 0% 6.7536px / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 76,
+      "top": 2089.734375,
+      "left": 165,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "新築・建替、マンション、分譲住宅・賃貸物件など、住まいに関する情報をご提案します。",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 160,
+      "top": 1863.734375,
+      "left": 360,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 44,
+      "top": 2035.734375,
+      "left": 360,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "土地活用（個人のお客さま）",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png) no-repeat scroll 0% 6.7536px / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 57,
+      "top": 2089.734375,
+      "left": 360,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用をお考えの方へ、その土地やご希望に適した活用方法をご提案します。",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "229",
+          "g": "229",
+          "b": "229"
+        }
+      },
+      "width": 560,
+      "height": 35,
+      "top": 1808.734375,
+      "left": 555,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "法人のお客さま",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 160,
+      "top": 1863.734375,
+      "left": 555,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 69
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 44,
+      "top": 2035.734375,
+      "left": 555,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "施設建築ソリューション",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png) no-repeat scroll 0% 6.7536px / auto padding-box border-box",
+      "id": 70
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 76,
+      "top": 2089.734375,
+      "left": 555,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "物流施設・医療介護施設・食品施設・事務所ショールームなどのソリューションをご提案します。",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 71
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 160,
+      "top": 1863.734375,
+      "left": 750,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 72
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 44,
+      "top": 2035.734375,
+      "left": 750,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "店舗出店ソリューション",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png) no-repeat scroll 0% 6.7536px / auto padding-box border-box",
+      "id": 73
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 76,
+      "top": 2089.734375,
+      "left": 750,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "全国を網羅する豊富な土地情報を元に、出店ニーズに合わせた候補物件をご提案します。",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 74
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 160,
+      "top": 1863.734375,
+      "left": 945,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 75
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 44,
+      "top": 2035.734375,
+      "left": 945,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "生活環境ソリューション",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw18.png) no-repeat scroll 0% 6.7536px / auto padding-box border-box",
+      "id": 76
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 170,
+      "height": 76,
+      "top": 2089.734375,
+      "left": 945,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "ロボット・植物工場・環境エネルギーなどの新たな取り組みやソリューションをご提案します。",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 77
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 1280,
+      "height": 689,
+      "top": 1606.734375,
+      "left": 0,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 78
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 450,
+      "height": 75,
+      "top": 2355.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 79
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 440,
+      "height": 170,
+      "top": 2455.734375,
+      "left": 170,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 80
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 434,
+      "height": 25,
+      "top": 2635.734375,
+      "left": 176,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "お近くのダイワハウス",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 1px 8.844px / auto padding-box border-box",
+      "id": 81
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 450,
+      "height": 75,
+      "top": 2355.734375,
+      "left": 665,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 82
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 440,
+      "height": 170,
+      "top": 2455.734375,
+      "left": 670,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 83
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 434,
+      "height": 25,
+      "top": 2635.734375,
+      "left": 676,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "イベント・キャンペーン情報",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 1px 8.844px / auto padding-box border-box",
+      "id": 84
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 1280,
+      "height": 439,
+      "top": 2295.734375,
+      "left": 0,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 85
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 450,
+      "height": 32,
+      "top": 2794.734375,
+      "left": 415,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 86
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 290,
+      "height": 186,
+      "top": 2871.734375,
+      "left": 170,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 87
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 265,
+      "height": 27,
+      "top": 3069.734375,
+      "left": 190,
+      "fontSize": "18",
+      "fontWeight": "bold",
+      "innerHTML": "現在放映中のCMのご紹介",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 88
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 280,
+      "height": 38,
+      "top": 3101.734375,
+      "left": 175,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "テレビCMの見どころや、撮影エピソードをご覧いただけます。",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 89
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 290,
+      "height": 186,
+      "top": 2871.734375,
+      "left": 495,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 90
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 265,
+      "height": 27,
+      "top": 3069.734375,
+      "left": 515,
+      "fontSize": "18",
+      "fontWeight": "bold",
+      "innerHTML": "企業情報",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 91
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 280,
+      "height": 57,
+      "top": 3101.734375,
+      "left": 500,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "会社情報、IR情報、CSRへの取り組みなど、大和ハウス工業の企業情報をご紹介しています。",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 92
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 290,
+      "height": 186,
+      "top": 2871.734375,
+      "left": 820,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 93
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 265,
+      "height": 27,
+      "top": 3069.734375,
+      "left": 840,
+      "fontSize": "18",
+      "fontWeight": "bold",
+      "innerHTML": "大和ハウスのメールマガジン",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 94
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 280,
+      "height": 38,
+      "top": 3101.734375,
+      "left": 825,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "住まい情報お役立ちコラム、分譲物件情報をメールマガジンで配信しています。",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 95
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 130,
+      "top": 3246.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 96
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 122,
+      "height": 19,
+      "top": 3388.734375,
+      "left": 183,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "IR情報",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 97
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 130,
+      "top": 3246.734375,
+      "left": 327,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 98
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 122,
+      "height": 38,
+      "top": 3388.734375,
+      "left": 345,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "CSR（環境・社会）への取り組み",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 99
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 130,
+      "top": 3246.734375,
+      "left": 489,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 100
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw17.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 125,
+      "height": 19,
+      "top": 3388.734375,
+      "left": 504,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 101
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 130,
+      "top": 3246.734375,
+      "left": 651,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 102
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw17.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 125,
+      "height": 19,
+      "top": 3388.734375,
+      "left": 666,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "総合技術研究所",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 103
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 130,
+      "top": 3246.734375,
+      "left": 813,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 104
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw17.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 125,
+      "height": 19,
+      "top": 3388.734375,
+      "left": 828,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "企業スポーツ活動",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 105
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/company_bg01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 946,
+      "height": 86,
+      "top": 3448.734375,
+      "left": 167,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/top03/images/company_bg01.jpg) no-repeat scroll 100% 0% / auto padding-box border-box",
+      "id": 106
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 1280,
+      "height": 867,
+      "top": 2734.734375,
+      "left": 0,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 107
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 950,
+      "height": 32,
+      "top": 3671.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 108
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "229",
+          "g": "229",
+          "b": "229"
+        }
+      },
+      "width": 950,
+      "height": 35,
+      "top": 3743.734375,
+      "left": 165,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "全国のイベント・キャンペーンについて",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 109
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/bg_line01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 23,
+      "top": 3793.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 110
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 870,
+      "height": 23,
+      "top": 3793.734375,
+      "left": 245,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "【住宅】ｘｅｖｏΣ体感見学会開催！10月1日（木）～11月30日（月）",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 111
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 333.921875,
+      "height": 23,
+      "top": 3840.734375,
+      "left": 781.078125,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "全国のイベント・キャンペーンについて一覧を見る",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 8.2836px / auto padding-box border-box",
+      "id": 112
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "229",
+          "g": "229",
+          "b": "229"
+        }
+      },
+      "width": 950,
+      "height": 35,
+      "top": 3888.734375,
+      "left": 165,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "重要なお知らせ",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 113
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 3938.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス名を騙る振り込め詐欺にご注意下さい",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 114
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 3978.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "戸建住宅・賃貸住宅用の防火シャッター雨戸における不適合施工について",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 115
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4018.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "震災に関する情報",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 116
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4058.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "ロボットスーツを騙る不審な勧誘にご注意ください",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 117
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4098.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "石綿（アスベスト）問題への対応について",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 118
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 179.484375,
+      "height": 23,
+      "top": 4145.734375,
+      "left": 935.515625,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "重要なお知らせ一覧を見る",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 8.2836px / auto padding-box border-box",
+      "id": 119
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "229",
+          "g": "229",
+          "b": "229"
+        }
+      },
+      "width": 950,
+      "height": 35,
+      "top": 4193.734375,
+      "left": 165,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "ニュースリリース",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 120
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/bg_line01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 100,
+      "height": 23,
+      "top": 4243.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/30",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 121
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 850,
+      "height": 23,
+      "top": 4243.734375,
+      "left": 265,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "グループ会社の人事異動・機構改革に関するお知らせ",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 122
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/bg_line01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 100,
+      "height": 23,
+      "top": 4283.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/29",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 123
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 850,
+      "height": 23,
+      "top": 4283.734375,
+      "left": 265,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウスグループ　5商品がグッドデザイン賞を受賞",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 124
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/bg_line01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 100,
+      "height": 23,
+      "top": 4323.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/29",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 125
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 850,
+      "height": 23,
+      "top": 4323.734375,
+      "left": 265,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "不動産開発プロジェクト「（仮称）ミッドタウンプロジェクト」開始",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 126
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/bg_line01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 100,
+      "height": 23,
+      "top": 4363.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/25",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 127
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 850,
+      "height": 23,
+      "top": 4363.734375,
+      "left": 265,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "人事異動に関するお知らせ",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 128
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/bg_line01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 100,
+      "height": 23,
+      "top": 4403.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/25",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 129
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 850,
+      "height": 23,
+      "top": 4403.734375,
+      "left": 265,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "新「skye（スカイエ）」発売",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 130
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 193.53125,
+      "height": 23,
+      "top": 4450.734375,
+      "left": 921.46875,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "ニュースリリース一覧を見る",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 0% 8.2836px / auto padding-box border-box",
+      "id": 131
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "229",
+          "g": "229",
+          "b": "229"
+        }
+      },
+      "width": 950,
+      "height": 35,
+      "top": 4498.734375,
+      "left": 165,
+      "fontSize": "1608",
+      "fontWeight": "bold",
+      "innerHTML": "関連情報",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 132
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4548.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "ダイワファミリークラブ（オーナー専用サイト）",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif) no-repeat scroll 0% 6.8796px / auto padding-box border-box",
+      "id": 133
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4588.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "石橋信夫記念館",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif) no-repeat scroll 0% 6.8796px / auto padding-box border-box",
+      "id": 134
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4628.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス工業総合技術研究所",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 135
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4668.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "日本住宅ローン株式会社",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif) no-repeat scroll 0% 6.8796px / auto padding-box border-box",
+      "id": 136
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4708.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス工業 ネット調達サイト（資材調達）",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif) no-repeat scroll 0% 6.8796px / auto padding-box border-box",
+      "id": 137
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4748.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス工業の工場",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 138
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4788.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス協力会連合会情報サイト",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif) no-repeat scroll 0% 6.8796px / auto padding-box border-box",
+      "id": 139
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4828.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "お客様ご紹介制度",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 140
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4868.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス工業 EDIポータル",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw03.gif) no-repeat scroll 0% 6.8796px / auto padding-box border-box",
+      "id": 141
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 23,
+      "top": 4908.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "不動産流通センター（不動産仲介）",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/common/images/rn02/ico_arw04.gif) no-repeat scroll 3px 8.2836px / auto padding-box border-box",
+      "id": 142
+    },
+    {
+      "color": {
+        "r": "51",
+        "g": "51",
+        "b": "51"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 950,
+      "height": 32,
+      "top": 5008.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(51, 51, 51)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 143
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/support_bg01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 65,
+      "top": 5080.734375,
+      "left": 200,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 144
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/support_bg01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 65,
+      "top": 5080.734375,
+      "left": 420,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 145
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/support_bg01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 65,
+      "top": 5080.734375,
+      "left": 640,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 146
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/support_bg01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 200,
+      "height": 50,
+      "top": 5095.734375,
+      "left": 870,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 147
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/support_ico01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 30,
+      "height": 29,
+      "top": 5106.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "&lt;",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/top03/images/support_ico01.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 148
+    },
+    {
+      "color": {
+        "r": "64",
+        "g": "79",
+        "b": "111"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/top03/images/support_ico01.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 30,
+      "height": 29,
+      "top": 5106.734375,
+      "left": 1085,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "&gt;",
+      "colorString": "rgb(64, 79, 111)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daiwahouse.co.jp/top03/images/support_ico01.gif) no-repeat scroll -60px 0px / auto padding-box border-box",
+      "id": 149
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 60,
+      "height": 22,
+      "top": 5270.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 150
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 115,
+      "height": 27,
+      "top": 5270.734375,
+      "left": 236,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 151
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 20,
+      "height": 20,
+      "top": 5270.734375,
+      "left": 352,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 152
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 68,
+      "height": 22,
+      "top": 5270.734375,
+      "left": 383,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 153
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daiwahouse.co.jp/common/images/rn02/fixfooter_bg01.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 40,
+      "top": 561,
+      "left": 955,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 154
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 200,
+      "height": 23,
+      "top": 5393.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "住まい（個人のお客さま）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 155
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 96,
+      "height": 20,
+      "top": 5393.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "注文住宅・建替え",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 156
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 84,
+      "height": 20,
+      "top": 5393.734375,
+      "left": 488,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "分譲住宅・宅地",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 157
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 84,
+      "height": 20,
+      "top": 5393.734375,
+      "left": 589,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "分譲マンション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 158
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 96,
+      "height": 20,
+      "top": 5393.734375,
+      "left": 690,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "田舎暮らし・別荘",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 159
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 116.984375,
+      "height": 20,
+      "top": 5393.734375,
+      "left": 803,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "賃貸住宅（D-room）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 160
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 5393.734375,
+      "left": 936.984375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "リフォーム",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 161
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 191.390625,
+      "height": 20,
+      "top": 5415.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "住まいづくり情報（TRY家コラム）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 162
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 276,
+      "height": 20,
+      "top": 5415.734375,
+      "left": 583.390625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ダイワファミリークラブ（オーナー専用サイト）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 163
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 84,
+      "height": 20,
+      "top": 5415.734375,
+      "left": 876.390625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ネクストライフ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 164
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 192,
+      "height": 20,
+      "top": 5437.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "不動産流通センター（不動産仲介）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 165
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 200,
+      "height": 23,
+      "top": 5470.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "土地活用（個人のお客さま）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 166
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 144,
+      "height": 20,
+      "top": 5470.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "賃貸住宅・賃貸マンション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 167
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 192,
+      "height": 20,
+      "top": 5470.734375,
+      "left": 536,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ロードサイド店舗・複合型商業施設",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 168
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 60,
+      "height": 20,
+      "top": 5470.734375,
+      "left": 745,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "高齢者住宅",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 169
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 36,
+      "height": 20,
+      "top": 5470.734375,
+      "left": 822,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "診療所",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 170
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 48,
+      "height": 20,
+      "top": 5470.734375,
+      "left": 875,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "介護施設",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 171
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 60,
+      "height": 20,
+      "top": 5470.734375,
+      "left": 940,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "太陽光発電",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 172
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 5470.734375,
+      "left": 1017,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用ナビ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 173
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 5492.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用ラボ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 174
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 200,
+      "height": 23,
+      "top": 5525.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "法人のお客さま",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 175
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 132,
+      "height": 20,
+      "top": 5525.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "施設建築ソリューション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 176
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 132,
+      "height": 20,
+      "top": 5525.734375,
+      "left": 524,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "店舗出店ソリューション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 177
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 132,
+      "height": 20,
+      "top": 5525.734375,
+      "left": 673,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "生活環境ソリューション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 178
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 200,
+      "height": 23,
+      "top": 5559.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "企業情報",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 179
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 48,
+      "height": 20,
+      "top": 5559.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "会社情報",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 180
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 49.03125,
+      "height": 20,
+      "top": 5559.734375,
+      "left": 440,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "IR情報",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 181
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 191.890625,
+      "height": 20,
+      "top": 5559.734375,
+      "left": 506.03125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "CSR（環境・社会）への取り組み",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 182
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 48,
+      "height": 20,
+      "top": 5559.734375,
+      "left": 714.921875,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 183
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 96,
+      "height": 20,
+      "top": 5559.734375,
+      "left": 779.921875,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ニュースリリース",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 184
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 200,
+      "height": 23,
+      "top": 5593.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "お近くのダイワハウス",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 185
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 5593.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "支店・営業所",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 186
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 360,
+      "height": 20,
+      "top": 5593.734375,
+      "left": 464,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "展示場（まちなかジーヴォ・リビングサロン・テクノロジーラボ）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 187
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 84,
+      "height": 20,
+      "top": 5593.734375,
+      "left": 841,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "分譲住宅・宅地",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 188
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 84,
+      "height": 20,
+      "top": 5593.734375,
+      "left": 942,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "分譲マンション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 189
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 116.984375,
+      "height": 20,
+      "top": 5615.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "賃貸住宅（D-room）",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 190
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 96,
+      "height": 20,
+      "top": 5615.734375,
+      "left": 508.984375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "田舎暮らし・別荘",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 191
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 120,
+      "height": 20,
+      "top": 5615.734375,
+      "left": 621.984375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ショッピングセンター",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 192
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 200,
+      "height": 23,
+      "top": 5648.734375,
+      "left": 165,
+      "fontSize": "1404",
+      "fontWeight": "bold",
+      "innerHTML": "イベント・キャンペーン情報",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 193
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 96,
+      "height": 20,
+      "top": 5648.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "注文住宅・建替え",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 194
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 84,
+      "height": 20,
+      "top": 5648.734375,
+      "left": 488,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "分譲住宅・宅地",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 195
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 84,
+      "height": 20,
+      "top": 5648.734375,
+      "left": 589,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "分譲マンション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 196
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 96,
+      "height": 20,
+      "top": 5648.734375,
+      "left": 690,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "田舎暮らし・別荘",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 197
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 168,
+      "height": 20,
+      "top": 5648.734375,
+      "left": 803,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "賃貸住宅・賃貸マンション経営",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 198
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 132,
+      "height": 20,
+      "top": 5670.734375,
+      "left": 375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "施設建築ソリューション",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 199
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 5670.734375,
+      "left": 524,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "その他の事業",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 200
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 5703.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "サイトマップ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 201
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 48,
+      "height": 20,
+      "top": 5703.734375,
+      "left": 254,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "資料請求",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 202
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "110",
+          "g": "110",
+          "b": "110"
+        }
+      },
+      "width": 72,
+      "height": 20,
+      "top": 5703.734375,
+      "left": 319,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 203
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 109.3125,
+      "height": 12,
+      "top": 5786.734375,
+      "left": 165,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス工業トップ",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 204
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 41.03125,
+      "height": 14,
+      "top": 5785.734375,
+      "left": 280.3125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "住まい",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 205
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 55,
+      "height": 14,
+      "top": 5785.734375,
+      "left": 327.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 206
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 86.21875,
+      "height": 14,
+      "top": 5785.734375,
+      "left": 388.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "法人のお客さま",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 207
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 115.796875,
+      "height": 14,
+      "top": 5785.734375,
+      "left": 480.5625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "お近くのダイワハウス",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 208
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 141.15625,
+      "height": 14,
+      "top": 5785.734375,
+      "left": 602.359375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "イベント・キャンペーン情報",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 209
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 82.1875,
+      "height": 14,
+      "top": 5785.734375,
+      "left": 749.515625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "メールマガジン",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 210
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 81.078125,
+      "height": 11,
+      "top": 5816.734375,
+      "left": 165,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "企業情報・IR情報",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 211
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 51,
+      "height": 13,
+      "top": 5815.734375,
+      "left": 252.09375,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 212
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 101.921875,
+      "height": 13,
+      "top": 5815.734375,
+      "left": 309.09375,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウスグループ",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 213
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 118.203125,
+      "height": 13,
+      "top": 5815.734375,
+      "left": 417.015625,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "サイトのご利用について",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 214
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 95,
+      "height": 13,
+      "top": 5815.734375,
+      "left": 541.21875,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "個人情報保護方針",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 215
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 130.84375,
+      "height": 13,
+      "top": 5815.734375,
+      "left": 642.21875,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "ソーシャルメディアポリシー",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 216
+    },
+    {
+      "color": {
+        "r": "77",
+        "g": "77",
+        "b": "79"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 950,
+      "height": 27,
+      "top": 5838.734375,
+      "left": 165,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "大和ハウス工業株式会社　Copyright DAIWA HOUSE INDUSTRY CO.,LTD All rights reserved.",
+      "colorString": "rgb(77, 77, 79)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 217
+    }
+  ]
+]

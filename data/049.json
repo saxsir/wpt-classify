@@ -1,0 +1,1870 @@
+[
+  {
+    "0": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "1": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ]
+  },
+  {
+    "0": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "1": [
+      43,
+      45,
+      47,
+      49,
+      51
+    ],
+    "2": [
+      44,
+      46,
+      48,
+      50,
+      52
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 216,
+      "height": 30,
+      "top": 20,
+      "left": 1064,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\n\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "219",
+          "g": "240",
+          "b": "227"
+        }
+      },
+      "width": 134,
+      "height": 27,
+      "top": 60,
+      "left": 1073.5,
+      "fontSize": "161498",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(219, 240, 227) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 60,
+      "height": 27,
+      "top": 60,
+      "left": 1210.5,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "検索",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 160, 64) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 99,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "商品情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 149,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "ブランドサイト",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -51px / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 199,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "動画ギャラリー",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -102px / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 249,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "キャンペーン",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -153px / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 299,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "レシピ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -204px / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 349,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "知る・楽しむ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -255px / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 399,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "ショッピング",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -306px / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 449,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "メールマガジン",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -357px / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 216,
+      "height": 51,
+      "top": 499,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "お客様相談室",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/navigation/navi_global.png) repeat scroll 0px -408px / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 196,
+      "height": 50,
+      "top": 559,
+      "left": 1074,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) url(http://www.itoen.co.jp/assets/images/icons/arrow/green_right_mini.png) no-repeat scroll 180px 50% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/gnav_blank_icon.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 196,
+      "height": 32,
+      "top": 619,
+      "left": 1074,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/gnav_blank_icon.gif) no-repeat scroll 100% 0% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/shared/gnav_blank_icon.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 196,
+      "height": 32,
+      "top": 661,
+      "left": 1074,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/shared/gnav_blank_icon.gif) no-repeat scroll 100% 0% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 630,
+      "height": 630,
+      "top": 22,
+      "left": 54,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 304,
+      "height": 304,
+      "top": 22,
+      "left": 706,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 304,
+      "height": 304,
+      "top": 348,
+      "left": 706,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 84.5625,
+      "height": 27,
+      "top": 667,
+      "left": 47,
+      "fontSize": "161498",
+      "fontWeight": "normal",
+      "innerHTML": "お知らせ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 160, 64) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "252",
+          "g": "252",
+          "b": "252"
+        }
+      },
+      "width": 950,
+      "height": 46,
+      "top": 677,
+      "left": 57,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "弊社を騙（かた）る投資勧誘にご注意ください。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "247",
+          "b": "177"
+        }
+      },
+      "width": 630,
+      "height": 97,
+      "top": 748,
+      "left": 54,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "247",
+          "b": "177"
+        }
+      },
+      "width": 630,
+      "height": 32,
+      "top": 852,
+      "left": 54,
+      "fontSize": "220224",
+      "fontWeight": "normal",
+      "innerHTML": "アロハ着ておれより若い案山子かな",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "247",
+          "b": "177"
+        }
+      },
+      "width": 630,
+      "height": 46,
+      "top": 845,
+      "left": 54,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "247",
+          "b": "177"
+        }
+      },
+      "width": 630,
+      "height": 25,
+      "top": 894.5,
+      "left": 54,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "埼玉県  高橋　寛  66歳",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "247",
+          "b": "177"
+        }
+      },
+      "width": 630,
+      "height": 31,
+      "top": 891,
+      "left": 54,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "247",
+          "b": "177"
+        }
+      },
+      "width": 630,
+      "height": 27,
+      "top": 922,
+      "left": 54,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 630,
+      "height": 69,
+      "top": 949,
+      "left": 54,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\n\t\t\t\n\t\t\t第二十六回新俳句大賞　入賞作品発表！\n\t\t\t\t\t\n\t\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 304,
+      "height": 203,
+      "top": 748,
+      "left": 706,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 304,
+      "height": 201,
+      "top": 748,
+      "left": 706,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tお～いお茶 緑茶 特別限定「紅葉（もみじ）」パッケージ\n\t\t\t\t\t\tお～いお茶 緑茶 特別限定「紅葉（もみじ）」…\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/icons/arrow/green_left.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 15,
+      "height": 25,
+      "top": 836.5,
+      "left": 716,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "Prev",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/icons/arrow/green_left.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.itoen.co.jp/assets/images/icons/arrow/green_right.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 15,
+      "height": 25,
+      "top": 836.5,
+      "left": 985,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "Next",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.itoen.co.jp/assets/images/icons/arrow/green_right.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "243",
+          "g": "250",
+          "b": "250"
+        }
+      },
+      "width": 304,
+      "height": 69,
+      "top": 949,
+      "left": 706,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\n\t\t\t\n\t\t\tピックアップ商品一覧へ\n\t\t\t\t\t\n\t\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(243, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "248",
+          "g": "217",
+          "b": "230"
+        }
+      },
+      "width": 318,
+      "height": 334,
+      "top": 1035,
+      "left": 47,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t京都の老舗米店「八代目儀兵衛」の五ツ星お米マイスターと当社熟練茶師が厳選した新米などを抽選でプレゼント！\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(248, 217, 230) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "248",
+          "g": "217",
+          "b": "230"
+        }
+      },
+      "width": 318,
+      "height": 334,
+      "top": 1035,
+      "left": 373,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tニューヨーク旅行やスイーツオリジナルカタログなどを抽選でプレゼント！\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(248, 217, 230) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "246",
+          "g": "208",
+          "b": "208"
+        }
+      },
+      "width": 318,
+      "height": 334,
+      "top": 1035,
+      "left": 699,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t野菜飲料を使ったあなたのオリジナルレシピを募集中！入賞賞品のほか、参加賞もご用意しています。\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(246, 208, 208) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "246",
+          "g": "208",
+          "b": "208"
+        }
+      },
+      "width": 318,
+      "height": 334,
+      "top": 1377,
+      "left": 47,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t厳選した茶葉をお客様の元へ。日本茶・紅茶・中国茶の茶葉専門公式通販サイトです。\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(246, 208, 208) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "247",
+          "b": "177"
+        }
+      },
+      "width": 318,
+      "height": 334,
+      "top": 1377,
+      "left": 373,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tお茶のキャラクターたちがお茶のことや季節の飲み物などを紹介するブログです。（9/30更新）\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 247, 177) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "196",
+          "b": "144"
+        }
+      },
+      "width": 318,
+      "height": 334,
+      "top": 1377,
+      "left": 699,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t【秋の味覚特集】秋にぴったりのお茶を使ったレシピをご紹介中です\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(245, 196, 144) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "248",
+          "g": "217",
+          "b": "230"
+        }
+      },
+      "width": 318,
+      "height": 310,
+      "top": 1719,
+      "left": 47,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t自動販売機設置先ご紹介キャンペーン実施中\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(248, 217, 230) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "226",
+          "g": "231",
+          "b": "227"
+        }
+      },
+      "width": 630,
+      "height": 33,
+      "top": 1726,
+      "left": 380,
+      "fontSize": "205542",
+      "fontWeight": "normal",
+      "innerHTML": "新着情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 60.375,
+      "height": 24,
+      "top": 1719,
+      "left": 956.625,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "一覧",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 160, 64) url(http://www.itoen.co.jp/assets/images/icons/arrow/white_mini.png) no-repeat scroll 10px 50% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 34,
+      "top": 1774,
+      "left": 392.3125,
+      "fontSize": "146816",
+      "fontWeight": "bold",
+      "innerHTML": "2015年10月01日",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 457,
+      "height": 34,
+      "top": 1774,
+      "left": 532.3125,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNEW\t\t\t\t\t\t\t\t\t\t\t\t「健康ミネラルむぎ茶」秋冬向けパッケージ 10月初旬より販売開始\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 35,
+      "top": 1808,
+      "left": 392.3125,
+      "fontSize": "146816",
+      "fontWeight": "bold",
+      "innerHTML": "2015年10月01日",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 457,
+      "height": 35,
+      "top": 1808,
+      "left": 532.3125,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNEW\t\t\t\t\t\t\t\t\t\t\t\t「Relaxジャスミンティー」秋冬向けの飲用シーン訴求パッケージ 10月12日より販売開始\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 35,
+      "top": 1843,
+      "left": 392.3125,
+      "fontSize": "146816",
+      "fontWeight": "bold",
+      "innerHTML": "2015年10月01日",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 457,
+      "height": 35,
+      "top": 1843,
+      "left": 532.3125,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tNEW\t\t\t\t\t\t\t\t\t\t\t\t抹茶を使ったレシピ「抹茶オムレツ」公開\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 35,
+      "top": 1878,
+      "left": 392.3125,
+      "fontSize": "146816",
+      "fontWeight": "bold",
+      "innerHTML": "2015年09月30日",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 457,
+      "height": 35,
+      "top": 1878,
+      "left": 532.3125,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tNEW\t\t\t\t\t\t\t\t\t\t\t\t緑丸くんの茶っとブログ「お～いお茶はごはんの甘みを引き立てる！」公開\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 35,
+      "top": 1913,
+      "left": 392.3125,
+      "fontSize": "146816",
+      "fontWeight": "bold",
+      "innerHTML": "2015年09月24日",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 457,
+      "height": 35,
+      "top": 1913,
+      "left": 532.3125,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t「TEAS’ TEAニューヨーク旅行・スイーツオリジナルカタログプレゼントキャンペーン」10月5日（月）から開始\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 140,
+      "height": 35,
+      "top": 1948,
+      "left": 392.3125,
+      "fontSize": "146816",
+      "fontWeight": "bold",
+      "innerHTML": "2015年09月24日",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 457,
+      "height": 35,
+      "top": 1948,
+      "left": 532.3125,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t新商品発売記念イベント「TEAS' TEA フルーツハロウィン」10月2日（金）から4日（日）まで開催\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 5,
+      "height": 87,
+      "top": 1769,
+      "left": 1000,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(0, 160, 64) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 184.953125,
+      "height": 20,
+      "top": 2096,
+      "left": 135,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "ディスクロージャーポリシー｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 211.375,
+      "height": 20,
+      "top": 2096,
+      "left": 319.953125,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "個人情報保護法に基づく公表事項｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 66.0625,
+      "height": 20,
+      "top": 2096,
+      "left": 531.328125,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "電子公告｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 158.53125,
+      "height": 20,
+      "top": 2096,
+      "left": 597.390625,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "プライバシー・ポリシー｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 198.171875,
+      "height": 20,
+      "top": 2096,
+      "left": 755.921875,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "ソーシャルメディア・ポリシー｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 132.109375,
+      "height": 20,
+      "top": 2096,
+      "left": 954.09375,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "一般事業主行動計画｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 66.0625,
+      "height": 20,
+      "top": 2096,
+      "left": 1086.203125,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "利用規約｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 118.90625,
+      "height": 20,
+      "top": 2120,
+      "left": 135,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "個人情報保護方針｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 92.484375,
+      "height": 20,
+      "top": 2120,
+      "left": 253.90625,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "お客様相談室｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 66.0625,
+      "height": 20,
+      "top": 2120,
+      "left": 346.390625,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "採用情報｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 92.484375,
+      "height": 20,
+      "top": 2120,
+      "left": 412.453125,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "サイトマップ｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 65.453125,
+      "height": 20,
+      "top": 2120,
+      "left": 504.9375,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "GLOBAL｜\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "160",
+          "b": "64"
+        }
+      },
+      "width": 58.453125,
+      "height": 20,
+      "top": 2120,
+      "left": 570.390625,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "ENGLISH",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 125,
+      "height": 66,
+      "top": 2087,
+      "left": 0,
+      "fontSize": "293632",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "160",
+        "b": "64"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "219",
+          "g": "240",
+          "b": "227"
+        }
+      },
+      "width": 216,
+      "height": 27,
+      "top": 2153,
+      "left": 1064,
+      "fontSize": "146816",
+      "fontWeight": "normal",
+      "innerHTML": "ページの先頭へ戻る",
+      "colorString": "rgb(0, 160, 64)",
+      "backgroundString": "rgb(219, 240, 227) url(http://www.itoen.co.jp/assets/images/shared/foot_to_top.png) no-repeat scroll 201px 50% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 310.609375,
+      "height": 20,
+      "top": 2157,
+      "left": 376.6875,
+      "fontSize": "132134",
+      "fontWeight": "normal",
+      "innerHTML": "Copyright (C) All Rights Reserved. ITO EN, LTD.",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 69
+    }
+  ]
+]

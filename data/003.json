@@ -1,0 +1,2503 @@
+[
+  {
+    "0": [
+      3,
+      4,
+      5
+    ],
+    "1": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "2": [
+      44,
+      46,
+      48,
+      50
+    ],
+    "3": [
+      52,
+      54,
+      56,
+      58
+    ],
+    "4": [
+      60,
+      62,
+      64,
+      66
+    ],
+    "5": [
+      88,
+      89,
+      90
+    ]
+  },
+  {
+    "0": [
+      17,
+      42,
+      67
+    ],
+    "1": [
+      19,
+      22,
+      25,
+      28,
+      31
+    ],
+    "2": [
+      21,
+      24,
+      27
+    ],
+    "3": [
+      23,
+      26,
+      32
+    ],
+    "4": [
+      36,
+      37,
+      39,
+      40
+    ],
+    "5": [
+      43,
+      51,
+      59
+    ],
+    "6": [
+      44,
+      46,
+      52,
+      54,
+      60,
+      62
+    ],
+    "7": [
+      45,
+      53,
+      61
+    ],
+    "8": [
+      47,
+      55,
+      63
+    ],
+    "9": [
+      48,
+      50,
+      56,
+      58,
+      64,
+      66
+    ],
+    "10": [
+      49,
+      57,
+      65
+    ],
+    "11": [
+      83,
+      84,
+      86
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 498,
+      "height": 80,
+      "top": 28,
+      "left": 180,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 110,
+      "height": 20,
+      "top": 57,
+      "left": 750,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 63, 151) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 16,
+      "height": 16,
+      "top": 59,
+      "left": 868.328125,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 63, 151) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 47.96875,
+      "height": 16,
+      "top": 59,
+      "left": 914.40625,
+      "fontSize": "1105",
+      "fontWeight": "normal",
+      "innerHTML": "English",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 75.3125,
+      "height": 16,
+      "top": 59,
+      "left": 970.375,
+      "fontSize": "1105",
+      "fontWeight": "normal",
+      "innerHTML": "サイトマップ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 66.3125,
+      "height": 16,
+      "top": 59,
+      "left": 1053.6875,
+      "fontSize": "1105",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 960,
+      "height": 460,
+      "top": 94,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/images/mv_prev.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 53,
+      "height": 158,
+      "top": 244,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "Prev",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.sho-bondhd.jp/images/mv_prev.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/images/mv_next.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 53,
+      "height": 158,
+      "top": 244,
+      "left": 1067,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "Next",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.sho-bondhd.jp/images/mv_next.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/shared/images/bg_white.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 120,
+      "height": 24,
+      "top": 515,
+      "left": 164,
+      "fontSize": "1209",
+      "fontWeight": "bold",
+      "innerHTML": "ニュースリリース",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/shared/images/bg_white.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 108.796875,
+      "height": 18,
+      "top": 518,
+      "left": 299,
+      "fontSize": "1209",
+      "fontWeight": "bold",
+      "innerHTML": "2014年9月30日",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/shared/images/bg_white.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 670,
+      "height": 18,
+      "top": 518,
+      "left": 299,
+      "fontSize": "1209",
+      "fontWeight": "bold",
+      "innerHTML": "ホームページを改定しました。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "14",
+        "g": "73",
+        "b": "157"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/shared/images/arrow_bottom.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 135,
+      "height": 22,
+      "top": 516,
+      "left": 970,
+      "fontSize": "1209",
+      "fontWeight": "bold",
+      "innerHTML": "ニュース一覧へ",
+      "colorString": "rgb(14, 73, 157)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/arrow_bottom.png) no-repeat scroll 10px 7px / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 230,
+      "height": 84,
+      "top": 562,
+      "left": 168,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/nav_comp_on.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 230,
+      "height": 84,
+      "top": 562,
+      "left": 406,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/nav_busi_on.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 230,
+      "height": 84,
+      "top": 562,
+      "left": 644,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/nav_ir_on.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 230,
+      "height": 84,
+      "top": 562,
+      "left": 882,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/nav_rec_on.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 652,
+      "height": 82,
+      "top": 716,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 164,
+      "height": 29,
+      "top": 744,
+      "left": 648,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "過去のニュースへ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 117,
+      "height": 35,
+      "top": 838,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2015年09月29日",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "153",
+          "b": "0"
+        }
+      },
+      "width": 80,
+      "height": 19,
+      "top": 846,
+      "left": 287,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "IR資料",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(255, 153, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 632,
+      "height": 36,
+      "top": 838,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "第8期 年次報告書［ ：772KB ］[NEW!]",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 117,
+      "height": 35,
+      "top": 884,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2015年09月29日",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "163",
+          "g": "28",
+          "b": "1"
+        }
+      },
+      "width": 80,
+      "height": 19,
+      "top": 892,
+      "left": 287,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "株主総会",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(163, 28, 1) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 632,
+      "height": 36,
+      "top": 884,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "第８回定時株主総会決議ご通知［ ：167KB ］[NEW!]",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 117,
+      "height": 35,
+      "top": 930,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2015年09月28日",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "163",
+          "g": "28",
+          "b": "1"
+        }
+      },
+      "width": 80,
+      "height": 19,
+      "top": 938,
+      "left": 287,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "株主総会",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(163, 28, 1) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 632,
+      "height": 36,
+      "top": 930,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "臨時報告書［ ：18KB ］[NEW!]",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 117,
+      "height": 35,
+      "top": 976,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2015年09月28日",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "59",
+          "g": "180",
+          "b": "49"
+        }
+      },
+      "width": 80,
+      "height": 19,
+      "top": 984,
+      "left": 287,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "決算",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(59, 180, 49) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 632,
+      "height": 55,
+      "top": 976,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "有価証券報告書－第8期(平成26年7月1日－平成27年6月30日)［ ：416KB ］[NEW!]",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 117,
+      "height": 35,
+      "top": 1041,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2015年09月08日",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "163",
+          "g": "28",
+          "b": "1"
+        }
+      },
+      "width": 80,
+      "height": 19,
+      "top": 1049,
+      "left": 287,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "株主総会",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(163, 28, 1) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 632,
+      "height": 74,
+      "top": 1041,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "NOTICE OF THE 8TH ANNUAL GENERAL MEETING OF SHAREHOLDERS（第８回定時株主総会招集通知・英語版）［ ：343KB ］[NEW!]",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 270,
+      "height": 45,
+      "top": 731,
+      "left": 849,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 226,
+      "height": 19,
+      "top": 801,
+      "left": 871,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "2015年6月期",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 226,
+      "height": 38,
+      "top": 820,
+      "left": 871,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "個人株主様向け会社説明会 決算説明編 ［ ： 166MB］",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 226,
+      "height": 38,
+      "top": 873,
+      "left": 871,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "個人株主様向け会社説明会 事業概要説明編 ［ ：80MB］",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 270,
+      "height": 45,
+      "top": 966,
+      "left": 849,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 226,
+      "height": 38,
+      "top": 1036,
+      "left": 871,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "平成27年6月期 決算短信〔日本基準〕(連結)",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 226,
+      "height": 38,
+      "top": 1089,
+      "left": 871,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "有価証券報告書－第8期(平成26年7月1日－平成27年6月30日)",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 226,
+      "height": 19,
+      "top": 1142,
+      "left": 871,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "第8期 年次報告書",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 960,
+      "height": 82,
+      "top": 1256,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 225,
+      "top": 1388,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1388,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 465,
+      "height": 41,
+      "top": 1572,
+      "left": 170,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "特色と強み",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/arrow_yellow.png) no-repeat scroll 442px 50% / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1388,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n    ショーボンドグループは、建設会社としての設計・施工を主軸に、材料・工法の研究開発、開発された材料や工法の製造や販売まで、社会インフラのメンテナンスをトータル的にサポートしています。\n    ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 225,
+      "top": 1388,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1388,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 465,
+      "height": 41,
+      "top": 1572,
+      "left": 645,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "橋梁分野",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/arrow_yellow.png) no-repeat scroll 442px 50% / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1388,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n    ショーボンドグループでは、橋梁の老朽化の問題に対し、社会のニーズに対応した補修・補強製品の開発・製造・販売から施工まで、長年の経験と技術力を活かしてトータル的にサポートしています。\n    ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 225,
+      "top": 1653,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1653,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 465,
+      "height": 41,
+      "top": 1837,
+      "left": 170,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "建築分野",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/arrow_yellow.png) no-repeat scroll 442px 50% / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1653,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n    日本の建築物や公共施設に対する地震への備えは万全であるとは言い難い状況です。ショーボンドグループの建築分野では、建築物の耐震補強工事を中心にリニューアル工事全般を手掛けています。\n    ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 225,
+      "top": 1653,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1653,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 465,
+      "height": 41,
+      "top": 1837,
+      "left": 645,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "製造・販売",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/arrow_yellow.png) no-repeat scroll 442px 50% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1653,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n    製造と施工の両方を行うから具体的な改良ができ、より良い製品を製造・販売できます。構造物の抱える問題は極めて広範囲にわたり、この問題に50年以上にわたって研鑽を積んだ結果がショーボンドの製品です。\n    ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 225,
+      "top": 1918,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1918,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 465,
+      "height": 41,
+      "top": 2102,
+      "left": 170,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "研究・開発・調査・診断",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/arrow_yellow.png) no-repeat scroll 442px 50% / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1918,
+      "left": 170,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n    ショーボンドグループは、長年の技術の蓄積により独自の調査技術・診断技術を多く有し、社会インフラ長寿命化のエキスパートであると同時に、インフラドクターの役目も果たしています。\n    ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 225,
+      "top": 1918,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1918,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 465,
+      "height": 41,
+      "top": 2102,
+      "left": 645,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "その他土木分野",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/arrow_yellow.png) no-repeat scroll 442px 50% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 465,
+      "height": 184,
+      "top": 1918,
+      "left": 645,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "\n    「流通」が、円滑に続いていくためには、社会インフラの「保全」が重要です。私達は、あらゆる社会インフラを老朽化や災害から守り、次世代に良好な状態で引き継ぐことを使命としています。\n    ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "45",
+          "b": "110"
+        }
+      },
+      "width": 960,
+      "height": 82,
+      "top": 2213,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 800,
+      "height": 142,
+      "top": 2385,
+      "left": 240,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 266,
+      "height": 142,
+      "top": 2385,
+      "left": 240,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 69
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 480,
+      "height": 24,
+      "top": 2385,
+      "left": 560,
+      "fontSize": "1612",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンド建設",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 70
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 480,
+      "height": 63,
+      "top": 2429,
+      "left": 560,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "橋梁、トンネル等の道路構造物をはじめとする、鉄道、電力、港湾、建築等の公共インフラの、トータルメンテナンス。",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 71
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 258,
+      "height": 33,
+      "top": 2572,
+      "left": 240,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンド建設",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/icon_close.gif) no-repeat scroll 615px 50% / auto padding-box border-box",
+      "id": 72
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 258,
+      "height": 33,
+      "top": 2572,
+      "left": 508,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンド化学",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 73
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 258,
+      "height": 33,
+      "top": 2572,
+      "left": 776,
+      "fontSize": "1404",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンドカップリング",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 74
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/images/arrow_prev.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 13,
+      "height": 34,
+      "top": 2425,
+      "left": 195,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "Prev",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.sho-bondhd.jp/images/arrow_prev.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 75
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/images/arrow_next.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 13,
+      "height": 34,
+      "top": 2425,
+      "left": 1072,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "Next",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.sho-bondhd.jp/images/arrow_next.png) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 76
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 800,
+      "height": 19,
+      "top": 2572,
+      "left": 240,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "Start",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 77
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "40",
+          "g": "81",
+          "b": "138"
+        }
+      },
+      "width": 800,
+      "height": 19,
+      "top": 2591,
+      "left": 240,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "Stop",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 78
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sho-bondhd.jp/shared/images/btn_pagetop_on.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 136,
+      "height": 37,
+      "top": 2724,
+      "left": 994,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.sho-bondhd.jp/shared/images/btn_pagetop_on.png) no-repeat scroll 0px -37px / auto padding-box border-box",
+      "id": 79
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 158,
+      "height": 49,
+      "top": 2800,
+      "left": 160,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 80
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 470,
+      "height": 72,
+      "top": 2800,
+      "left": 160,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンドホールディングス株式会社〒103-0015東京都中央区日本橋箱崎町7番8号TEL.03-6892-7101",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 81
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 94.546875,
+      "height": 21,
+      "top": 2800,
+      "left": 630,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "グループ会社",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 82
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 210,
+      "height": 18,
+      "top": 2831,
+      "left": 630,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンド建設",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 83
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 210,
+      "height": 18,
+      "top": 2855,
+      "left": 630,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンド化学",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 84
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 210,
+      "height": 91,
+      "top": 2879,
+      "left": 630,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "ショーボンドカップリング",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 85
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 210,
+      "height": 18,
+      "top": 2976,
+      "left": 630,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "上田記念財団",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 86
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 270,
+      "height": 174,
+      "top": 2800,
+      "left": 850,
+      "fontSize": "1209",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 87
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 75.3125,
+      "height": 16,
+      "top": 3070,
+      "left": 160,
+      "fontSize": "1105",
+      "fontWeight": "normal",
+      "innerHTML": "サイトマップ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 88
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 97.40625,
+      "height": 16,
+      "top": 3070,
+      "left": 243.3125,
+      "fontSize": "1105",
+      "fontWeight": "normal",
+      "innerHTML": "個人情報保護方針",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 89
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 44.203125,
+      "height": 16,
+      "top": 3070,
+      "left": 348.71875,
+      "fontSize": "1105",
+      "fontWeight": "normal",
+      "innerHTML": "利用規約",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 90
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "63",
+          "b": "151"
+        }
+      },
+      "width": 296,
+      "height": 17,
+      "top": 3070,
+      "left": 824,
+      "fontSize": "1105",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 91
+    }
+  ]
+]

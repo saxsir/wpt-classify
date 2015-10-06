@@ -12,15 +12,21 @@
     // Finding horizontal block
     var horizontallyRepeatedBlocks = _.chain(nodes)
       .groupBy(function(node) {
-        // Rule1. topの値とheightの値が一致する
+        // Rule1.
+        // 同じ色でもファイル名が異なる場合があるので、
+        // backgroundがimageの場合は同じかどうか比較していない
         return JSON.stringify([
           node.top,
           node.height,
+          node.fontSize,
+          node.fontWeight,
+          node.background.type,
+          node.background.color
         ]);
       })
       .filter(function(v, k) {
-        // Rule2. 2回以上の繰り返し
-        return v.length >= 2;
+        // Rule2. 3回以上の繰り返し
+        return v.length >= 3;
       })
       .mapObject(function(v, k) {
         return _.map(v, function(node) {
@@ -36,11 +42,15 @@
         return JSON.stringify([
           node.left,
           node.height,
+          node.fontSize,
+          node.fontWeight,
+          node.background.type,
+          node.background.color
         ]);
       })
       .filter(function(v, k) {
-        // Rule2. 2回以上の繰り返し
-        return v.length >= 2;
+        // Rule2. 3回以上の繰り返し
+        return v.length >= 3;
       })
       .mapObject(function(v, k) {
         return _.map(v, function(node) {

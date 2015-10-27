@@ -498,6 +498,10 @@
   DOMSegmentater.prototype.hasMinimumBlockSiblings = hasMinimumBlockSiblings;
   DOMSegmentater.prototype.getNodeLayoutData = getNodeLayoutData;
 
+  DOMSegmentater.prototype.hello = function() {
+    return 'hello';
+  };
+
   if (typeof module !== 'undefined' && module.exports) { // Node.js の場合
     module.exports = DOMSegmentater;
   } else { // ブラウザの場合

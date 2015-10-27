@@ -1,0 +1,4106 @@
+[
+  {
+    "0": [
+      1,
+      2,
+      3
+    ],
+    "1": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "2": [
+      16,
+      17,
+      18
+    ],
+    "3": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "4": [
+      86,
+      110,
+      131
+    ],
+    "5": [
+      87,
+      111,
+      132
+    ],
+    "6": [
+      88,
+      112,
+      133
+    ],
+    "7": [
+      89,
+      113,
+      134
+    ],
+    "8": [
+      90,
+      114,
+      135
+    ]
+  },
+  {
+    "0": [
+      21,
+      31,
+      36
+    ],
+    "1": [
+      37,
+      39,
+      41,
+      43,
+      45,
+      47,
+      49,
+      51,
+      53,
+      55,
+      57
+    ],
+    "2": [
+      38,
+      40,
+      42,
+      44,
+      46,
+      48,
+      50,
+      52,
+      54,
+      56,
+      58
+    ],
+    "3": [
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74,
+      76
+    ],
+    "4": [
+      61,
+      65,
+      75,
+      77
+    ],
+    "5": [
+      67,
+      71,
+      73
+    ],
+    "6": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "7": [
+      110,
+      115,
+      124,
+      126
+    ],
+    "8": [
+      111,
+      112,
+      113,
+      114,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      125,
+      127,
+      128,
+      129,
+      130
+    ],
+    "9": [
+      131,
+      137,
+      139
+    ],
+    "10": [
+      132,
+      133,
+      134,
+      135,
+      136,
+      138,
+      140,
+      141,
+      142,
+      143
+    ],
+    "11": [
+      145,
+      146,
+      147
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 262,
+      "height": 61,
+      "top": 9,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 93,
+      "height": 21,
+      "top": 9,
+      "left": 495.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "サイトマップ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 93,
+      "height": 21,
+      "top": 9,
+      "left": 588.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 116,
+      "height": 21,
+      "top": 9,
+      "left": 681.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "住宅展示場を探す",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.sxl.co.jp/img/nav_catalog_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 95,
+      "height": 36,
+      "top": 9,
+      "left": 797.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "カタログ請求",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.sxl.co.jp/img/nav_catalog_bg.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 142,
+      "height": 20,
+      "top": 13,
+      "left": 910.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 46,
+      "height": 20,
+      "top": 13,
+      "left": 1055.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "168",
+          "g": "168",
+          "b": "168"
+        }
+      },
+      "width": 104.8125,
+      "height": 16,
+      "top": 85,
+      "left": 213.84375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "注文住宅",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "168",
+          "g": "168",
+          "b": "168"
+        }
+      },
+      "width": 118,
+      "height": 16,
+      "top": 85,
+      "left": 318.65625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "リフォーム",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "168",
+          "g": "168",
+          "b": "168"
+        }
+      },
+      "width": 184,
+      "height": 16,
+      "top": 85,
+      "left": 436.65625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "分譲住宅・宅地・仲介",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "168",
+          "g": "168",
+          "b": "168"
+        }
+      },
+      "width": 170.8125,
+      "height": 16,
+      "top": 85,
+      "left": 620.65625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用・賃貸経営",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "168",
+          "g": "168",
+          "b": "168"
+        }
+      },
+      "width": 170.8125,
+      "height": 16,
+      "top": 85,
+      "left": 791.46875,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "オーナー様サポート",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "168",
+          "g": "168",
+          "b": "168"
+        }
+      },
+      "width": 103.875,
+      "height": 16,
+      "top": 85,
+      "left": 962.28125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "企業・IR情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 920,
+      "height": 395,
+      "top": 111,
+      "left": 180,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 180,
+      "height": 395,
+      "top": 111,
+      "left": 0,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(255, 255, 255) url(http://www.sxl.co.jp/img/prev.jpg) no-repeat scroll 100% 50% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 180,
+      "height": 395,
+      "top": 111,
+      "left": 1100,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(255, 255, 255) url(http://www.sxl.co.jp/img/next.jpg) no-repeat scroll 0% 50% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "78",
+          "b": "162"
+        }
+      },
+      "width": 15,
+      "height": 15,
+      "top": 526,
+      "left": 607.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(0, 78, 162) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "78",
+          "b": "162"
+        }
+      },
+      "width": 15,
+      "height": 15,
+      "top": 526,
+      "left": 632.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(0, 78, 162) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "78",
+          "b": "162"
+        }
+      },
+      "width": 15,
+      "height": 15,
+      "top": 526,
+      "left": 657.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(0, 78, 162) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 676.09375,
+      "height": 37,
+      "top": 566,
+      "left": 206.1875,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "\n    このたびの台風18号及び大雨により被害を受けられた皆様には、心よりお見舞い申し上げます。\n    なお、お住まいのことでお困りごとやご相談などがございましたら、弊社ご相談窓口までご連絡下さい。\n",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 184.59375,
+      "height": 20,
+      "top": 576,
+      "left": 882.28125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "181",
+          "g": "182",
+          "b": "182"
+        }
+      },
+      "width": 453,
+      "height": 35,
+      "top": 613,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(181, 182, 182) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 205,
+      "height": 123,
+      "top": 663,
+      "left": 193.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 205,
+      "height": 51,
+      "top": 786,
+      "left": 193.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 205,
+      "height": 51,
+      "top": 837,
+      "left": 193.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 220,
+      "height": 240,
+      "top": 663,
+      "left": 411.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "181",
+          "g": "182",
+          "b": "182"
+        }
+      },
+      "width": 453,
+      "height": 35,
+      "top": 613,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(181, 182, 182) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 120,
+      "top": 648,
+      "left": 668.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 120,
+      "top": 648,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 120,
+      "top": 768,
+      "left": 668.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 120,
+      "top": 768,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "181",
+          "g": "182",
+          "b": "182"
+        }
+      },
+      "width": 923,
+      "height": 35,
+      "top": 923,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(181, 182, 182) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 209,
+      "top": 973,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\n注文住宅ラインナップをご紹介します。\n",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 209,
+      "top": 973,
+      "left": 411.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\nスタイリッシュリフォームをご提案します。\n",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 209,
+      "top": 973,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\n全国の分譲物件情報をご案内。\n",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 209,
+      "top": 973,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\nアパート経営や収益事業についてご紹介。\n",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "181",
+          "g": "182",
+          "b": "182"
+        }
+      },
+      "width": 453,
+      "height": 35,
+      "top": 1212,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(181, 182, 182) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1259,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/09/30",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1259,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「小堀の住まい」邸宅実例「甲陽園の家」追加しました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1289,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/09/19",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1289,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "秋の住まいづくり「美健空間のある暮らしフェア」開催中。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1319,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/09/19",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1319,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「ZEHの住まい」ご当選者発表。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1349,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/09/14",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1349,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「小堀の住まい」医院実例「Ａクリニック」追加しました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1379,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/08/31",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1379,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「小堀の住まい」邸宅実例「関谷の家」追加しました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1409,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/08/11",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1409,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「小堀の住まい」邸宅実例「東大阪の家」追加しました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1439,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/08/01",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1439,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「ZEHの住まい」キャンペーン開催中。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1469,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/07/31",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1469,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「美と機能にこだわる企業建築家」movie公開しました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1499,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/07/17",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1499,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "クイズで当たる。「プロ野球観戦チケット」プレゼント",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1529,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/07/14",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1529,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「小堀の住まい」邸宅実例「aVilla」追加しました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1559,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/06/30",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1559,
+      "left": 262.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「小堀の住まい」サイトにmovie公開しました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "181",
+          "g": "182",
+          "b": "182"
+        }
+      },
+      "width": 453,
+      "height": 35,
+      "top": 1212,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgb(181, 182, 182) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1259,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/09/29",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1259,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "2015年上半期決算キャンペーンの結果についてのお知らせ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1289,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/09/17",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 75,
+      "top": 1289,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "実生活者モニターにより、『ＮＫ細胞の活性化 』を、住空間で立証\n美しい空気が“心地良さ”  に加えて、“ 健康を呼び込む予防医学 ” の領域へ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1364,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/08/08",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1364,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "「CSR報告書2015」を掲載いたしました。",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1394,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/07/23",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 45,
+      "top": 1394,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "住宅メーカー初　住宅設備延長保証（10年）を標準搭載\n平成27年8月1日から提供開始",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1439,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/07/16",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 60,
+      "top": 1439,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "モデルルームや住宅展示場でPepperを活用したトライアルを実施 \n  ～「ロボットのいる家」の実現を見据え、3社が協力～",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 69
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1499,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/07/09",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 70
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 45,
+      "top": 1499,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "平成28年2月期　第一四半期決算短信を掲載いたしました。〔PDF〕",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 71
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1544,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/06/30",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 72
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 45,
+      "top": 1544,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "内部統制システム構築の基本方針の一部変更のお知らせ〔PDF〕",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 73
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1589,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/06/30",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 74
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1589,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "人事異動に関するお知らせ〔PDF〕",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 75
+    },
+    {
+      "color": {
+        "r": "234",
+        "g": "84",
+        "b": "19"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 83.84375,
+      "height": 15,
+      "top": 1619,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "2015/05/29",
+      "colorString": "rgb(234, 84, 19)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 76
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 369.15625,
+      "height": 30,
+      "top": 1619,
+      "left": 732.34375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "支配株主等に関する事項について〔PDF〕",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 77
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 453,
+      "height": 30,
+      "top": 1649,
+      "left": 648.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 78
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 186,
+      "height": 55,
+      "top": 1723,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 79
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 186,
+      "height": 55,
+      "top": 1723,
+      "left": 364.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 80
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 268,
+      "height": 58,
+      "top": 1724,
+      "left": 568.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 81
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 13,
+      "height": 60,
+      "top": 1723,
+      "left": 555.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 82
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 13,
+      "height": 60,
+      "top": 1723,
+      "left": 836.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 83
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 220,
+      "height": 53,
+      "top": 1723,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 84
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 923,
+      "height": 31,
+      "top": 1808,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 85
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 1859,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "事業案内",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 86
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1885,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "注文住宅事業",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 87
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1905,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "リフォーム事業",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 88
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1925,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "土地分譲・戸建分譲・仲介事業",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 89
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1945,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用・賃貸経営サポート事業",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 90
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1965,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "スムストック・不動産売買サポート",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 91
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1985,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "代理店事業",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 92
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 2022,
+      "left": 178.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "注文住宅",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 93
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2048,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "小堀の住まい",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 94
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2068,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "ＭINCA．",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 95
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2088,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "アステア",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 96
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2108,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "シンプル＆モダン",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 97
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2128,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "ニューオーセント",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 98
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2148,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "Eシェリエ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 99
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2168,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "スマートエコスタイルゼロ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 100
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 34,
+      "top": 2188,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "スマートハウス「スマートハウジング」",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 101
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2222,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "太陽と中庭のある住まい",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 102
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2242,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "長期優良住宅・家族謳歌",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 103
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2262,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "都市型三階建・ユトリノ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 104
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2282,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "都市型３階建・ヴィレンツ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 105
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2302,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "二世帯住宅",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 106
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2322,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "北海道の住まい ＳＰシリーズ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 107
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2342,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "構造",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 108
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2362,
+      "left": 178.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "インテリアギャラリー",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 109
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 1859,
+      "left": 403.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "リフォーム・増改築",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 110
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1885,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "リフォームおすすめパック",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 111
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1905,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "リフォーム実例",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 112
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1925,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "リフォームＱ＆Ａ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 113
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1945,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "リフォームすっきり君",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 114
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 1982,
+      "left": 403.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "土地活用・賃貸経営",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 115
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2008,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "土地の有効活用",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 116
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2028,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "資産運用",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 117
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2048,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "アパート・賃貸住宅",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 118
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2068,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "2階建賃貸住宅「セントロイエル」",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 119
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2088,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "戸建賃貸住宅「elsis garden」",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 120
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2108,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "2階建賃貸住宅「elsis」",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 121
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2128,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "3階建賃貸住宅「albeux」",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 122
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2148,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "３０年一括借り上システム",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 123
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 2185,
+      "left": 403.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "土地分譲・戸建分譲・仲介事業",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 124
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2211,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "分譲情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 125
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 2248,
+      "left": 403.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "エリア情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 126
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2274,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "エリア一覧",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 127
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2294,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "イベント情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 128
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2314,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "スタッフブログ",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 129
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2334,
+      "left": 403.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "動画一覧",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 130
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 1859,
+      "left": 628.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "企業・IR情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 131
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1885,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "会社概要",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 132
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1905,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "ＩＲ情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 133
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1925,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "ニュースリリース",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 134
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1945,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "環境・社会活動",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 135
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 1965,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 136
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 2002,
+      "left": 628.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "オーナー様サポート",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 137
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2028,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "すまいりんぐ倶楽部",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 138
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 21,
+      "top": 2065,
+      "left": 628.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "サイト情報",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 139
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2091,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "サイトポリシー",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 140
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2111,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "プライバシーポリシー",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 141
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2131,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "ソーシャルメディアポリシー",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 142
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 200,
+      "height": 20,
+      "top": 2151,
+      "left": 628.5,
+      "fontSize": "1104",
+      "fontWeight": "normal",
+      "innerHTML": "サイトを快適にご利用いただくために",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 143
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 220,
+      "height": 98,
+      "top": 1864,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 144
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 220,
+      "height": 65,
+      "top": 1962,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 145
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 220,
+      "height": 65,
+      "top": 2027,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 146
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 220,
+      "height": 65,
+      "top": 2092,
+      "left": 881.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 147
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 204,
+      "height": 15,
+      "top": 2426,
+      "left": 544.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 148
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "244",
+          "g": "243",
+          "b": "234"
+        }
+      },
+      "width": 329,
+      "height": 15,
+      "top": 2426,
+      "left": 748.5,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 149
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 300,
+      "height": 13,
+      "top": 2451,
+      "left": 0,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "&lt;img height=\"1\" width=\"1\" border=\"0\" alt=\"\" src=\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1064980168/?frame=0&amp;random=1444015930510&amp;cv=8&amp;fst=1444015930510&amp;num=1&amp;fmt=1&amp;guid=ON&amp;u_h=800&amp;u_w=1280&amp;u_ah=800&amp;u_aw=1276&amp;u_cd=24&amp;u_his=2&amp;u_tz=540&amp;u_java=true&amp;u_nplug=6&amp;u_nmime=8&amp;frm=0&amp;url=http%3A//www.sxl.co.jp/\" /&gt;",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 150
+    }
+  ]
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "0": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "1": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {},
+  [
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 226,
+      "height": 56,
+      "top": 0,
+      "left": 160,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 131,
+      "height": 19,
+      "top": 25,
+      "left": 951.75,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 23,
+      "height": 23,
+      "top": 18,
+      "left": 1087,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 950,
+      "height": 16,
+      "top": 64,
+      "left": 165,
+      "fontSize": "1088",
+      "fontWeight": "normal",
+      "innerHTML": "    \t\n    お客さま相談室\n    購買情報\n    採用情報\n    お問い合わせ\n    個人情報保護方針\n    サイト利用規約\n    サイトマップ\n    ENGLISH\n  ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/imges/slideshow/load-indicator.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 960,
+      "height": 350,
+      "top": 84,
+      "left": 161,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/imges/slideshow/load-indicator.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 260,
+      "height": 15,
+      "top": 89,
+      "left": 856,
+      "fontSize": "1024",
+      "fontWeight": "normal",
+      "innerHTML": "北陸新幹線 糸魚川駅（高架橋・駅舎） / 新潟県",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/slideshow/arrow-l.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 22,
+      "height": 30,
+      "top": 387,
+      "left": 737,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "Next",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.kumagaigumi.co.jp/common/images/slideshow/arrow-l.png) no-repeat scroll 100% 50% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/slideshow/transparent_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 32,
+      "top": 387,
+      "left": 764,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/slideshow/transparent_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 32,
+      "top": 387,
+      "left": 844,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/slideshow/transparent_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 32,
+      "top": 387,
+      "left": 924,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/slideshow/transparent_bg.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 80,
+      "height": 32,
+      "top": 387,
+      "left": 1004,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/slideshow/arrow-r.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 22,
+      "height": 30,
+      "top": 387,
+      "left": 1089,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "Previous",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.kumagaigumi.co.jp/common/images/slideshow/arrow-r.png) no-repeat scroll 0% 50% / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/navi_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 137,
+      "height": 29,
+      "top": 445,
+      "left": 160,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "会社情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/navi_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 137,
+      "height": 29,
+      "top": 445,
+      "left": 297,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "技術・サービス・作品",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/navi_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 137,
+      "height": 29,
+      "top": 445,
+      "left": 434,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "投資家情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/navi_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 137,
+      "height": 29,
+      "top": 445,
+      "left": 571,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "安全・品質・環境活動",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/navi_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 137,
+      "height": 29,
+      "top": 445,
+      "left": 708,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "社会貢献活動",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/navi_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 137,
+      "height": 29,
+      "top": 445,
+      "left": 845,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "お知らせ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/navi_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 137,
+      "height": 29,
+      "top": 445,
+      "left": 982,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "プレスリリース",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 420,
+      "height": 280,
+      "top": 485,
+      "left": 700,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": " \n\n\n\n\n\n \n\n\n\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.kumagaigumi.co.jp/common/images/top_h2_bg.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 540,
+      "height": 24,
+      "top": 485,
+      "left": 160,
+      "fontSize": "1536",
+      "fontWeight": "bold",
+      "innerHTML": "最新情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.kumagaigumi.co.jp/common/images/top_h2_bg.jpg) no-repeat scroll 0% 50% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 530,
+      "height": 275,
+      "top": 509,
+      "left": 160,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 540,
+      "height": 30,
+      "top": 789,
+      "left": 160,
+      "fontSize": "128",
+      "fontWeight": "normal",
+      "innerHTML": "　\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 960,
+      "height": 47,
+      "top": 842.796875,
+      "left": 160,
+      "fontSize": "1152",
+      "fontWeight": "normal",
+      "innerHTML": "Copyright © displayThisYear();2015 KUMAGAIGUMI Co.,LTD All Rights Reserved.",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    }
+  ]
+]

@@ -1,0 +1,2174 @@
+[
+  {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "1": [
+      8,
+      9,
+      10
+    ],
+    "2": [
+      18,
+      21,
+      24,
+      27,
+      30
+    ],
+    "3": [
+      60,
+      65,
+      70
+    ],
+    "4": [
+      61,
+      66,
+      71
+    ],
+    "5": [
+      62,
+      67,
+      72
+    ],
+    "6": [
+      63,
+      68,
+      73
+    ],
+    "7": [
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "0": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "1": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "2": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "3": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "4": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/gnavi.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 104,
+      "height": 99,
+      "top": 0,
+      "left": 159.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "WELLNET",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/gnavi.jpg) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/gnavi.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 139,
+      "height": 99,
+      "top": 0,
+      "left": 263.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "サービス・製品",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/gnavi.jpg) no-repeat scroll -104px 0px / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/gnavi.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 101,
+      "height": 99,
+      "top": 0,
+      "left": 402.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "会社概要",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/gnavi.jpg) no-repeat scroll -243px 0px / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/gnavi.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 108,
+      "height": 99,
+      "top": 0,
+      "left": 503.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "IR情報",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/gnavi.jpg) no-repeat scroll -344px 0px / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/gnavi.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 101,
+      "height": 99,
+      "top": 0,
+      "left": 611.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "導入事例",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/gnavi.jpg) no-repeat scroll -452px 0px / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/gnavi.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 100,
+      "height": 99,
+      "top": 0,
+      "left": 712.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "お問合せ",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/gnavi.jpg) no-repeat scroll -553px 0px / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/gnavi.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 115,
+      "height": 99,
+      "top": 0,
+      "left": 812.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "リクルート",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/gnavi.jpg) no-repeat scroll -653px 0px / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 72,
+      "height": 12,
+      "top": 22,
+      "left": 946.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/bt_small.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 22,
+      "height": 22,
+      "top": 17,
+      "left": 1031.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "小",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/bt_small.gif) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/bt_medium_on.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 22,
+      "height": 22,
+      "top": 17,
+      "left": 1056.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "中",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/bt_medium_on.gif) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/bt_large.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 22,
+      "height": 22,
+      "top": 17,
+      "left": 1081.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "大",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/bt_large.gif) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "238",
+          "g": "244",
+          "b": "227"
+        }
+      },
+      "width": 133,
+      "height": 22,
+      "top": 61,
+      "left": 942.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(238, 244, 227) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 26,
+      "height": 22,
+      "top": 61,
+      "left": 1077.5,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/key.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 1280,
+      "height": 19,
+      "top": 99,
+      "left": 0,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "いつでも、どこでもの実現を目指して。 Departure to the Future. - ウェルネットは「世の中の便利」をITで推進します",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 259,
+      "height": 45,
+      "top": 372,
+      "left": 160,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 193,
+      "height": 42,
+      "top": 372,
+      "left": 419,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 463,
+      "height": 45,
+      "top": 372,
+      "left": 640,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 960,
+      "height": 78,
+      "top": 426,
+      "left": 160,
+      "fontSize": "1376",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/service01.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 281,
+      "top": 524,
+      "left": 160,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "マルチペイメントサービス - 決済サービス",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/images/service01.jpg) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 114,
+      "top": 815,
+      "left": 160,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "ペーパーレス電子決済を含む決済全てを1ストップで提供。クレジット、コンビニ、銀行ATM、ネットバンク、電子マネーなどウェルネット一社との接続で実現します。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 949,
+      "left": 160,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "続きを読む",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/service02.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 281,
+      "top": 524,
+      "left": 355,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "コンビニ収納代行サービス - バーコードによる決済サービス",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/images/service02.jpg) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 95,
+      "top": 815,
+      "left": 355,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "払込票を印刷、お客様に郵送、現金で郵便局とほとんど全てのコンビニで支払うことができる、後払いの通販代金回収などのサービス。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 930,
+      "left": 355,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "続きを読む",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/service03.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 281,
+      "top": 524,
+      "left": 550,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "ネットDE受取サービス - 返金サービス",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/images/service03.jpg) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 114,
+      "top": 815,
+      "left": 550,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "キャッシュバックや返金等、多数の方への資金送金の効率化を可能にします。お近くのローソンで受け取れる！便利なコンビニ現金受取サービス始めました！",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 949,
+      "left": 550,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "続きを読む",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/service06b.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 281,
+      "top": 524,
+      "left": 745,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "バスIT化ソリューション",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/images/service06b.jpg) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 190,
+      "top": 815,
+      "left": 745,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "地図上で行きたい場所にピンを落とすと、\nそこへ便利に行けるバス路線を表示、\nそのままチケットを買うことができる、\n日本で初めてのサービス”バスもり！ナビ”（利用者様向け）と、\nタブレット端末で座席管理をリアルタイムに行う\n”バスもり！MONTA”（バス事業者様向け）のご案内\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 1025,
+      "left": 745,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "続きを読む",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "41",
+        "g": "185",
+        "b": "16"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/service05.jpg)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 281,
+      "top": 524,
+      "left": 940,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "電子チケット、電子認証サービス - 2次元コードなどによるOnlineチケットサービス",
+      "colorString": "rgb(41, 185, 16)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/images/service05.jpg) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 57,
+      "top": 815,
+      "left": 940,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "携帯電話がチケットに。究極のいつでもどこでもを実現するソリューション。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/divider.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 170,
+      "height": 19,
+      "top": 892,
+      "left": 940,
+      "fontSize": "118336",
+      "fontWeight": "normal",
+      "innerHTML": "続きを読む",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 200,
+      "height": 25,
+      "top": 1104,
+      "left": 160,
+      "fontSize": "13",
+      "fontWeight": "bold",
+      "innerHTML": "新規プロジェクト情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 180,
+      "height": 53,
+      "top": 1139,
+      "left": 160,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "バスもり! ナビの無料ダウンロードはこちら! ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 180,
+      "height": 300,
+      "top": 1192,
+      "left": 160,
+      "fontSize": "0",
+      "fontWeight": "normal",
+      "innerHTML": "\n\n\n\n\n\n\n\n\n\n\n",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 200,
+      "height": 36,
+      "top": 1508,
+      "left": 160,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 200,
+      "height": 40,
+      "top": 1544,
+      "left": 160,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 200,
+      "height": 106,
+      "top": 1584,
+      "left": 160,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 200,
+      "height": 81,
+      "top": 1690,
+      "left": 160,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/images/bg_top_re.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 200,
+      "height": 131,
+      "top": 1771,
+      "left": 160,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "札幌事業所　JUSE-IR-091",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/lg_ptn.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 377,
+      "height": 36,
+      "top": 1106,
+      "left": 362,
+      "fontSize": "128794",
+      "fontWeight": "bold",
+      "innerHTML": "ニュースリリース",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/lg_ptn.gif) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1142,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年6月24日 ウェルネット＋道内４高専＋道新社会福...",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1169,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年6月 3日 「ヤフオク!」での商品落札代金の支払...",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1196,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年6月 1日 ウェルネットの「マルチペイメントサー...",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1223,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年3月23日 「京浜急行バス」のチケット予約・支払...",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1250,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年1月30日 「フェリーさんふらわあ」の乗船予約・...",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/lg_ptn.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 377,
+      "height": 36,
+      "top": 1106,
+      "left": 741,
+      "fontSize": "128794",
+      "fontWeight": "bold",
+      "innerHTML": "IRプレスリリース(PDF)",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/lg_ptn.gif) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1142,
+      "left": 741,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年8月20日 平成27年6月期 決算短信〔日本基準...",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1169,
+      "left": 741,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年8月18日 公認会計士等異動に関するお知らせ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1196,
+      "left": 741,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年8月18日 剰余金の配当に関するお知らせ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1223,
+      "left": 741,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年8月 7日 自己株式の消却に関するお知らせ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 377,
+      "height": 27,
+      "top": 1250,
+      "left": 741,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年8月 7日 平成27年６月期期末配当予想の修正（...",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.well-net.jp/common/images/lg_ptn.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 756,
+      "height": 221,
+      "top": 1106,
+      "left": 362,
+      "fontSize": "128794",
+      "fontWeight": "bold",
+      "innerHTML": "トピックス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.well-net.jp/common/images/lg_ptn.gif) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 756,
+      "height": 27,
+      "top": 1327,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年8月12日 バスもり！ナビ　テレビCMが放送されました",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 756,
+      "height": 27,
+      "top": 1354,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年7月17日 飛躍している企業として　経済産業省　ミエル☆ヒント　に掲載されました！",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 756,
+      "height": 27,
+      "top": 1381,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年4月30日 フェリーさんふらわあ 様の導入事例を掲載いたしました。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 756,
+      "height": 27,
+      "top": 1408,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年3月27日 2015年2月21日（土）開催の個人投資家向けセミナーの様子を掲載しました！",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 756,
+      "height": 27,
+      "top": 1435,
+      "left": 362,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "2015年1月27日 2015年2月21日（土）個人投資家向けセミナーを開催します！",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 353.71875,
+      "height": 29,
+      "top": 1942,
+      "left": 180,
+      "fontSize": "107328",
+      "fontWeight": "bold",
+      "innerHTML": "ウェルネットの提供サービス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 145.765625,
+      "height": 19,
+      "top": 1986,
+      "left": 180,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "マルチペイメントサービス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 145.765625,
+      "height": 19,
+      "top": 2010,
+      "left": 180,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "コンビニ収納代行サービス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 145.765625,
+      "height": 19,
+      "top": 2034,
+      "left": 180,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "ネットDE受取サービス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 145.765625,
+      "height": 19,
+      "top": 2058,
+      "left": 180,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "おみせdeツーハン",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 145.765625,
+      "height": 19,
+      "top": 2082,
+      "left": 180,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "バスITソリューション",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 177.953125,
+      "height": 19,
+      "top": 1986,
+      "left": 335.765625,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "各種申込サービス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 177.953125,
+      "height": 19,
+      "top": 2010,
+      "left": 335.765625,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "請求書発行代行サービス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 177.953125,
+      "height": 19,
+      "top": 2034,
+      "left": 335.765625,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "SUPER SUB",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 177.953125,
+      "height": 19,
+      "top": 2058,
+      "left": 335.765625,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "電子チケット、電子認証サービス",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 112,
+      "height": 29,
+      "top": 1942,
+      "left": 553.71875,
+      "fontSize": "107328",
+      "fontWeight": "bold",
+      "innerHTML": "会社概要",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 69
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 102,
+      "height": 19,
+      "top": 1986,
+      "left": 553.71875,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "IR情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 70
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 102,
+      "height": 19,
+      "top": 2010,
+      "left": 553.71875,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "IRプレスリリース",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 71
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 102,
+      "height": 19,
+      "top": 2034,
+      "left": 553.71875,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "IRライブラリー",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 72
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 102,
+      "height": 19,
+      "top": 2058,
+      "left": 553.71875,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "リクルート",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 73
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "245",
+          "g": "252",
+          "b": "243"
+        }
+      },
+      "width": 102,
+      "height": 19,
+      "top": 2082,
+      "left": 553.71875,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 74
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 106.84375,
+      "height": 19,
+      "top": 2166,
+      "left": 160,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "個人情報保護方針",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 75
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 63.921875,
+      "height": 19,
+      "top": 2166,
+      "left": 266.84375,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "お問合せ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 76
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 206.953125,
+      "height": 19,
+      "top": 2166,
+      "left": 330.765625,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "　高速バス キャンセル済みのお客様へ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 77
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 334.3125,
+      "height": 19,
+      "top": 2166,
+      "left": 537.71875,
+      "fontSize": "107328",
+      "fontWeight": "normal",
+      "innerHTML": "　高速バス払戻に関するお問い合わせ（buscon@well-net.jp）",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 78
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 300.046875,
+      "height": 19,
+      "top": 2235,
+      "left": 819.953125,
+      "fontSize": "10",
+      "fontWeight": "bold",
+      "innerHTML": "Copyright © WELLNET CORPORATION All Rights Reserved.",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 79
+    }
+  ]
+]

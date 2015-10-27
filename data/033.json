@@ -1,0 +1,4221 @@
+[
+  {
+    "0": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "1": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "2": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "3": [
+      19,
+      21,
+      22,
+      25
+    ],
+    "4": [
+      20,
+      23,
+      24
+    ],
+    "5": [
+      106,
+      107,
+      136
+    ],
+    "6": [
+      152,
+      153,
+      154
+    ]
+  },
+  {
+    "0": [
+      26,
+      36,
+      47
+    ],
+    "1": [
+      27,
+      37,
+      48
+    ],
+    "2": [
+      28,
+      30,
+      32,
+      34,
+      38,
+      41,
+      43,
+      45,
+      49,
+      51,
+      53,
+      55
+    ],
+    "3": [
+      33,
+      42,
+      44,
+      46
+    ],
+    "4": [
+      50,
+      52,
+      54,
+      56
+    ],
+    "5": [
+      69,
+      73,
+      99
+    ],
+    "6": [
+      75,
+      77,
+      80,
+      82,
+      85,
+      87,
+      90,
+      92,
+      95,
+      97,
+      101
+    ],
+    "7": [
+      76,
+      78,
+      81,
+      83,
+      91,
+      93,
+      96,
+      102
+    ],
+    "8": [
+      86,
+      88,
+      98
+    ],
+    "9": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "10": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "11": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "12": [
+      132,
+      133,
+      134,
+      135
+    ],
+    "13": [
+      136,
+      137,
+      143,
+      144,
+      145,
+      146
+    ],
+    "14": [
+      138,
+      139,
+      140,
+      141,
+      142
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 137,
+      "height": 41,
+      "top": 29,
+      "left": 148,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 83,
+      "height": 56,
+      "top": 23,
+      "left": 300,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 54,
+      "height": 12,
+      "top": 19,
+      "left": 694.28125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "企業情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 127,
+      "height": 12,
+      "top": 19,
+      "left": 754.28125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "株主・投資家向け情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 55,
+      "height": 12,
+      "top": 19,
+      "left": 887.28125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 79,
+      "height": 12,
+      "top": 19,
+      "left": 948.28125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 95.71875,
+      "height": 12,
+      "top": 19,
+      "left": 1033.28125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "Global Website",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 190,
+      "height": 37,
+      "top": 48,
+      "left": 405,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "企業・官公庁のお客様",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 10px 12px / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 160,
+      "height": 37,
+      "top": 48,
+      "left": 599.3125,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "学校関係のお客様",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 10px 12px / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 37,
+      "top": 48,
+      "left": 763.625,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "個人のお客様",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 10px 12px / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 130,
+      "height": 37,
+      "top": 48,
+      "left": 897.9375,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "パートナー様",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 10px 12px / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "34",
+        "g": "34",
+        "b": "34"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 100,
+      "height": 37,
+      "top": 48,
+      "left": 1032.25,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "サポート",
+      "colorString": "rgb(34, 34, 34)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 10px 12px / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 990,
+      "height": 20,
+      "top": 92,
+      "left": 145,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "10月23日 福岡開催!! 巧妙化する標的型攻撃から自社を守る対策とは？「標的型攻撃対策セミナー」",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 990,
+      "height": 344,
+      "top": 123,
+      "left": 145,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "11",
+          "g": "97",
+          "b": "183"
+        }
+      },
+      "width": 10,
+      "height": 10,
+      "top": 448,
+      "left": 595,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "1",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(11, 97, 183) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "204",
+          "g": "204",
+          "b": "204"
+        }
+      },
+      "width": 10,
+      "height": 10,
+      "top": 448,
+      "left": 615,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(204, 204, 204) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "204",
+          "g": "204",
+          "b": "204"
+        }
+      },
+      "width": 10,
+      "height": 10,
+      "top": 448,
+      "left": 635,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "3",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(204, 204, 204) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "204",
+          "g": "204",
+          "b": "204"
+        }
+      },
+      "width": 10,
+      "height": 10,
+      "top": 448,
+      "left": 655,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "4",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(204, 204, 204) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "204",
+          "g": "204",
+          "b": "204"
+        }
+      },
+      "width": 10,
+      "height": 10,
+      "top": 448,
+      "left": 675,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "5",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(204, 204, 204) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/doc/if.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 139,
+      "height": 110,
+      "top": 484,
+      "left": 147,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "i-FILTER",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/top/doc/if.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/doc/new.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 30,
+      "height": 30,
+      "top": 488,
+      "left": 392,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "NEW!!",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/top/doc/new.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/doc/dspa.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 139,
+      "height": 110,
+      "top": 484,
+      "left": 429,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "D-SPA",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/top/doc/dspa.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/doc/mf.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 139,
+      "height": 110,
+      "top": 484,
+      "left": 570,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "m-FILTER",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/top/doc/mf.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/doc/new.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 30,
+      "height": 30,
+      "top": 488,
+      "left": 815,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "NEW!!",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/top/doc/new.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/doc/new.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 30,
+      "height": 30,
+      "top": 488,
+      "left": 956,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "NEW!!",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/top/doc/new.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 24
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/doc/cbu.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 140,
+      "height": 110,
+      "top": 484,
+      "left": 993,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "i-フィルター",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/top/doc/cbu.png) no-repeat scroll 50% 0% / auto padding-box border-box",
+      "id": 25
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "image",
+        "image": "linear-gradient(rgb(253, 253, 253), rgb(241, 241, 241) 49%, rgb(236, 236, 236) 50%, rgb(236, 236, 236))",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 723,
+      "height": 34,
+      "top": 639,
+      "left": 157,
+      "fontSize": "18144",
+      "fontWeight": "bold",
+      "innerHTML": "プレスリリース",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) linear-gradient(rgb(253, 253, 253), rgb(241, 241, 241) 49%, rgb(236, 236, 236) 50%, rgb(236, 236, 236)) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 26
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/todetail.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 39,
+      "height": 21,
+      "top": 645,
+      "left": 832,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "一覧",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/todetail.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 27
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 695,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/18",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 28
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 53.953125,
+      "top": 695,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "iPadの持ち帰り学習対応のため「i-FILTER® ブラウザー＆クラウド」「Optimal Biz」を関西大学初等部が導入",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 29
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 761.90625,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/17",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 30
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 73.953125,
+      "top": 761.90625,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "≪企業におけるマイナンバーのセキュリティに関する実態調査≫&nbsp;マイナンバーの管理・セキュリティ対応は50.7％が総務部門担当、従業員のマイナンバー管理では62.0％が自社の従業員の人為的ミスによる情報流出を懸念",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 31
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 848.8125,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/15",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 32
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 33.953125,
+      "top": 848.8125,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "「i-フィルター® for マルチデバイス」をIIJが販売する個人向けMVNO回線に提供開始",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 33
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 895.71875,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/08",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 34
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 53.953125,
+      "top": 895.71875,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "「i-FILTER®」がITRの調査で2014年度URLフィルタリング市場において48％でベンダーシェア1位を獲得",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 35
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "image",
+        "image": "linear-gradient(rgb(253, 253, 253), rgb(241, 241, 241) 49%, rgb(236, 236, 236) 50%, rgb(236, 236, 236))",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 723,
+      "height": 34,
+      "top": 981.671875,
+      "left": 157,
+      "fontSize": "18144",
+      "fontWeight": "bold",
+      "innerHTML": "トピックス",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) linear-gradient(rgb(253, 253, 253), rgb(241, 241, 241) 49%, rgb(236, 236, 236) 50%, rgb(236, 236, 236)) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 36
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/todetail.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 39,
+      "height": 21,
+      "top": 987.671875,
+      "left": 832,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "一覧",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/todetail.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 37
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 1037.671875,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/29",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 38
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 570.234375,
+      "height": 33,
+      "top": 1040.671875,
+      "left": 265.15625,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "「『情報資産保護』のために今、求められる情報漏洩対策～改正不正競争防止法の改正ポイント・情報管理・具体的対策～」を開催",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 39
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "217",
+          "g": "0",
+          "b": "0"
+        }
+      },
+      "width": 36.421875,
+      "height": 14,
+      "top": 1060.671875,
+      "left": 469.546875,
+      "fontSize": "10",
+      "fontWeight": "bold",
+      "innerHTML": "NEW!!",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(217, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 40
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.375,
+      "height": 20,
+      "top": 1104.578125,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/24",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 41
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 33.953125,
+      "top": 1104.578125,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "8月度の社外でのフィルタリング普及啓発活動ご報告",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 42
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 1151.484375,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/10",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 43
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 33.953125,
+      "top": 1151.484375,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "「ワークショップコレクション11 in シブヤ」に出展",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 44
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 1198.390625,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/09",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 45
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 33.953125,
+      "top": 1198.390625,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "7月度の社外でのフィルタリング普及啓発活動ご報告",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 46
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "image",
+        "image": "linear-gradient(rgb(253, 253, 253), rgb(241, 241, 241) 49%, rgb(236, 236, 236) 50%, rgb(236, 236, 236))",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 723,
+      "height": 34,
+      "top": 1264.34375,
+      "left": 157,
+      "fontSize": "18144",
+      "fontWeight": "bold",
+      "innerHTML": "IRニュース",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) linear-gradient(rgb(253, 253, 253), rgb(241, 241, 241) 49%, rgb(236, 236, 236) 50%, rgb(236, 236, 236)) repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 47
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "88",
+        "b": "221"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/todetail.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 39,
+      "height": 21,
+      "top": 1270.34375,
+      "left": 832,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "一覧",
+      "colorString": "rgb(0, 88, 221)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/todetail.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 48
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 1320.34375,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/08/13",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 49
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/icon/pdfS.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 514.75,
+      "height": 20,
+      "top": 1320.34375,
+      "left": 265.15625,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "第21期 第1四半期報告書（平成28年3月期）を掲載しました（PDF形式：258 KB）",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/icon/pdfS.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 50
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 1367.25,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/07/30",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 51
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/icon/pdfS.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 463.15625,
+      "height": 20,
+      "top": 1367.25,
+      "left": 265.15625,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "平成28年3月期 第1四半期 決算短信を掲載しました（PDF形式：235 KB）",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/icon/pdfS.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 52
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 1414.15625,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/07/30",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 53
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/icon/pdfS.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 519.3125,
+      "height": 20,
+      "top": 1414.15625,
+      "left": 265.15625,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "平成28年3月期 第1四半期 決算短信 補足資料を掲載しました（PDF形式：950 KB）",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/icon/pdfS.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 54
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 106.3125,
+      "height": 20,
+      "top": 1461.0625,
+      "left": 155,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/06/25",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 55
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/icon/pdfS.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 415.890625,
+      "height": 20,
+      "top": 1461.0625,
+      "left": 265.15625,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "「第20期 有価証券報告書」を掲載しました（PDF形式：817 KB）",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/icon/pdfS.gif) no-repeat scroll 0px 0px / auto padding-box border-box",
+      "id": 56
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/aboutDA.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 695,
+      "height": 21,
+      "top": 1546.015625,
+      "left": 166,
+      "fontSize": "18144",
+      "fontWeight": "normal",
+      "innerHTML": "デジタルアーツについて",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 57
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/aboutDA.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 695,
+      "height": 42,
+      "top": 1577.015625,
+      "left": 166,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "情報セキュリティメーカーのデジタルアーツは、Webセキュリティやメールセキュリティ、ファイルセキュリティなどの情報漏洩対策ソリューションの提供を核にした情報セキュリティ事業を展開しています。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 58
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/aboutDA.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 695,
+      "height": 105,
+      "top": 1633.015625,
+      "left": 166,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "国内でトップシェアを誇る法人向けWebフィルタリングソフト「i-FILTER」とスマートデバイス向けWebフィルタリング「i-FILTER ブラウザー＆クラウド」、個人向け有害サイトフィルタリングソフト「i-フィルター」を提供する他、法人向けメールセキュリティソフト「m-FILTER」、クライアント型メール誤送信防止ソフト「m-FILTER MailAdviser」、純国産のセキュア・プロキシ・アプライアンス製品「D-SPA」、ファイル暗号化・追跡ソリューション「FinalCode」を提供しています。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 59
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/top/aboutDA.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 695,
+      "height": 42,
+      "top": 1752.015625,
+      "left": 166,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "情報漏洩対策の欠かせない企業や官公庁、学校関係のお客様をはじめ、かんたん設定で利用可能な個人のお客様の、安全で快適なインターネット環境の提供と情報セキュリティを実現します。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 60
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 360,
+      "height": 80,
+      "top": 1835.015625,
+      "left": 145,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 61
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 360,
+      "height": 80,
+      "top": 1835.015625,
+      "left": 522,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 62
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 360,
+      "height": 80,
+      "top": 1920.015625,
+      "left": 145,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 63
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 360,
+      "height": 80,
+      "top": 1920.015625,
+      "left": 522,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 64
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 717,
+      "height": 20,
+      "top": 2005.015625,
+      "left": 155,
+      "fontSize": "11",
+      "fontWeight": "bold",
+      "innerHTML": "※Gartner “Cool Vendors in Print and Imaging, 2015” Michele C. Caminos et al, 23 April 2015",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 65
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 706,
+      "height": 60,
+      "top": 2025.015625,
+      "left": 166,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "ガートナーは、ガートナー・リサーチの発行物に掲載された特定のベンダー、製品またはサービスを推奨するものではありません。また、最高のレーティング又はその他の評価を得たベンダーのみを選択するようテクノロジの利用者に助言するものではありません。ガートナー・リサーチの発行物は、ガートナー・リサーチの見解を表したものであり、事実を表現したものではありません。ガートナーは、明示または黙示を問わず、本リサーチの商品性や特定目的への適合性を含め、一切の保証を行うものではありません。",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 66
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 96,
+      "top": 637,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 67
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 196,
+      "top": 738,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 68
+    },
+    {
+      "color": {
+        "r": "17",
+        "g": "95",
+        "b": "182"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 232,
+      "height": 26,
+      "top": 954,
+      "left": 903,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "Digital Arts News Watch",
+      "colorString": "rgb(17, 95, 182)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 0px 3px / auto padding-box border-box",
+      "id": 69
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 63,
+      "top": 988,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/10/02関税法が定めるメール保管、「バックアップで問題ない」と思っていませんか？NEW!!",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 70
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 44,
+      "top": 1056,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/29内閣サイバーセキュリティセンターの予算が5倍にNEW!!",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 71
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 44,
+      "top": 1105,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "2015/09/25突然PCがクラッシュ…。でもメール仕事は途切れさせたくない！",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 72
+    },
+    {
+      "color": {
+        "r": "17",
+        "g": "95",
+        "b": "182"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 232,
+      "height": 26,
+      "top": 1184,
+      "left": 903,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "イベント・セミナー情報",
+      "colorString": "rgb(17, 95, 182)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 0px 3px / auto padding-box border-box",
+      "id": 73
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 54,
+      "top": 1218,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "【緊急セミナー】待ったなし！マイナンバーの取扱と安全管理",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 74
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1277,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "日程",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 75
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1277,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "2015年10月5日（月）",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 76
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1296.75,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "会場",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 77
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1296.75,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "秋葉原UDX ギャラリーNEXT1",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 78
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 18,
+      "top": 1337.5,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "まだ間に合う！情報漏えい対策導入",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 79
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1360.5,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "日程",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 80
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1360.5,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "2015年10月7日（水）",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 81
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1380.25,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "会場",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 82
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1380.25,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "六本木アカデミーヒルズ49階",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 83
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 18,
+      "top": 1421,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "Email Security Conference 2015",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 84
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1444,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "日程",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 85
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 34.75,
+      "top": 1444,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "東京会場：2015年10月9日（金）大阪会場：2015年10月16日（金）",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 86
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1478.75,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "会場",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 87
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 34.75,
+      "top": 1478.75,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "東京会場：UDXカンファレンス大阪会場：グランフロント大阪",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 88
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 36,
+      "top": 1534.5,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "デジタルアーツ主催 標的型攻撃対策セミナー標的型攻撃の最新情報とその対策",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 89
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1575.5,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "日程",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 90
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1575.5,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "2015年10月23日（金）",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 91
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1595.25,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "会場",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 92
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1595.25,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "JR博多シティ 9F 会議室",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 93
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 36,
+      "top": 1636,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "＜デジタルアーツ主催＞標的型攻撃/内部犯行対策セミナー！",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 94
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1677,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "日程",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 95
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1677,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "2015年11月5日（木）",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 96
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1696.75,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "会場",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 97
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 34.75,
+      "top": 1696.75,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "大手町ファーストスクエアカンファレンス イーストタワー2F",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 98
+    },
+    {
+      "color": {
+        "r": "17",
+        "g": "95",
+        "b": "182"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 232,
+      "height": 26,
+      "top": 1772.5,
+      "left": 903,
+      "fontSize": "15",
+      "fontWeight": "bold",
+      "innerHTML": "メディア掲載情報",
+      "colorString": "rgb(17, 95, 182)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/bullet/circleArrow/blue.png) no-repeat scroll 0px 3px / auto padding-box border-box",
+      "id": 99
+    },
+    {
+      "color": {
+        "r": "4",
+        "g": "91",
+        "b": "179"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 54,
+      "top": 1806.5,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "bold",
+      "innerHTML": "人工知能により不正行為の「醸成」を検知　UBICとデジタルアーツ、メール監査による情報漏えい対策を提供",
+      "colorString": "rgb(4, 91, 179)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 100
+    },
+    {
+      "color": {
+        "r": "119",
+        "g": "119",
+        "b": "119"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "236",
+          "g": "236",
+          "b": "236"
+        }
+      },
+      "width": 34,
+      "height": 19,
+      "top": 1865.5,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "媒体",
+      "colorString": "rgb(119, 119, 119)",
+      "backgroundString": "rgb(236, 236, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 101
+    },
+    {
+      "color": {
+        "r": "82",
+        "g": "82",
+        "b": "82"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 19.75,
+      "top": 1865.5,
+      "left": 903,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "クラウドWatch",
+      "colorString": "rgb(82, 82, 82)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 102
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 134,
+      "top": 1926.25,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 103
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 232,
+      "height": 81,
+      "top": 2090.25,
+      "left": 903,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 104
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 136,
+      "height": 320,
+      "top": 2265.25,
+      "left": 145,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 105
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2270.25,
+      "left": 311,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "HOME",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 106
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2270.25,
+      "left": 519,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "サポート",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 107
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2302.25,
+      "left": 311,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "企業・官公庁のお客様",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 108
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 77,
+      "height": 11,
+      "top": 2328.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "製品・サービス",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 109
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2340.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・i-FILTER",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 110
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2357.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・i-FILTER ブラウザー＆クラウド",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 111
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2374.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・m-FILTER",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 112
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2391.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・m-FILTER MailAdviser",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 113
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2408.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・D-SPA",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 114
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2425.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・FinalCode",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 115
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2442.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・アライアンス・クラウドサービス",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 116
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2459.25,
+      "left": 323,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・アライアンス製品",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 117
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2485.25,
+      "left": 311,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "導入事例",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 118
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2503.25,
+      "left": 311,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "ご購入について",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 119
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2521.25,
+      "left": 311,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "よくある質問",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 120
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2539.25,
+      "left": 311,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 121
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2302.25,
+      "left": 519,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "学校関係のお客様",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 122
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 77,
+      "height": 11,
+      "top": 2328.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "製品・サービス",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 123
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2340.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・i-FILTER",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 124
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2357.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・i-FILTER ブラウザー＆クラウド",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 125
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2374.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・m-FILTER",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 126
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2391.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・m-FILTER MailAdviser",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 127
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2408.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・D-SPA",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 128
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2425.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・FinalCode",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 129
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2442.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・アライアンス・クラウドサービス",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 130
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 176,
+      "height": 17,
+      "top": 2459.25,
+      "left": 531,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "・アライアンス製品",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 131
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2485.25,
+      "left": 519,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "導入事例",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 132
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2503.25,
+      "left": 519,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "ご購入について",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 133
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2521.25,
+      "left": 519,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "よくある質問",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 134
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2539.25,
+      "left": 519,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 135
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 192,
+      "height": 20,
+      "top": 2270.25,
+      "left": 737,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "個人のお客様（i-フィルター）",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 136
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2300.25,
+      "left": 737,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "パートナー様",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 137
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2325.25,
+      "left": 737,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "パートナープログラムのご紹介",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 138
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2343.25,
+      "left": 737,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "当社の強み",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 139
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2361.25,
+      "left": 737,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "会員サイトのご案内",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 140
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2379.25,
+      "left": 737,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "プログラムの入会手順",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 141
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 188,
+      "height": 13,
+      "top": 2397.25,
+      "left": 737,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "パートナー様検索",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 142
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2422.25,
+      "left": 737,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "企業情報",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 143
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2454.25,
+      "left": 737,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "株主・投資家向け情報",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 144
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2486.25,
+      "left": 737,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "採用情報",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 145
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/bullet.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 188,
+      "height": 20,
+      "top": 2518.25,
+      "left": 737,
+      "fontSize": "13",
+      "fontWeight": "normal",
+      "innerHTML": "お問い合わせ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/bullet.png) no-repeat scroll 0px 6px / auto padding-box border-box",
+      "id": 146
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 120,
+      "height": 27,
+      "top": 2265.25,
+      "left": 983,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 147
+    },
+    {
+      "color": {
+        "r": "0",
+        "g": "0",
+        "b": "0"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 32,
+      "height": 22,
+      "top": 2267.25,
+      "left": 1103,
+      "fontSize": "14",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(0, 0, 0)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 148
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 152,
+      "height": 20,
+      "top": 2292.25,
+      "left": 983,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "powered by Yahoo! JAPAN",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 149
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/fb.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 150.203125,
+      "height": 20,
+      "top": 2525.25,
+      "left": 975,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\t公式Facebookページ\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/fb.gif) no-repeat scroll 0px 2px / auto padding-box border-box",
+      "id": 150
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.daj.jp/common/images/footer/en.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 117.8125,
+      "height": 20,
+      "top": 2555.25,
+      "left": 975,
+      "fontSize": "1296",
+      "fontWeight": "normal",
+      "innerHTML": "\n\t\t\tGlobal Website\n\t\t",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.daj.jp/common/images/footer/en.gif) no-repeat scroll 0px 2px / auto padding-box border-box",
+      "id": 151
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 71,
+      "height": 12,
+      "top": 2623.25,
+      "left": 145,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "サイトマップ",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 152
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 101,
+      "height": 12,
+      "top": 2623.25,
+      "left": 226,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "このサイトについて",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 153
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 90,
+      "height": 12,
+      "top": 2623.25,
+      "left": 337,
+      "fontSize": "10",
+      "fontWeight": "normal",
+      "innerHTML": "個人情報保護方針",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 154
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "0",
+          "g": "82",
+          "b": "172"
+        }
+      },
+      "width": 182.953125,
+      "height": 20,
+      "top": 2619.25,
+      "left": 952.046875,
+      "fontSize": "11",
+      "fontWeight": "normal",
+      "innerHTML": "Copyright © 2015 Digital Arts Inc.",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 155
+    }
+  ]
+]

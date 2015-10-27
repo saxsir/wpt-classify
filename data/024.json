@@ -1,0 +1,650 @@
+[
+  {
+    "0": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "0": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  [
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/logo.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 180,
+      "height": 20,
+      "top": 42,
+      "left": 550,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "NOVARESE",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/logo.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 0
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/bul_lang.gif)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 10.765625,
+      "height": 12,
+      "top": 52,
+      "left": 1100.75,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "JP",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 1
+    },
+    {
+      "color": {
+        "r": "84",
+        "g": "84",
+        "b": "85"
+      },
+      "background": {
+        "type": "none",
+        "image": "",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 14.484375,
+      "height": 12,
+      "top": 52,
+      "left": 1125.515625,
+      "fontSize": "12",
+      "fontWeight": "bold",
+      "innerHTML": "EN",
+      "colorString": "rgb(84, 84, 85)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 2
+    },
+    {
+      "color": {
+        "r": "68",
+        "g": "68",
+        "b": "68"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 114.859375,
+      "height": 12,
+      "top": 120,
+      "left": 142.5625,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ABOUT NOVARESE",
+      "colorString": "rgb(68, 68, 68)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 3
+    },
+    {
+      "color": {
+        "r": "68",
+        "g": "68",
+        "b": "68"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 102.515625,
+      "height": 12,
+      "top": 120,
+      "left": 268.734375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "WEDDING SPACE",
+      "colorString": "rgb(68, 68, 68)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 4
+    },
+    {
+      "color": {
+        "r": "68",
+        "g": "68",
+        "b": "68"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 101.796875,
+      "height": 12,
+      "top": 120,
+      "left": 389.09375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "WEDDING DRESS",
+      "colorString": "rgb(68, 68, 68)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 5
+    },
+    {
+      "color": {
+        "r": "68",
+        "g": "68",
+        "b": "68"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 84.015625,
+      "height": 12,
+      "top": 120,
+      "left": 517.984375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "RESTAURANT",
+      "colorString": "rgb(68, 68, 68)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 6
+    },
+    {
+      "color": {
+        "r": "68",
+        "g": "68",
+        "b": "68"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 109.140625,
+      "height": 12,
+      "top": 120,
+      "left": 625.421875,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "GROUP COMPANY",
+      "colorString": "rgb(68, 68, 68)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 7
+    },
+    {
+      "color": {
+        "r": "68",
+        "g": "68",
+        "b": "68"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 59.9375,
+      "height": 12,
+      "top": 120,
+      "left": 770.03125,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "LOCATOR",
+      "colorString": "rgb(68, 68, 68)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 8
+    },
+    {
+      "color": {
+        "r": "68",
+        "g": "68",
+        "b": "68"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "255",
+          "g": "255",
+          "b": "255"
+        }
+      },
+      "width": 76.03125,
+      "height": 12,
+      "top": 120,
+      "left": 881.984375,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "COMMUNITY",
+      "colorString": "rgb(68, 68, 68)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 9
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "50",
+          "g": "50",
+          "b": "52"
+        }
+      },
+      "width": 160,
+      "height": 45,
+      "top": 103,
+      "left": 980,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "企業情報",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(50, 50, 52) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 10
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "158",
+          "g": "135",
+          "b": "115"
+        }
+      },
+      "width": 160,
+      "height": 45,
+      "top": 103,
+      "left": 980,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "CORPORATE WEBSITE",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgb(158, 135, 115) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 11
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/ico_navpage_on.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 17,
+      "height": 17,
+      "top": 199.5,
+      "left": 1213,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ノバレーゼについて",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/ico_navpage_on.png) no-repeat scroll 50% 50% / auto padding-box border-box",
+      "id": 12
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/ico_navpage.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 17,
+      "height": 17,
+      "top": 228.5,
+      "left": 1213,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ウエディングスペース",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/ico_navpage.png) no-repeat scroll 50% 50% / auto padding-box border-box",
+      "id": 13
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/ico_navpage.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 17,
+      "height": 17,
+      "top": 257.5,
+      "left": 1213,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "ウエディングドレス",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/ico_navpage.png) no-repeat scroll 50% 50% / auto padding-box border-box",
+      "id": 14
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/ico_navpage.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 17,
+      "height": 17,
+      "top": 286.5,
+      "left": 1213,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "レストラン",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/ico_navpage.png) no-repeat scroll 50% 50% / auto padding-box border-box",
+      "id": 15
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/ico_navpage.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 17,
+      "height": 17,
+      "top": 315.5,
+      "left": 1213,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "グループ企業",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/ico_navpage.png) no-repeat scroll 50% 50% / auto padding-box border-box",
+      "id": 16
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/ico_navpage.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 17,
+      "height": 17,
+      "top": 344.5,
+      "left": 1213,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "全国のノバレーゼ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/ico_navpage.png) no-repeat scroll 50% 50% / auto padding-box border-box",
+      "id": 17
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/ico_navpage.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 17,
+      "height": 17,
+      "top": 373.5,
+      "left": 1213,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "コミュニティ",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/ico_navpage.png) no-repeat scroll 50% 50% / auto padding-box border-box",
+      "id": 18
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "53",
+          "g": "53",
+          "b": "53"
+        }
+      },
+      "width": 1280,
+      "height": 601,
+      "top": 0,
+      "left": 0,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 19
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "53",
+          "g": "53",
+          "b": "53"
+        }
+      },
+      "width": 1280,
+      "height": 87,
+      "top": 354,
+      "left": 0,
+      "fontSize": "65",
+      "fontWeight": "normal",
+      "innerHTML": "NOVARESE",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 20
+    },
+    {
+      "color": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+      },
+      "background": {
+        "type": "color",
+        "image": "",
+        "color": {
+          "r": "53",
+          "g": "53",
+          "b": "53"
+        }
+      },
+      "width": 1280,
+      "height": 20,
+      "top": 441,
+      "left": 0,
+      "fontSize": "20",
+      "fontWeight": "normal",
+      "innerHTML": "感動の質を高めつづける。私たちは、ノバレーゼです。",
+      "colorString": "rgb(255, 255, 255)",
+      "backgroundString": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 21
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/btn_videoPlay_over.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 64,
+      "height": 64,
+      "top": 482,
+      "left": 608,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "video play",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/btn_videoPlay_over.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 22
+    },
+    {
+      "color": {
+        "r": "102",
+        "g": "102",
+        "b": "102"
+      },
+      "background": {
+        "type": "image",
+        "image": "url(http://www.novarese.co.jp/img/btn_videoPlay.png)",
+        "color": {
+          "r": "-1",
+          "g": "-1",
+          "b": "-1"
+        }
+      },
+      "width": 64,
+      "height": 64,
+      "top": 482,
+      "left": 608,
+      "fontSize": "12",
+      "fontWeight": "normal",
+      "innerHTML": "video play",
+      "colorString": "rgb(102, 102, 102)",
+      "backgroundString": "rgba(0, 0, 0, 0) url(http://www.novarese.co.jp/img/btn_videoPlay.png) no-repeat scroll 0% 0% / auto padding-box border-box",
+      "id": 23
+    }
+  ]
+]

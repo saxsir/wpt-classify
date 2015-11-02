@@ -2,12 +2,8 @@
   'use strict';
 
   var _ = require('underscore');
-
   var DOMSegmentater = require('./DOMSegmentater'),
-    Analyzer = require('./Analyzer'),
-    segmentater = new DOMSegmentater(),
-    analyzer = new Analyzer();
-
+      segmentater = new DOMSegmentater();
   window.segmentater = segmentater;
 
   // Dividing DOM
@@ -16,9 +12,10 @@
 
   // Getting layout informations
   var bodyLayoutData = segmentater.getLayoutData([document.body])[0];
-  var nodeLayoutData = segmentater.getLayoutData(minimumBlocks);
   window.bodyLayoutData = bodyLayoutData;
 
+  var nodeLayoutData = segmentater.getLayoutData(minimumBlocks);
+  // z-index問題対応
   nodeLayoutData = _.chain(nodeLayoutData).groupBy(function(node) {
     return JSON.stringify([
         node.top, node.left, node.width, node.height
@@ -31,19 +28,4 @@
   // Checking the dividing result on browser
   // segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
   segmentater.displayBorderMinimumBlocks(bodyLayoutData, nodeLayoutData);
-
-  // Finding repeated patterns
-  var repeatedPatterns = analyzer.findRepeatedPatterns(nodeLayoutData, bodyLayoutData);
-  window.repeatedPatterns = repeatedPatterns;
-
-  repeatedPatterns.push(nodeLayoutData);
-
-  if (typeof copy === 'function') {
-    copy(repeatedPatterns);
-    console.log('copied!');
-  } else {
-    console.log('##############################');
-    console.log(JSON.stringify(repeatedPatterns));
-  }
-
 }());

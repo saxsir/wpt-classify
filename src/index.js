@@ -26,6 +26,6 @@
   window.nodeLayoutData = nodeLayoutData;
 
   // Checking the dividing result on browser
-  // segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
-  segmentater.displayBorderMinimumBlocks(bodyLayoutData, nodeLayoutData);
+  segmentater.rewriteDOM(bodyLayoutData, nodeLayoutData);
+  // segmentater.displayBorderMinimumBlocks(bodyLayoutData, nodeLayoutData);
 }());

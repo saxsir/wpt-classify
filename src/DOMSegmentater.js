@@ -458,7 +458,8 @@
       fontWeight: style.fontWeight,
       innerHTML: text,
       colorString: style.color,
-      backgroundString: style.background
+      backgroundString: style.background,
+      bgColor: bgColor
     };
   }
 
